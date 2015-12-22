@@ -1,2 +1,22 @@
-# website
-Contains files and scripts that belong to my personal website. The most challenging part is the "News" blog-like section, which we still have to discuss.
+# A Website for Sol
+
+## Setup
+
+Use conda to recreate the environment
+```
+conda env create -f conda_environment.yml
+```
+
+## Firing up the server for deverlopment
+
+There are two things we need to start developing with this server.
+First, we need to make sure our changes are tracked in real time. This can be achieved
+with the following command:
+```
+fab regenerate
+```
+
+Then we need to start up the server itself:
+```
+python -m http.server
+```
