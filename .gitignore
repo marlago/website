@@ -1,0 +1,10 @@
+# Ignore the contents of the output directory so as not to check in
+# compiled html files by mistake
+output/**
+
+# Ignore .pid files
+*.pid
+
+# Ignore common python files
+__pycache__
+*.py[co]
