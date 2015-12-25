@@ -41,9 +41,8 @@
         </h1>
         <nav id="nav">
             <ul>
-                <!-- <li class="current"><a href="index.html">Welcome</a></li> -->
                 {% if DISPLAY_PAGES_ON_MENU %}
-                    {% for page in PAGES %}
+                    {% for page in PAGES|rejectattr("title", "equalto", "Homepage") %}
                         <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
                     {% endfor %}
                 {% endif %}
@@ -51,7 +50,7 @@
                     <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
                 <li class="submenu">
-                    <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">Blog</a>
+                    <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">Experiments</a>
                     <ul>
                         {% for cat, null in categories %}
                             {% if cat != 'blog' %}
