@@ -49,7 +49,10 @@
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
-                <li class="submenu">
+                <li>
+                    <a href="{{ SITEURL }}/category/experiments/">Experiments</a>
+                </li>
+                <!-- <li class="submenu">
                     <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">Experiments</a>
                     <ul>
                         {% for cat, null in categories %}
@@ -60,7 +63,7 @@
                             {% endif %}
                         {% endfor %}
                     </ul>
-                </li>
+                </li> -->
                 <!-- <li><a href="#" class="button special">Sign Up</a></li> -->
             </ul>
         </nav>
