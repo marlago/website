@@ -6,8 +6,8 @@ Template: homepage
 
 This is the "about" text. To get you started I pasted from the old site.
 
-
-
+<!-- This is an example of how to embed images into pages. -->
+<img src="/images/sol_picture.jpg" class="wrapped-right">
 I work at the Potsdam Research Institute for Multilingualism (PRIM),
 where I conduct psycho- and neurolinguistic studies to examine how
 bilingual speakers process syntax during sentence comprehension.

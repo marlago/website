@@ -43,6 +43,7 @@ DEFAULT_PAGINATION = False
 # http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files
 STATIC_PATHS = [
                 'pubs',
+                'images',
                 'css',
                 'js'
                 ]
