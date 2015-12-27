@@ -272,13 +272,13 @@
 				display: block;
 				width: 100%;
 			}
-/**
- * Customization by Ilia to improve how images wrapped in text are displayed
- */
-img.wrapped-right {
-	float: left;
-	margin: 1em 3em 1em 0em;
-}
+
+/* Customization by Ilia to improve how images wrapped in text are displayed */
+
+	img.wrapped-right {
+		float: left;
+		margin: 1em 3em 1em 0em;
+	}
 
 /* Icon */
 
