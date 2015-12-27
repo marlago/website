@@ -20,8 +20,6 @@
       <!-- Content -->
         <div class="content">
           <section>
-            <!-- <a href="#" class="image feature"><img src="images/pic04.jpg" alt="" /></a> -->
-            <h3>Posted in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></h3>
             <p class="tags">
             {% if article.tags %}
               {% for tag in article.tags %}
@@ -33,10 +31,6 @@
         </div>
 
     </section>
-
-    <!-- Two -->
-    {% include 'most_recent.html' %}
-
   </article>
 
 {% if DISQUS_SITENAME %}

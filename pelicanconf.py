@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Sol Lago'
 SITENAME = u'Sol Lago'
-SITEURL = ''
+# For local development this makes all the links to the homepage work.
+# This value needs to be set to production URL in publishconf.py
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -41,12 +43,16 @@ DEFAULT_PAGINATION = False
 # http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files
 STATIC_PATHS = [
                 'pubs',
+                'images',
                 'css',
                 'js'
                 ]
 
 THEME = "themes/twenty"
 # THEME = "simple"
+
+CATEGORY_URL = "category/{slug}/"
+CATEGORY_SAVE_AS = "category/{slug}/index.html"
 
 
 def sidebar(value):

@@ -1,0 +1,8 @@
+{% extends "page.html" %}
+
+{% block content %}
+    {{ super() }}
+    {% if articles|length > 0 %}
+        {% include 'most_recent.html' %}
+    {% endif %}
+{% endblock content %}
