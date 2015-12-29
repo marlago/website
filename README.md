@@ -74,8 +74,7 @@ fab regenerate
 Last but not least, we need to start up a basic web server that will make our
 files accessible to web browsers like Firefox and Google Chrome.
 
-First, open a a new terminal tab or window (but still in the root of this project). After activating the environment again, 
-run the following command:
+First, open a a new terminal tab or window (but still in the root of this project). After activating the website environment again in the next tab, run the following command:
 
 ```sh
 fab serve
