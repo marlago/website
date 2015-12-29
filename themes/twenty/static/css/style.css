@@ -758,7 +758,8 @@
 		background-size: 25em, 25em, auto, cover;
 		color: white;
 		cursor: default;
-		padding: 6em 0;
+		/*padding: 6em 0;*/
+		padding: 3em 0 1em 0;
 		text-align: center;
 	}
 
@@ -773,7 +774,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			/*background: rgba(52, 27, 43, 0.5);*/
 			color: white;
 			display: inline-block;
 			opacity: 0;
