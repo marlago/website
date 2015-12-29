@@ -42,7 +42,7 @@
         <nav id="nav">
             <ul>
                 {% if DISPLAY_PAGES_ON_MENU %}
-                    {% for page in PAGES|rejectattr("title", "equalto", "Homepage") %}
+                    {% for page in PAGES|rejectattr("no_nav") %}
                         <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
                     {% endfor %}
                 {% endif %}

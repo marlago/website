@@ -1,17 +1,28 @@
-Title: Homepage
+Title: Home
 URL:
 save_as: index.html
 Template: homepage
+no_nav: true
 <!-- The key:value pairs above ensure this gets saved as the homepage -->
 
-This is the "about" text. To get you started I pasted from the old site.
-
 <!-- This is an example of how to embed images into pages. -->
-<img src="/images/sol_picture.jpg" class="wrapped-right">
-I work at the Potsdam Research Institute for Multilingualism (PRIM),
-where I conduct psycho- and neurolinguistic studies to examine how
-bilingual speakers process syntax during sentence comprehension.
+<img src="/images/AboutPic.jpg" class="wrapped-right">
+
+### About
+I  do  research  on  human  language.  My  goal  is  to
+understand  how  people  are  able  to  integrate  current
+and  past  information  when  reading  sentences.  How
+do  we  achieve  this  feat  so  quickly  and  effortlessly?
+And how is our comprehension shaped by our native
+language?
+My  works  uses  neurophysiological  (ERP,  MEG),  eye-
+tracking and cross-linguistic evidence with the goal of
+building  a  cognitive  model  of  the  representations  and
+processes that underlie rea-time language
+comprehension.
 
 
-I did my Ph.D. in Linguistics at the University of Maryland, under Colin Phillips and Ellen Lau.
-As an undergraduate, I studied at the University of Buenos Aires in Argentina.
+### Background
+2014 Postdoctoral researcher, University of Potsdam
+2014 Ph.D. Linguistics, University of Maryland
+2009 B.A. Linguistics, University of Buenos Aires
