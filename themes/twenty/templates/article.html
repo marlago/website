@@ -29,9 +29,12 @@
             <p>{{ article.content }}</p>
           </section>
         </div>
-
     </section>
-  </article>
+</article>
+<!-- This is just an idea: add a link back to the experiments page at bottom of article? -->
+<section class="special">
+  <a href="/{{ category.url }}" class="button special">Back to {{ category|capitalize }}</a>
+</section>
 
 {% if DISQUS_SITENAME %}
   <div id="comments">

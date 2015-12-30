@@ -1,6 +1,29 @@
-{% extends "page.html" %}
+{% extends "base.html" %}
+{% from '_personal_info.html' import render_personal %}
+
+{% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
+<!-- Main -->
+<article id="main">
+
+  <section class="wrapper style4 container">
+    <div class="row">
+      <div class="4u">
+        {{ render_personal(page.contact_info) }}
+      </div>
+
+    <!-- Content -->
+      <div class="content 8u">
+        <section>
+          <p>{{ page.content }}</p>
+        </section>
+      </div>
+    </div>
+
+  </section>
+
+</article>
     {{ super() }}
     {% if articles|length > 0 %}
         {% include 'most_recent.html' %}

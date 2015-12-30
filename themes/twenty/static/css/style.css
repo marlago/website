@@ -10,7 +10,7 @@
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		background: #f7f5f0;
 	}
 
 	body.loading * {
@@ -272,13 +272,6 @@
 				display: block;
 				width: 100%;
 			}
-/**
- * Customization by Ilia to improve how images wrapped in text are displayed
- */
-img.wrapped-right {
-	float: left;
-	margin: 1em 3em 1em 0em;
-}
 
 /* Icon */
 
@@ -765,7 +758,8 @@ img.wrapped-right {
 		background-size: 25em, 25em, auto, cover;
 		color: white;
 		cursor: default;
-		padding: 6em 0;
+		/*padding: 6em 0;*/
+		padding: 3em 0 1em 0;
 		text-align: center;
 	}
 
@@ -780,7 +774,7 @@ img.wrapped-right {
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			/*background: rgba(52, 27, 43, 0.5);*/
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -1067,4 +1061,23 @@ img.wrapped-right {
 		color: #f8f8f2;
 		padding: 20px;
 		/*border-radius: 15px;*/
+	}
+
+
+/* Customizations by Ilia */
+
+	/* Adds image wrapped in text */
+	img.wrapped-right {
+		float: left;
+		margin: 1em 3em 1em 0em;
+	}
+
+	/**
+	 * Display of personal fields:
+	 * - smaller margins between fields than regular paragraphs
+	 * - make each field container fit its contents by setting overflow
+	 */
+	.personal-field {
+		margin: 0em 0em 1em 0em;
+		overflow: auto;
 	}

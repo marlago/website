@@ -1,0 +1,29 @@
+{% macro render_personal(contact_info) %}
+
+    <div class="personal-field">
+    <img src="{{ contact_info.picture_src }}" class="wrapped-right">
+    </div>
+    <div class="personal-field">
+        {{ contact_info.job_title }}
+    </div>
+    <div class="personal-field">
+        {{ list_to_lines(contact_info.employer) }}
+    </div>
+    <div class="personal-field">
+        [<a href="/pubs/SLago_CV.pdf">CV</a>]
+    </div>
+    <div class="personal-field">
+        Email: {{ contact_info.email }}
+    </div>
+    <div class="personal-field">
+        {{ list_to_lines(contact_info.address) }}
+    </div>
+{% endmacro %}
+
+
+{% macro list_to_lines(some_list) %}
+    <!-- <p> -->
+        {{ some_list|join('<br>') }}
+    <!-- </p> -->
+{% endmacro %}
+

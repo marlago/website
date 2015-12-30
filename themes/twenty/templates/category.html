@@ -3,30 +3,27 @@
 {% block title %}{{ category|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
-<!-- Main -->
-<article id="main">
-
-  <header class="special container">
-    <!-- add page sub title here -->
-    <p>Here you will find information on the most recent experiments.</p>
-  </header>
-
-    <!-- One -->
-    <section class="wrapper style4 container">
-
-        <div class="row oneandahalf">
-            <div class="content">
-            {% for article in articles %}
-                <section>
+    <!-- Main -->
+    <article id="main">
+        <section class="wrapper style4 container">
+            <div class="row oneandahalf">
+                <div class="content 8u">
+                    {% set active_article = articles|last %}
+                    <section>
+                        <header>
+                            <a href="{{ SITEURL }}/{{ active_article.url }}"><h3>{{ active_article.title }}</h3></a>
+                        </header>
+                        <p>{{ active_article.content }}</p>
+                    </section>
+                </div>
+                <div class="4u">
                     <header>
-                        <a href="{{ SITEURL }}/{{ article.url }}"><h3>{{ article.title }}</h3></a>
+                        <h3>Other Recent Experiments</h3>
                     </header>
-                    <p>{{ article.summary|striptags }}</p>
-                </section>
-            {% endfor %}
+                    {% include 'sidebar.html' %}
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-</article>
+    </article>
 {% endblock content %}

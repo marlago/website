@@ -1,5 +1,6 @@
+---
 Title: Research
-
+---
 
 Understanding language requires the continuous integration of current and past information. How do speakers achieve this feat in such a quick and efficient way? And how are these processes shaped by speakers’ native language? I address these questions by examining how language interacts with memory in the processing of linguistic dependencies such as pronouns and verbal agreement. My works uses neurophysiological (ERP, MEG), behavioral (self-paced reading, eye-tracking) and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language comprehension.
 

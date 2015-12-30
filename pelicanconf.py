@@ -49,20 +49,23 @@ STATIC_PATHS = [
                 ]
 
 THEME = "themes/twenty"
-# THEME = "simple"
 
 CATEGORY_URL = "category/{slug}/"
 CATEGORY_SAVE_AS = "category/{slug}/index.html"
 
+# Added plugin
+PLUGIN_PATHS = ["../pelican_plugins", ]
+PLUGINS = ["pelican-md-metayaml", ]
+
 
 def sidebar(value):
-  if value.startswith('archives') or value.startswith('category'):
-    return 'right-sidebar'
-  elif value == 'index':
-    return 'index'
-  else:
-    return 'no-sidebar'
+    if value.startswith('archives') or value.startswith('category'):
+        return 'right-sidebar'
+    elif value == 'index':
+        return 'index'
+    else:
+        return 'no-sidebar'
 
 JINJA_FILTERS = {
-    'sidebar' : sidebar
+    'sidebar': sidebar
 }

@@ -1,5 +1,6 @@
+---
 Title: Teaching
-
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec semper venenatis lectus sit amet egestas. Integer eget enim nec justo ornare hendrerit. Duis suscipit mauris ac arcu feugiat facilisis. Maecenas pellentesque lacus interdum, pharetra sem sit amet, pretium risus. Maecenas pharetra orci sed dolor porttitor, eget dignissim velit blandit. Proin nec tincidunt orci, sit amet sollicitudin metus. Nulla blandit dui non mi ultricies, non auctor ex hendrerit. Nulla sed placerat ipsum. Vestibulum vel pharetra nisi. Morbi dictum at ipsum sed maximus. Pellentesque tincidunt nulla cursus, tincidunt tellus sed, aliquet nibh. Mauris ullamcorper ultricies ipsum vel mollis.
 

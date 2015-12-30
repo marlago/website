@@ -1,8 +1,12 @@
 {% extends "base.html" %}
+{% from 'banner.html' import render_banner %}
 
 {% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
+
+{{ render_banner(page) }}
+
 <!-- Main -->
 <article id="main">
 
@@ -12,7 +16,7 @@
     <!-- Content -->
       <div class="content">
         <section>
-          <p>{{ page.content }}</p>
+          {{ page.content }}
         </section>
       </div>
 
