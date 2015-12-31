@@ -1072,6 +1072,10 @@
 		margin: 1em 3em 1em 0em;
 	}
 
+	.justified-text {
+		text-align: justify;
+	}
+
 	/**
 	 * Display of personal fields:
 	 * - smaller margins between fields than regular paragraphs
@@ -1086,7 +1090,35 @@
 		overflow: hidden;
 	}
 
+	/* Logo and main tweaks */
+	#header .logo {
+		font-size: 120%;
 	}
+
+	#main {
+		padding: 4em 0;
+	}
+
+	/* Redefining colors */
+	a {
+		color: #2771B5;
+	}
+
+	#footer {
+		background: #645862;
+		color: #ffffff;
+	}
+
+	.button.special {
+		background: #128aef;
+		border-color: #128aef;
+		color: white !important;
+	}
+
+		.button.special:hover {
+			background: #32a1ff !important;
+			border-color: #32a1ff !important;
+		}
 
 	#banner.research {
 		background-color: #7a52ac;
@@ -1095,6 +1127,15 @@
 	#banner.teaching {
 		background-color: #73ac52;
 		background-image: none;
+	}
+
+	.content h1,
+	.content h2,
+	.content h3,
+	.content h4,
+	.content h5,
+	.content h6 {
+		color: 0f4577;
 	}
 
 	/* Recent article styles */
