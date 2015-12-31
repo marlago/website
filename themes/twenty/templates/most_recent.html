@@ -1,17 +1,18 @@
-    <section class="wrapper style1 container special">
+  {% macro render_articles(title, articles) %}
+    <section>
     <header>
-      <h2>Most Recent Experiments</h2>
+      <h2>{{ title }}</h2>
     </header>
-        <div class="row">
+        <!-- <div class="row"> -->
           {% for article in articles[:3] %}
-          <div class="4u">
+          <!-- <div class="4u"> -->
 
-            <section>
-              <span class="icon feature fa-{{ article.icon }}"></span>
+            <section class="recent-article">
+              <!-- <span class="icon feature fa-{{ article.icon }}"></span> -->
               <header>
                 <a href="{{ SITEURL }}/{{ article.url }}" rel='bookmark'><h3>{{ article.title }}</h3></a>
               </header>
-              <p>{{ article.content[:196]|striptags }}</p>
+              {{ article.content[:196]|striptags }}
               <footer>
                   <ul class="buttons">
                       <li><a href="{{ SITEURL }}/{{ article.url }}" class="button small">Read More</a></li>
@@ -19,7 +20,8 @@
               </footer>
             </section>
 
-          </div>
+          <!-- </div> -->
           {% endfor %}
-        </div>
+        <!-- </div> -->
     </section>
+{% endmacro %}

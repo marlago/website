@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% from '_personal_info.html' import render_personal %}
+{% import 'most_recent.html' as recent %}
 
 {% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
 
@@ -9,14 +10,14 @@
 
   <section class="wrapper style4 container">
     <div class="row">
-      <div class="4u">
+      <div class="4u personal-info justified-text">
         {{ render_personal(page.contact_info) }}
       </div>
 
     <!-- Content -->
-      <div class="content 8u">
+      <div class="content 8u justified-text">
         <section>
-          <p>{{ page.content }}</p>
+          {{ page.content }}
         </section>
       </div>
     </div>
@@ -24,8 +25,34 @@
   </section>
 
 </article>
-    {{ super() }}
-    {% if articles|length > 0 %}
-        {% include 'most_recent.html' %}
-    {% endif %}
+  {% set articles_by_categories = dict(categories) %}
+  {% set news = articles_by_categories['news'] %}
+  {% set experiments = articles_by_categories['experiments'] %}
+  {% if experiments|length > 0 %}
+    <section class="wrapper style1 container special">
+      <div class="row">
+        {% if news|length > 0 %}
+            <div class="6u">
+              {{ recent.render_articles("News", news) }}
+            </div>
+            <div class="6u">
+              {{ recent.render_articles("Recent Experiments", experiments) }}
+            </div>
+        {% else %}
+            <div class="6u -3u">
+              {{ recent.render_articles("Recent Experiments", experiments) }}
+            </div>
+        {% endif %}
+      </div>
+    </section>
+  {% elif news|length > 0 %}
+    <section class="wrapper style1 container special">
+      <div class="row">
+        <div class="6u -3u">
+          {{ recent.render_articles("News", news) }}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
 {% endblock content %}

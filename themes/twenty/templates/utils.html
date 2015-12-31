@@ -1,0 +1,7 @@
+
+{% macro link_new_tab(url, text=None) %}
+  {% if text is none %}
+    {% set text = url %}
+  {% endif %}
+  <a href="{{ url }}" target="_blank">{{ text }}</a>
+{% endmacro %}

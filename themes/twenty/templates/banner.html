@@ -1,6 +1,6 @@
 {% macro render_banner(page) %}
 <!-- Banner -->
-<section id="banner">
+<section id="banner" class="{{ page.title|striptags|lower }}">
 
   <!--
     ".inner" is set up as an inline-block so it automatically expands

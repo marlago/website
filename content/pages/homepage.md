@@ -6,10 +6,12 @@ Template: homepage
 no_nav: true
 contact_info:
   picture_src: /images/AboutPic.jpg
-  job_title: Postdoctoral researcher
-  employer: 
-    - PRIM 
-    - Universität Potsdam
+  job_title: Postdoctoral Researcher
+  employer:
+    name: PRIM
+    URL: http://www.uni-potsdam.de/prim/
+    additional_info:
+      - Universität Potsdam
   cv: /pubs/SLago_CV.pdf
   email: marlago [at] uni-potsdam [dot] de
   address:
@@ -19,8 +21,6 @@ contact_info:
     - 14476 Potsdam
     - Germany
 ---
-<!-- The key:value pairs above ensure this gets saved as the homepage -->
-
 
 ### About
 I  do  research  on  human  language.  My  goal  is  to
