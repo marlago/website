@@ -1,3 +1,4 @@
+{% from "utils.html" import link_new_tab %}
 {% macro render_personal(contact_info) %}
 
     <div class="personal-field">
@@ -7,13 +8,14 @@
         {{ contact_info.job_title }}
     </div>
     <div class="personal-field">
-        {{ list_to_lines(contact_info.employer) }}
+        {{ link_new_tab(contact_info.employer.URL, contact_info.employer.name) }}
+        <br>
+        {{ list_to_lines(contact_info.employer.additional_info) }}
     </div>
     <div class="personal-field">
-        [<a href="/pubs/SLago_CV.pdf">CV</a>]
-    </div>
-    <div class="personal-field">
-        Email: {{ contact_info.email }}
+        {{ link_new_tab(contact_info.cv, "CV") }}
+        <br>
+        {{ contact_info.email }}
     </div>
     <div class="personal-field">
         {{ list_to_lines(contact_info.address) }}
@@ -22,8 +24,5 @@
 
 
 {% macro list_to_lines(some_list) %}
-    <!-- <p> -->
         {{ some_list|join('<br>') }}
-    <!-- </p> -->
 {% endmacro %}
-

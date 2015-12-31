@@ -1077,7 +1077,13 @@
 	 * - smaller margins between fields than regular paragraphs
 	 * - make each field container fit its contents by setting overflow
 	 */
+	.personal-info {
+		font-size: initial;
+		line-height: initial;
+	}
 	.personal-field {
-		margin: 0em 0em 1em 0em;
-		overflow: auto;
+		margin-bottom: 1em;
+		overflow: hidden;
+	}
+
 	}
