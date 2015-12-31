@@ -29,12 +29,17 @@
             <p>{{ article.content }}</p>
           </section>
         </div>
+        {% if category == "experiments" %}
+          <section class="special">
+            <a href="/{{ category.url }}" class="button special">Back to {{ category|capitalize }}</a>
+          </section>
+        {% endif %}
     </section>
-</article>
 <!-- This is just an idea: add a link back to the experiments page at bottom of article? -->
-<section class="special">
-  <a href="/{{ category.url }}" class="button special">Back to {{ category|capitalize }}</a>
-</section>
+
+
+
+</article>
 
 {% if DISQUS_SITENAME %}
   <div id="comments">

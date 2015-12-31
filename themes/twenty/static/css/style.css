@@ -1087,3 +1087,11 @@
 	}
 
 	}
+	/* Recent article styles */
+	.recent-article {
+		margin: 2em 0;
+	}
+
+	.recent-article footer {
+		margin-top: 1em;
+	}
