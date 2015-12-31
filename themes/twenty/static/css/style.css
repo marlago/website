@@ -1087,6 +1087,16 @@
 	}
 
 	}
+
+	#banner.research {
+		background-color: #7a52ac;
+		background-image: none;
+	}
+	#banner.teaching {
+		background-color: #73ac52;
+		background-image: none;
+	}
+
 	/* Recent article styles */
 	.recent-article {
 		margin: 2em 0;
