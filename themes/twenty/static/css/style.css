@@ -1146,3 +1146,21 @@
 	.recent-article footer {
 		margin-top: 1em;
 	}
+
+	/* Styling for sections where lists are grouped by year */
+	.groupby-year.section {
+		display: table;
+		border-spacing: 0 1em;
+	}
+
+	.year-group.section {
+		display: table-row;
+	}
+
+	.year-group.section h3 {
+		display: table-cell;
+	}
+
+	ul.year-list {
+		display: table-cell;
+	}
