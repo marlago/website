@@ -56,6 +56,7 @@
 
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
+		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -759,7 +760,8 @@
 		color: white;
 		cursor: default;
 		/*padding: 6em 0;*/
-		padding: 3em 0 1em 0;
+		/* Changed by Ilia */
+		padding-top: 4.5em;
 		text-align: center;
 	}
 
@@ -786,7 +788,6 @@
 				display: inline-block;
 				border-bottom: solid 2px;
 				border-top: solid 2px;
-				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
 
@@ -1072,9 +1073,6 @@
 		margin: 1em 3em 1em 0em;
 	}
 
-	.justified-text {
-		text-align: justify;
-	}
 
 	/**
 	 * Display of personal fields:
@@ -1162,8 +1160,7 @@
 
 	/* Styling for sections where lists are grouped by year */
 	.groupby-year.section {
-		display: table;
-		border-spacing: 0 1em;
+		border-collape: collapse;
 	}
 
 	.year-group.section {
@@ -1172,8 +1169,10 @@
 
 	.year-group.section h3 {
 		display: table-cell;
+		padding-right: 4em;
 	}
 
 	ul.year-list {
 		display: table-cell;
+		padding-bottom: 1em;
 	}
