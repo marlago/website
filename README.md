@@ -63,12 +63,18 @@ fab build
 There are several things we need to start developing with this server.
 First, we need the conda environment to be activated and the site
 has to be built (see above).
-Then we need to make sure our changes are tracked in real time and our updates
-to the site can be seen simply by reloading it.
-This can be achieved with the following command:
+
+If a pull request has been recently merged on the github website, the files on the local computer should be updated first by doing:
 
 ```sh
-fab regenerate
+git pull origin master
+```
+
+Then we need to make sure our changes are tracked in real time and our updates
+to the site can be seen simply by reloading it. This can be achieved with the following command:
+
+```sh
+fab rebuild && fab regenerate
 ```
 
 Last but not least, we need to start up a basic web server that will make our
