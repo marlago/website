@@ -1176,3 +1176,6 @@
 		display: table-cell;
 		padding-bottom: 1em;
 	}
+	.year-list li {
+		margin-bottom: .5em;
+	}
