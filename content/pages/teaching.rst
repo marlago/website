@@ -1,6 +1,21 @@
 Teaching
 #########
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec semper venenatis lectus sit amet egestas. Integer eget enim nec justo ornare hendrerit. Duis suscipit mauris ac arcu feugiat facilisis. Maecenas pellentesque lacus interdum, pharetra sem sit amet, pretium risus. Maecenas pharetra orci sed dolor porttitor, eget dignissim velit blandit. Proin nec tincidunt orci, sit amet sollicitudin metus. Nulla blandit dui non mi ultricies, non auctor ex hendrerit. Nulla sed placerat ipsum. Vestibulum vel pharetra nisi. Morbi dictum at ipsum sed maximus. Pellentesque tincidunt nulla cursus, tincidunt tellus sed, aliquet nibh. Mauris ullamcorper ultricies ipsum vel mollis.
 
-Nunc bibendum dui augue, sit amet bibendum diam luctus sed. Morbi sodales ante quis fringilla rhoncus. Fusce ultrices ac mi vel viverra. Ut ipsum urna, vestibulum at faucibus nec, vulputate et libero. Pellentesque ornare dolor non mauris dignissim venenatis. Mauris lacinia, augue ut efficitur vestibulum, velit lectus maximus tortor, sit amet vestibulum erat est a est. Phasellus ultrices eleifend ipsum. Aenean tellus ligula, tincidunt id dolor vitae, faucibus mattis nisi. In vestibulum nec sapien a volutpat. Sed sit amet faucibus purus. Sed fringilla lacinia facilisis. Maecenas nec egestas nunc, egestas lacinia neque. Cras in gravida augue.
+Courses
+=======
+
+.. class :: year-group
+
+2014
+----
+
+.. class:: year-list
+
+- **Psycholinguistics Seminar “Memory & Language Processing”**
+
+ 
+
+
+
+
