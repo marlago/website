@@ -12,7 +12,7 @@ contact_info:
     URL: http://www.uni-potsdam.de/prim/
     additional_info:
       - Universität Potsdam
-  cv: /pubs/SLago_CV.pdf
+  CV: /pubs/SLago_CV.pdf
   email: marlago [at] uni-potsdam [dot] de
   address:
     - Campus Golm
@@ -23,17 +23,8 @@ contact_info:
 ---
 
 ### About
-I  do  research  on  human  language.  My  goal  is  to
-understand  how  people  integrate  current
-and  past  information in real time  when  reading  sentences.  How
-do  we  achieve  this  feat  so  quickly  and  effortlessly?
-And how is our comprehension shaped by our native
-language?
-My  work  uses  neurophysiological  (ERP,  MEG),  eye-
-tracking and cross-linguistic evidence with the goal of
-building  a  cognitive  model  of  the  representations  and
-processes that underlie rea-time language
-comprehension.
+I study human language. My goal is to understand how people are able to integrate current and past information when reading sentences. How do we achieve this feat so quickly and effortlessly? And does our native language shape our comprehension? My works uses neurophysiological (ERP, MEG), eye-tracking and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language comprehension.
+
 
 
 ### Background
