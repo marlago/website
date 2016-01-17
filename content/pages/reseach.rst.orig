@@ -7,8 +7,21 @@ Publications
 
 .. class:: default
 
+<<<<<<< HEAD
 - Chow*, W.Y., Lago*, S., Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. PLoS ONE, 9,6, 1–11. `link <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`_
 - Update to unpublished manuscript "Distributional Effects of Frequency in Pronoun Processing" `Update.pdf <{filename}/pubs/Update.pdf>`_
+=======
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages. 
+
+- 
+
+- Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. PLoS ONE, 9,6, 1–11. [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199)
+
+
+
+
+- Update to unpublished manuscript "Distributional Effects of Frequency in Pronoun Processing" [Update.pdf]({filename}/pubs/Update.pdf)
+>>>>>>> 89039d71f9ab94e649f923c6773924cb8454d692
 
 
 .. class :: groupby-year
