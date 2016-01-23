@@ -1183,3 +1183,8 @@
 	em {
 		font-style: italic;
 	}
+
+	.about-text {
+		background-color: white;
+		padding: 2em 4em 1em 4em;
+	}

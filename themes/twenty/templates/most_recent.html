@@ -14,9 +14,9 @@
               </header>
               {{ article.content[:196]|striptags }}
               <footer>
-                  <ul class="buttons">
-                      <li><a href="{{ SITEURL }}/{{ article.url }}" class="button small">Read More</a></li>
-                  </ul>
+                <div class="special">
+                  <a href="{{ SITEURL }}/{{ article.url }}" class="button small">Read More</a>
+                </div>
               </footer>
             </section>
 
