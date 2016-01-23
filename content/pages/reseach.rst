@@ -7,9 +7,9 @@ Publications
 
 .. class:: default
 
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages. 
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages.
 
-- Marijuan, S., **Lago, S.**, & Sanz C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. 
+- Marijuan, S., **Lago, S.**, & Sanz C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press.
 
 - **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2015). Agreement attraction in Spanish comprehension. *Journal of Memory and Language*, 82, 133–149. `[pdf] <{filename}/pubs/Lago_etal_SpanishAgreement_2015.pdf>`__
 
@@ -19,11 +19,10 @@ Publications
 
 - Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. PLoS ONE, 9,6, 1–11. `[link] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`__
 
-- Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83. 
+- Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83.
 
 
 .. class :: groupby-year
-
 
 Conferences
 ===========
@@ -35,7 +34,7 @@ Conferences
 
 .. class:: year-list
 
-- Stutter, A., **Lago, S.**, & Felser, C. (2016). Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3. 
+- Stutter, A., **Lago, S.**, & Felser, C. (2016). Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
 
 - **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors:evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
 
@@ -107,7 +106,7 @@ Conferences
 
 - **Lago, S.**, Alcocer, P., & Phillips, C. (2011). Agreement attraction in Spanish: Immediate vs. Delayed sensitivity. Poster at CUNY, Stanford, California, March 24–26.
 
-- **Lago, S.**, Chow, W.Y., & Phillips, C. (2011). Word frequency affects pronouns and antecedents identically: Distributional Evidence. Talk at CUNY, Stanford, California, March 24–26. 
+- **Lago, S.**, Chow, W.Y., & Phillips, C. (2011). Word frequency affects pronouns and antecedents identically: Distributional Evidence. Talk at CUNY, Stanford, California, March 24–26.
 
 
 .. class :: year-group
@@ -117,7 +116,7 @@ Conferences
 
 .. class:: year-list
 
-- **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. (2010). Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12. 
+- **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. (2010). Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12.
 
 
 .. class :: groupby-year

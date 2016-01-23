@@ -55,7 +55,6 @@
 	}
 
 	p, ul, ol, dl, table, blockquote {
-		margin: 0 0 2em 0;
 		text-align: justify;
 	}
 
@@ -1188,4 +1187,7 @@
 	.about-text {
 		background-color: white;
 		padding: 2em 4em 1em 4em;
+	}
+	.about-text p {
+		margin-bottom: 2em;
 	}
