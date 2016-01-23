@@ -8,7 +8,7 @@
 <!-- Main -->
 <article id="main">
 
-  <section class="wrapper style4 container">
+  <section class="wrapper style1 container">
     <div class="row">
       <div class="4u personal-info justified-text">
         {{ render_personal(page.contact_info) }}
@@ -16,43 +16,43 @@
 
     <!-- Content -->
       <div class="content 8u">
-        <section>
+        <section class="about-text">
           {{ page.content }}
         </section>
       </div>
     </div>
 
   </section>
-
 </article>
-  {% set articles_by_categories = dict(categories) %}
-  {% set news = articles_by_categories['news'] %}
-  {% set experiments = articles_by_categories['experiments'] %}
-  {% if experiments|length > 0 %}
-    <section class="wrapper style1 container special">
-      <div class="row">
-        {% if news|length > 0 %}
-            <div class="6u">
-              {{ recent.render_articles("News", news) }}
-            </div>
-            <div class="6u">
-              {{ recent.render_articles("Recent Experiments", experiments) }}
-            </div>
-        {% else %}
-            <div class="6u -3u">
-              {{ recent.render_articles("Recent Experiments", experiments) }}
-            </div>
-        {% endif %}
+
+{% set articles_by_categories = dict(categories) %}
+{% set news = articles_by_categories['news'] %}
+{% set experiments = articles_by_categories['experiments'] %}
+{% if experiments|length > 0 %}
+  <section class="wrapper style1 container special">
+    <div class="row">
+      {% if news|length > 0 %}
+          <div class="6u">
+            {{ recent.render_articles("News", news) }}
+          </div>
+          <div class="6u">
+            {{ recent.render_articles("Recent Experiments", experiments) }}
+          </div>
+      {% else %}
+          <div class="6u -3u">
+            {{ recent.render_articles("Recent Experiments", experiments) }}
+          </div>
+      {% endif %}
+    </div>
+  </section>
+{% elif news|length > 0 %}
+  <section class="wrapper style1 container special">
+    <div class="row">
+      <div class="6u -3u">
+        {{ recent.render_articles("News", news) }}
       </div>
-    </section>
-  {% elif news|length > 0 %}
-    <section class="wrapper style1 container special">
-      <div class="row">
-        <div class="6u -3u">
-          {{ recent.render_articles("News", news) }}
-        </div>
-      </div>
-    </section>
-  {% endif %}
+    </div>
+  </section>
+{% endif %}
 
 {% endblock content %}

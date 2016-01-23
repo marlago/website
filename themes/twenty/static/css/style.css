@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400,900,400italic,300italic");
 
 /*
 	Twenty 1.0 by HTML5 UP
@@ -391,6 +391,7 @@
 
 		ul.default li {
 			padding-left: 0.5em;
+			margin-bottom: 1em;
 		}
 
 	ul.icons {
@@ -780,7 +781,7 @@
 			color: white;
 			display: inline-block;
 			opacity: 0;
-			padding: 3em;
+			padding: 9em 0em;
 			text-align: center;
 		}
 
@@ -1098,7 +1099,7 @@
 		top: 1.5em;
 	}
 
-	#main {
+	#main.after-banner {
 		padding: 4em 0;
 	}
 
@@ -1109,7 +1110,7 @@
 
 	#footer {
 		background: #645862;
-		color: #ffffff;
+		color: white;
 	}
 
 	.button.special {
@@ -1178,4 +1179,13 @@
 	}
 	.year-list li {
 		margin-bottom: .5em;
+	}
+
+	em {
+		font-style: italic;
+	}
+
+	.about-text {
+		background-color: white;
+		padding: 2em 4em 1em 4em;
 	}
