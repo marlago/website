@@ -2,8 +2,12 @@ Teaching
 #########
 
 
+.. class :: groupby-year
+
+
 Courses
 =======
+
 
 .. class :: year-group
 
