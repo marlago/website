@@ -7,6 +7,8 @@ Publications
 
 .. class:: default
 
+- **Lago, S.**, & Felser, C. (*submitted*). Agreement attraction in native and non-native speakers of German.
+
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages.
 
 - Marijuan, S., **Lago, S.**, & Sanz C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press.
