@@ -391,6 +391,7 @@
 
 		ul.default li {
 			padding-left: 0.5em;
+			margin-bottom: 1em;
 		}
 
 	ul.icons {
@@ -780,7 +781,7 @@
 			color: white;
 			display: inline-block;
 			opacity: 0;
-			padding: 3em;
+			padding: 9em 0em;
 			text-align: center;
 		}
 
