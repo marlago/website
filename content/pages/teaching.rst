@@ -13,7 +13,8 @@ Courses
 
 .. class:: year-list
 
-- **Psycholinguistics Seminar “Memory & Language Processing”**
+- 	**Psycholinguistics Seminar “Memory & Language Processing”**
+      Instructor, University of Maryland
 
   Some simple text. No bolding, just some stuff
 
