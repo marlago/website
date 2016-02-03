@@ -826,7 +826,8 @@
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
 		background-size: 25em;
-		padding: 7em 0;
+		padding-top: 7em;
+		padding-bottom: 4em;
 	}
 
 		#main > :last-child {
