@@ -4,42 +4,39 @@
 
 {% block content %}
 <!-- Main -->
-<article id="main">
+  <article id="main">
 
-  <header class="special container">
-    <span class="icon fa-{{ article.icon }}"></span>
-    <h2>{{ article.title }}</h2>
-    <!-- add page sub title here -->
-    <p>Posted on {{ article.locale_date }} by {{ article.author }}</p>
-    <p>{{ article.icon }}</p>
-  </header>
+    <header class="special container">
+      <span class="icon fa-{{ article.icon }}"></span>
+      <h2>{{ article.title }}</h2>
+      <!-- add page sub title here -->
+      <p>Posted on {{ article.locale_date }} by {{ article.author }}</p>
+      <p>{{ article.icon }}</p>
+    </header>
 
-  <!-- One -->
-    <section class="wrapper style4 container">
+    <!-- One -->
+      <section class="wrapper style4 container">
 
-      <!-- Content -->
-        <div class="content">
-          <section>
-            <p class="tags">
-            {% if article.tags %}
-              {% for tag in article.tags %}
-                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-              {% endfor %}
-            {% endif %}</p>
-            <p>{{ article.content }}</p>
-          </section>
-        </div>
-        {% if category == "experiments" %}
-          <section class="special">
-            <a href="/{{ category.url }}" class="button special">Back to {{ category|capitalize }}</a>
-          </section>
-        {% endif %}
-    </section>
-<!-- This is just an idea: add a link back to the experiments page at bottom of article? -->
+        <!-- Content -->
+          <div class="content">
+            <section>
+              <p class="tags">
+              {% if article.tags %}
+                {% for tag in article.tags %}
+                  <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+                {% endfor %}
+              {% endif %}</p>
+              <p>{{ article.content }}</p>
+            </section>
+          </div>
+          {% if category == "experiments" %}
+            <footer class="special button-block">
+              <a href="/{{ category.url }}" class="button large">Back to {{ category|capitalize }}</a>
+            </footer>
+          {% endif %}
+      </section>
 
-
-
-</article>
+  </article>
 
 {% if DISQUS_SITENAME %}
   <div id="comments">
