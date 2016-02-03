@@ -1151,8 +1151,9 @@
 	}
 
 	/* Recent article styles */
-	.recent-article {
-		margin: 2em 0;
+	footer.button-block {
+		text-align: center;
+		margin-top: 2em;
 	}
 
 	.recent-article footer {

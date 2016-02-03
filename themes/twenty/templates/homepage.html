@@ -28,31 +28,22 @@
 {% set articles_by_categories = dict(categories) %}
 {% set news = articles_by_categories['news'] %}
 {% set experiments = articles_by_categories['experiments'] %}
-{% if experiments|length > 0 %}
-  <section class="wrapper style1 container special">
-    <div class="row">
-      {% if news|length > 0 %}
-          <div class="6u">
-            {{ recent.render_articles("News", news) }}
-          </div>
-          <div class="6u">
-            {{ recent.render_articles("Recent Experiments", experiments) }}
-          </div>
-      {% else %}
-          <div class="6u -3u">
-            {{ recent.render_articles("Recent Experiments", experiments) }}
-          </div>
-      {% endif %}
+
+
+<section class="wrapper style1 container special">
+  <div class="row">
+    <div class="6u">
+      {{ recent.render_articles("News", news) }}
     </div>
-  </section>
-{% elif news|length > 0 %}
-  <section class="wrapper style1 container special">
-    <div class="row">
-      <div class="6u -3u">
-        {{ recent.render_articles("News", news) }}
-      </div>
+    <div class="6u">
+      {{ recent.render_articles("Recent Experiments", experiments) }}
+      <footer class="button-block">
+          <div class="special">
+            <a href="{{ SITEURL }}/category/experiments" class="button small">Read More</a>
+          </div>
+        </footer>
     </div>
-  </section>
-{% endif %}
+  </div>
+</section>
 
 {% endblock content %}
