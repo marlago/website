@@ -45,11 +45,11 @@ DEFAULT_PAGINATION = False
 # Enabling serving of static files as recommended here:
 # http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files
 STATIC_PATHS = [
-                'pubs',
-                'images',
-                'css',
-                'js'
-                ]
+    'pubs',
+    'images',
+    'css',
+    'js'
+]
 
 THEME = "themes/twenty"
 
