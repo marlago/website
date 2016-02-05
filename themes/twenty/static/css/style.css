@@ -55,7 +55,6 @@
 	}
 
 	p, ul, ol, dl, table, blockquote {
-		margin: 0 0 2em 0;
 		text-align: justify;
 	}
 
@@ -827,7 +826,8 @@
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
 		background-size: 25em;
-		padding: 7em 0;
+		padding-top: 7em;
+		padding-bottom: 4em;
 	}
 
 		#main > :last-child {
@@ -1151,8 +1151,9 @@
 	}
 
 	/* Recent article styles */
-	.recent-article {
-		margin: 2em 0;
+	footer.button-block {
+		text-align: center;
+		margin-top: 2em;
 	}
 
 	.recent-article footer {
@@ -1188,4 +1189,7 @@
 	.about-text {
 		background-color: white;
 		padding: 2em 4em 1em 4em;
+	}
+	.about-text p {
+		margin-bottom: 2em;
 	}

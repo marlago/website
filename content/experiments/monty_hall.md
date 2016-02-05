@@ -1,6 +1,11 @@
 ---
 Title: Monty Hall
 Date:
+blurb: >
+  This experiment tries to replicate the famous Monty Hall study. 
+  Here be dragons! It's also a demonstration of how to format these blurbs.
+  Notice the ">" next to "blurb :"? That lets you add write text that spans 
+  multiple lines.
 ---
 
 This is just to demo how experiment posts could work.

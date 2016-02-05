@@ -1,27 +1,14 @@
-  {% macro render_articles(title, articles) %}
-    <section>
+{% macro render_articles(title, articles) %}
+  <section>
     <header>
       <h2>{{ title }}</h2>
     </header>
-        <!-- <div class="row"> -->
-          {% for article in articles[:3] %}
-          <!-- <div class="4u"> -->
-
-            <section class="recent-article">
-              <!-- <span class="icon feature fa-{{ article.icon }}"></span> -->
-              <header>
-                <a href="{{ SITEURL }}/{{ article.url }}" rel='bookmark'><h3>{{ article.title }}</h3></a>
-              </header>
-              {{ article.content[:196]|striptags }}
-              <footer>
-                <div class="special">
-                  <a href="{{ SITEURL }}/{{ article.url }}" class="button small">Read More</a>
-                </div>
-              </footer>
-            </section>
-
-          <!-- </div> -->
-          {% endfor %}
-        <!-- </div> -->
-    </section>
+    <ul class="default">
+      {% for article in articles[:3] %}
+        <li>
+          <strong>{{ article.title }} : </strong>{{ article.blurb|markdown }}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
 {% endmacro %}
