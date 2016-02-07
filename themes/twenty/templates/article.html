@@ -7,11 +7,8 @@
   <article id="main">
 
     <header class="special container">
-      <span class="icon fa-{{ article.icon }}"></span>
       <h2>{{ article.title }}</h2>
-      <!-- add page sub title here -->
-      <p>Posted on {{ article.locale_date }} by {{ article.author }}</p>
-      <p>{{ article.icon }}</p>
+      <hr align="center" width="60%">
     </header>
 
     <!-- One -->
@@ -29,12 +26,13 @@
               <p>{{ article.content }}</p>
             </section>
           </div>
-          {% if category == "experiments" %}
-            <footer class="special button-block">
-              <a href="/{{ category.url }}" class="button large">Back to {{ category|capitalize }}</a>
-            </footer>
-          {% endif %}
       </section>
+      <footer class="special button-block container">
+        <div>
+          Posted on {{ article.locale_date }} by {{ article.author }}
+        </div>
+        <a href="/{{ category.url }}" class="button large">Back to {{ category|capitalize }}</a>
+      </footer>
 
   </article>
 
