@@ -31,47 +31,54 @@
     {% endblock head %}
 </head>
 
-<!-- <body class="{% if page_name %}{{ page_name|sidebar }}{% endif %} loading"> -->
-<body class="{{ page_name }} loading">
+<body class="loading">
 
-    <!-- Header -->
-    <header id="header" {% if page_name == 'index' %}class="alt"{% endif %}>
-        <h1 class="logo">
-            <a href="{{ SITEURL }}">{{ SITENAME }}</a>
-        </h1>
-        <nav id="nav">
-            <ul>
-                {% if DISPLAY_PAGES_ON_MENU %}
-                    {% for page in PAGES|rejectattr("no_nav") %}
-                        <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
-                    {% endfor %}
-                {% endif %}
-                {% for title, link in MENUITEMS %}
-                    <li><a href="{{ link }}">{{ title }}</a></li>
-                {% endfor %}
-                <li>
-                    <a href="{{ SITEURL }}/category/experiments/">Experiments</a>
-                </li>
-                <!-- <li class="submenu">
-                    <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">Experiments</a>
-                    <ul>
-                        {% for cat, null in categories %}
-                            {% if cat != 'blog' %}
-                            <li {% if cat == category %}class="active"{% endif %}>
-                                <a href="{{ SITEURL }}/category/{{ cat|lower }}/">{{ cat }}</a>
-                            </li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
-                </li> -->
-                <!-- <li><a href="#" class="button special">Sign Up</a></li> -->
-            </ul>
-        </nav>
-    </header>
+  <!-- Header -->
+  {% block header %}
+  <header id="header" class="default">
+  {% endblock %}
+    <h1 class="logo">
+      <a href="{{ SITEURL }}">{{ SITENAME }}</a>
+    </h1>
+    <nav id="nav">
+      <ul>
+        {% if DISPLAY_PAGES_ON_MENU %}
+          {% for page in PAGES|rejectattr("no_nav") %}
+            <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+        {% endif %}
+        {% for title, link in MENUITEMS %}
+          <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
+        <li>
+          <a href="{{ SITEURL }}/category/experiments/">Experiments</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
 
     {% block content %}{% endblock %}
 
-    {% include 'footer.html' %}
+  <!-- Footer -->
 
+    {% block footer %}
+  <footer id="footer" class="default">
+    {% endblock %}
+
+      <ul class="icons">
+        {% for title, link in SOCIAL %}
+          <li>
+            <a href="{{ link }}" class="icon circle fa fa-{{ title }}">
+              <span class="label">{{ title }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <span class="copyright">
+        &copy 2016 Sol Lago. Theme based on <a href="http://html5up.net">HTML5 UP</a>
+      </span>
+
+  </footer>
 </body>
 </html>

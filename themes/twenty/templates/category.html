@@ -20,7 +20,21 @@
           <header>
             <h3>Other Recent {{ category }}</h3>
           </header>
-          {% include 'sidebar.html' %}
+          <!-- Sidebar -->
+          <div class="sidebar">
+            <!--
+            Only looping over articles in this category in descending order.
+            Also ignoring the latest article since it will already
+            be shown in the left 2/3s of the screen.
+            -->
+            {% for article in articles[:-1]|reverse %}
+              <section>
+                <header>
+                  <a href="/{{ article.url }}"> <h4>{{ article.title }}</h4> </a>
+                </header>
+                </section>
+            {% endfor %}
+          </div>
         </div>
       </div>
     </section>

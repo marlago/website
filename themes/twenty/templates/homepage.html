@@ -1,12 +1,13 @@
 {% extends "base.html" %}
-{% from '_personal_info.html' import render_personal %}
-{% import 'most_recent.html' as recent %}
+{% from 'utils.html' import render_personal, render_articles %}
 
-{% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
+{% block header %}
+  <header id="header" class="home">
+{% endblock %}
 
 {% block content %}
 <!-- Main -->
-<article id="main">
+<article id="main" class="home">
 
   <section class="wrapper style1 container">
     <div class="row">
@@ -25,25 +26,30 @@
   </section>
 </article>
 
-{% set articles_by_categories = dict(categories) %}
-{% set news = articles_by_categories['news'] %}
-{% set experiments = articles_by_categories['experiments'] %}
-
-
-<section class="wrapper style1 container special">
-  <div class="row">
-    <div class="6u">
-      {{ recent.render_articles("News", news) }}
+<article id="recent-stuff">
+  {% set articles_by_categories = dict(categories) %}
+  {% set news = articles_by_categories['news'] %}
+  {% set experiments = articles_by_categories['experiments'] %}
+  <section class="wrapper style1 container special">
+    <div class="row">
+      <div class="6u">
+        {{ render_articles("News", news) }}
+      </div>
+      <div class="6u">
+        {{ render_articles("Recent Experiments", experiments) }}
+        <footer class="button-block">
+            <div class="special">
+              <a href="{{ SITEURL }}/category/experiments" class="button small">Read More</a>
+            </div>
+          </footer>
+      </div>
     </div>
-    <div class="6u">
-      {{ recent.render_articles("Recent Experiments", experiments) }}
-      <footer class="button-block">
-          <div class="special">
-            <a href="{{ SITEURL }}/category/experiments" class="button small">Read More</a>
-          </div>
-        </footer>
-    </div>
-  </div>
-</section>
+  </section>
+
+</article>
 
 {% endblock content %}
+
+{% block footer %}
+  <footer id="footer" class="home}">
+{% endblock %}
