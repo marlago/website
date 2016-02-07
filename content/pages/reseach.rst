@@ -36,7 +36,7 @@ Conferences
 
 .. class:: year-list
 
-- Stutter, A., **Lago, S.**, & Felser, C. (2016). Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
+- Stutter, A., **Lago, S.**, & Felser, C. Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
 
 - **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors:evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
 
@@ -62,15 +62,15 @@ Conferences
 
 .. class:: year-list
 
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Lau, E., & Phillips, C. (2014). Does pronoun processing vary across languages? Poster at AMLaP, Edinburgh, UK, September 3–6.
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Lau, E., & Phillips, C. Does pronoun processing vary across languages? Poster at AMLaP, Edinburgh, UK, September 3–6.
 
-- Marijuan, S., **Lago, S.**, & Sanz, C. (2014). Agreement morphology, the word order bias and working memory in English-Spanish emerging bilinguals. Talk at EUROSLA, York, September 3–6.
+- Marijuan, S., **Lago, S.**, & Sanz, C. Agreement morphology, the word order bias and working memory in English-Spanish emerging bilinguals. Talk at EUROSLA, York, September 3–6.
 
-- Marijuan, S., **Lago, S.**, & Sanz, C. (2014). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Paper at GURT, Washington D.C., March 14–16.
+- Marijuan, S., **Lago, S.**, & Sanz, C. Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Paper at GURT, Washington D.C., March 14–16.
 
-- **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2014). Yo pienso, tu piensas:  Cross-linguistic attraction effects in agreement comprehension. Poster at CUNY, Columbus, Ohio, March 13–15.
+- **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. Yo pienso, tu piensas:  Cross-linguistic attraction effects in agreement comprehension. Poster at CUNY, Columbus, Ohio, March 13–15.
 
-- Marijuan, S., **Lago, S.** & Sanz, C. (2014). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Talk at GURT, Washington, Maryland, March 14–16.
+- Marijuan, S., **Lago, S.** & Sanz, C. Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Talk at GURT, Washington, Maryland, March 14–16.
 
 
 .. class :: year-group
@@ -80,11 +80,11 @@ Conferences
 
 .. class:: year-list
 
-- Marijuan, S., & **Lago, S.** (2013). (Dis)agreement can help overcoming the word order bias in L2 Spanish: accuracy and timing evidence. Talk at Second Language Research Forum, Provo, Utah, October 31–November 1.
+- Marijuan, S., & **Lago, S.** (Dis)agreement can help overcoming the word order bias in L2 Spanish: accuracy and timing evidence. Talk at Second Language Research Forum, Provo, Utah, October 31–November 1.
 
-- **Lago, S.**, Chow, W.Y., Barrios, S., Parker, D., Morini, G., & Lau, E. (2013). Long-term memory effects in the N400 during sentence processing: evidence from a novel recognition memory-sentence comprehension paradigm. Poster at the annual CNS meeting, San Francisco, California, April 13–16.
+- **Lago, S.**, Chow, W.Y., Barrios, S., Parker, D., Morini, G., & Lau, E. Long-term memory effects in the N400 during sentence processing: evidence from a novel recognition memory-sentence comprehension paradigm. Poster at the annual CNS meeting, San Francisco, California, April 13–16.
 
-- **Lago, S.**, Sloggett, S., Chow, W.Y., & Phillips, C. (2013). What types of lexical information are reaccessed during pronoun processing? Poster at CUNY, Columbia, South Carolina, March 14–16.
+- **Lago, S.**, Sloggett, S., Chow, W.Y., & Phillips, C. What types of lexical information are reaccessed during pronoun processing? Poster at CUNY, Columbia, South Carolina, March 14–16.
 
 
 .. class :: year-group
@@ -94,9 +94,9 @@ Conferences
 
 .. class:: year-list
 
-- Parker, D., **Lago, S.**, & Phillips, C. (2012). Retrieval Interference in the Resolution of Anaphoric PRO. Talk at the GLOW Satellite workshop "Timing and Grammar", Universität Potsdam, Germany, March 27.
+- Parker, D., **Lago, S.**, & Phillips, C. Retrieval Interference in the Resolution of Anaphoric PRO. Talk at the GLOW Satellite workshop "Timing and Grammar", Universität Potsdam, Germany, March 27.
 
-- Parker, D., **Lago, S.**, & Phillips, C. (2012). Retrieval Interference in the Resolution of Anaphoric PRO. Poster at CUNY, New York, March 14–16.
+- Parker, D., **Lago, S.**, & Phillips, C. Retrieval Interference in the Resolution of Anaphoric PRO. Poster at CUNY, New York, March 14–16.
 
 
 .. class :: year-group
@@ -106,9 +106,9 @@ Conferences
 
 .. class:: year-list
 
-- **Lago, S.**, Alcocer, P., & Phillips, C. (2011). Agreement attraction in Spanish: Immediate vs. Delayed sensitivity. Poster at CUNY, Stanford, California, March 24–26.
+- **Lago, S.**, Alcocer, P., & Phillips, C. Agreement attraction in Spanish: Immediate vs. Delayed sensitivity. Poster at CUNY, Stanford, California, March 24–26.
 
-- **Lago, S.**, Chow, W.Y., & Phillips, C. (2011). Word frequency affects pronouns and antecedents identically: Distributional Evidence. Talk at CUNY, Stanford, California, March 24–26.
+- **Lago, S.**, Chow, W.Y., & Phillips, C. Word frequency affects pronouns and antecedents identically: Distributional Evidence. Talk at CUNY, Stanford, California, March 24–26.
 
 
 .. class :: year-group
@@ -118,7 +118,7 @@ Conferences
 
 .. class:: year-list
 
-- **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. (2010). Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12.
+- **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12.
 
 
 .. class :: groupby-year
@@ -134,7 +134,7 @@ Invited Talks
 
 .. class:: year-list
 
-- **Lago, S.** (2015). N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
+- **Lago, S.** N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
 
 
 .. class :: year-group
@@ -144,7 +144,7 @@ Invited Talks
 
 .. class:: year-list
 
-- **Lago, S.** (2013). Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
+- **Lago, S.** Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
 
 
 .. class :: year-group
@@ -154,11 +154,11 @@ Invited Talks
 
 .. class:: year-list
 
-- **Lago, S.** (2012). Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
+- **Lago, S.** Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
 
-- **Lago, S.** (2012). Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
+- **Lago, S.** Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
 
-- Parker, D., **Lago, S.**, & Phillips, C. (2012). When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
+- Parker, D., **Lago, S.**, & Phillips, C. When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
 
 
 .. class :: year-group
@@ -168,5 +168,5 @@ Invited Talks
 
 .. class:: year-list
 
-- **Lago, S.** (2010). Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
+- **Lago, S.** Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
 
