@@ -1058,9 +1058,11 @@
 /* Customizations by Ilia */
 
 	/* Adds image wrapped in text */
-	img.wrapped-right {
-		float: left;
-		margin: 1em 3em 1em 0em;
+	img[align=left] {
+	    margin: 1em 2em 1em 0;
+	}
+	img[align=right] {
+	    margin: 1em 0 1em 2em;
 	}
 
 

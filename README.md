@@ -90,3 +90,18 @@ This should print something to the effect of `Serving on port NNN`, where `NNN`
 is most likely `8000` (but could differ!).
 Provided this ran with no hiccups you can go to <http://localhost:8000> and
 rejoice (hopefully!) at the sight of your site!
+
+
+## Text Formatting
+
+### Embedding Images in Markdown
+
+Use the following syntax to embed an image in your markdown posts:
+
+```
+![alt_text]({filename}/images/name_of_image.jpg){:align="left"}
+```
+
+Note that `alt_text` can be any text and that you can replace "left" with "right"
+for the `align` property. If you don't want to specify any alignment at all,
+just drop everything in the curly brackets.
