@@ -1,11 +1,23 @@
 {% extends "base.html" %}
-{% from 'banner.html' import render_banner %}
 
 {% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
 
-{{ render_banner(page) }}
+<!-- Banner -->
+<section id="banner" class="{{ page.title|striptags|lower }}">
+  <!--
+    ".inner" is set up as an inline-block so it automatically expands
+    in both directions to fit whatever's inside it. This means it won't
+    automatically wrap lines, so be sure to use line breaks where
+    appropriate (<br />).
+  -->
+  <div class="inner">
+    <header>
+      <h2>{{ page.title|striptags }}</h2>
+    </header>
+  </div>
+</section>
 
 <!-- Main -->
 <article id="main" class="after-banner">
