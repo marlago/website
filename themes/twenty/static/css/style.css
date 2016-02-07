@@ -86,6 +86,10 @@
 		letter-spacing: 0.025em;
 	}
 
+	p + h3 {
+		margin-top: 1.5em;
+	}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
@@ -1187,6 +1191,11 @@
 	}
 	.year-list li {
 		margin-bottom: .5em;
+	}
+	/* We have to override default paragraph split behavior to get more compact
+	paragraphs in lists */
+	li p {
+		margin: 0;
 	}
 
 	em {
