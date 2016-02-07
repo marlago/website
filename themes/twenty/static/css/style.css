@@ -584,6 +584,12 @@
 		z-index: 10000;
 	}
 
+	/* Special treatment for homepage */
+	#header.home {
+		background-color: #645862;
+		color: white;
+	}
+
 		#header h1 {
 			font-weight: 900;
 			margin: 0;
@@ -816,7 +822,16 @@
 		background-repeat: no-repeat;
 		background-size: 25em;
 		padding-top: 7em;
-		padding-bottom: 4em;
+		padding-bottom: 3em;
+	}
+
+	#main.home {
+		background-color: #645862;
+		color: white;
+	}
+
+	#main.home a {
+		color: inherit;
 	}
 
 		#main > :last-child {
@@ -860,9 +875,8 @@
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 2em 2em 5em 2em;
 		text-align: center;
 	}
 
@@ -1099,11 +1113,6 @@
 		color: #2771B5;
 	}
 
-	#footer {
-		background: #645862;
-		color: white;
-	}
-
 	.button.special {
 		background: #128aef;
 		border-color: #128aef;
@@ -1183,8 +1192,10 @@
 
 	.about-text {
 		background-color: white;
-		padding: 2em 4em 1em 4em;
+		color: initial;
+		padding: 2em 2.5em 2em 2.5em;
 	}
-	.about-text p {
-		margin-bottom: 2em;
+
+	#recent-stuff {
+		margin-top: 3em;
 	}
