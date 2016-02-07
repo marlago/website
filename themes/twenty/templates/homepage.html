@@ -1,6 +1,5 @@
 {% extends "base.html" %}
-{% from '_personal_info.html' import render_personal %}
-{% import 'most_recent.html' as recent %}
+{% from 'utils.html' import render_personal, render_articles %}
 
 {% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
 
@@ -33,10 +32,10 @@
 <section class="wrapper style1 container special">
   <div class="row">
     <div class="6u">
-      {{ recent.render_articles("News", news) }}
+      {{ render_articles("News", news) }}
     </div>
     <div class="6u">
-      {{ recent.render_articles("Recent Experiments", experiments) }}
+      {{ render_articles("Recent Experiments", experiments) }}
       <footer class="button-block">
           <div class="special">
             <a href="{{ SITEURL }}/category/experiments" class="button small">Read More</a>
