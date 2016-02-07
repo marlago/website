@@ -73,8 +73,7 @@ p_tag_rgx = re.compile(r"<p>|</p>")
 
 
 def markdown_strip_p(value):
-    '''Removes all p tags from markdown content.
-    '''
+    '''Removes all p tags from markdown content. '''
     raw_md = markdown.markdown(value)
     return p_tag_rgx.sub('', raw_md)
 
