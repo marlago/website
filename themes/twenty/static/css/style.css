@@ -592,6 +592,7 @@
 	#header.home {
 		background-color: #645862;
 		color: white;
+		box-shadow: none;
 	}
 
 		#header h1 {
