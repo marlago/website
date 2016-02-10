@@ -38,7 +38,7 @@ Conferences
 
 - Stutter, A., **Lago, S.**, & Felser, C. Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
 
-- **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors:evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
+- **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors: evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
 
 
 .. class :: year-group
