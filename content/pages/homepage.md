@@ -3,7 +3,6 @@ Title: Home
 URL:
 save_as: index.html
 Template: homepage
-no_nav: true
 contact_info:
   picture_src: /images/AboutPic.jpg
   job_title: Postdoctoral Researcher
