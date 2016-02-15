@@ -2,8 +2,7 @@
 
 {% block title %}{{ page.title|striptags }} | {{ super() }}{% endblock title %}
 
-{% block content %}
-
+{% block banner %}
 <!-- Banner -->
 <section id="banner" class="{{ page.title|striptags|lower }}">
   <!--
@@ -18,9 +17,11 @@
     </header>
   </div>
 </section>
+{% endblock banner %}
 
-<!-- Main -->
-<article id="main" class="after-banner">
+{% block main %}
+  <article id="main" class="default after-banner">
+  {% block content %}
 
   <!-- One -->
   <section class="wrapper style4 container">
@@ -33,7 +34,6 @@
       </div>
 
   </section>
-
-  <!-- Two -->
+  {% endblock content %}
   </article>
-{% endblock content %}
+{% endblock main %}
