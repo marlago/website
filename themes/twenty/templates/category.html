@@ -5,16 +5,19 @@
 {% block content %}
     <section class="wrapper style1 container">
       <div class="row oneandahalf">
-        <div class="content 8u -1u">
+        <div class="content 9u">
           {% set active_article = articles|first %}
-          <section class="latest-article">
+          <section class="latest-article blog-post">
             <header>
               <a href="{{ SITEURL }}/{{ active_article.url }}"><h2>{{ active_article.title }}</h2></a>
             </header>
-            <p>{{ active_article.content }}</p>
+            <p>{{ active_article.content|truncate(300) }}</p>
+            <footer class="special button-block">
+              <a href="{{ SITEURL }}/{{ active_article.url }}" class="button">Read More</a>
+            </footer>
           </section>
         </div>
-        <div class="3u ">
+        <div class="3u">
           <header>
             <h3>Other {{ category }}</h3>
           </header>
@@ -30,7 +33,7 @@
                 <header>
                   <a href="/{{ article.url }}"> <h4>{{ article.title }}</h4> </a>
                 </header>
-                </section>
+              </section>
             {% endfor %}
           </div>
         </div>
