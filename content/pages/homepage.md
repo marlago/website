@@ -22,7 +22,7 @@ contact_info:
 ---
 
 ### About
-I study human language. My goal is to understand how people are able to integrate current and past knowledge when reading sentences. *How do we achieve this feat so quickly and effortlessly?* *And does our native language shape the way that we navigate our memory during comprehension?* I use neurophysiological (ERP, MEG), eye-tracking and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language comprehension.
+I study language comprehension. My goal is to figure out how people are able to integrate current and past knowledge when understanding sentences. *How do we achieve this feat so quickly and effortlessly?* *And does our native language shape the way that we search our memory during processing?* I use neurophysiological (ERP, MEG), eye-tracking and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language comprehension.
 
 
 
