@@ -27,6 +27,15 @@ I study language comprehension. My goal is to figure out how people are able to 
 
 
 ### Background
-2014 Postdoctoral researcher, University of Potsdam  
-2014 Ph.D. Linguistics, University of Maryland  
-2009 B.A. Linguistics, University of Buenos Aires  
+<ul>
+  <li>
+    <span class="background-year">2014</span> Postdoctoral researcher, Potsdam Research Institute for Multilingualism
+  </li>
+  <li>
+    <span class="background-year">2014</span> Ph.D. Linguistics, University of Maryland
+  </li>
+  <li>
+    <span class="background-year">2009</span> B.A. Linguistics, University of Buenos Aires
+  </li>
+</ul>
+

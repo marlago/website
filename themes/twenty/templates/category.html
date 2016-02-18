@@ -3,20 +3,21 @@
 {% block title %}{{ category|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
-  <!-- Main -->
-  <article id="main">
     <section class="wrapper style1 container">
       <div class="row oneandahalf">
-        <div class="content 8u -1u">
-          {% set active_article = articles|last %}
-          <section class="latest-article">
+        <div class="content 9u">
+          {% set active_article = articles|first %}
+          <section class="latest-article blog-post">
             <header>
               <a href="{{ SITEURL }}/{{ active_article.url }}"><h2>{{ active_article.title }}</h2></a>
             </header>
-            <p>{{ active_article.content }}</p>
+            <p>{{ active_article.content|truncate(300) }}</p>
+            <footer class="special button-block">
+              <a href="{{ SITEURL }}/{{ active_article.url }}" class="button">Read More</a>
+            </footer>
           </section>
         </div>
-        <div class="3u ">
+        <div class="3u">
           <header>
             <h3>Other {{ category }}</h3>
           </header>
@@ -27,16 +28,15 @@
             Also ignoring the latest article since it will already
             be shown in the left 2/3s of the screen.
             -->
-            {% for article in articles[:-1]|reverse %}
+            {% for article in articles[1:] %}
               <section>
                 <header>
                   <a href="/{{ article.url }}"> <h4>{{ article.title }}</h4> </a>
                 </header>
-                </section>
+              </section>
             {% endfor %}
           </div>
         </div>
       </div>
     </section>
-  </article>
 {% endblock content %}

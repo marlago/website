@@ -3,10 +3,8 @@
 {% block title %}{{ article.title|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
-<!-- Main -->
-  <article id="main">
 
-    <header class="special container">
+    <header class="article-header container">
       <h2>{{ article.title }}</h2>
       <hr align="center" width="60%">
     </header>
@@ -16,7 +14,7 @@
 
         <!-- Content -->
           <div class="content">
-            <section>
+            <section class="blog-post">
               <p class="tags">
               {% if article.tags %}
                 {% for tag in article.tags %}
@@ -34,24 +32,25 @@
         <a href="/{{ category.url }}" class="button large">Back to {{ category|capitalize }}</a>
       </footer>
 
-  </article>
-
-{% if DISQUS_SITENAME %}
-  <div id="comments">
-      <h2 class="space-above">Comments</h2>
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
-          var disqus_identifier = "{{ article.url }}";
-          (function() {
-              var dsq = document.createElement('script');
-              dsq.type = 'text/javascript';
-              dsq.async = true;
-              dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
-              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-      </script>
-      <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
-  </div>
-{% endif %}
-
 {% endblock content %}
+
+
+{% block additional_content %}
+  {% if DISQUS_SITENAME %}
+    <div id="comments">
+        <h2 class="space-above">Comments</h2>
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            var disqus_identifier = "{{ article.url }}";
+            (function() {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+    </div>
+  {% endif %}
+{% endblock %}

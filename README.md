@@ -92,7 +92,38 @@ Provided this ran with no hiccups you can go to <http://localhost:8000> and
 rejoice (hopefully!) at the sight of your site!
 
 
-## Text Formatting
+## Writing Content
+
+A collection of tips/FAQ that deal with various challenges you'll run into when
+writing new pages or posts.
+
+### Blog Post Dates
+
+If you publish a blogpost without specifying a date, Pelican will just use the date
+your file was last modified as the post date. This is fragile and can lead to entries
+appearing as "published" much later than they actually were, simply because the
+corresponding text file was modified for whatever reason.
+
+It is thus best to manually specify the date of your post.
+In Markdown, make sure the meta-data of your post (the stuff on top of the file
+enclosed in `---`, like `Title`, etc) contains the following line:
+```
+Date: YYYY-MM-DD
+```
+You could also include a time if you happen to be publishing two articles in
+one day, but it's not needed otherwise.
+
+In RST, according to
+[Pelican Documentation](http://docs.getpelican.com/en/3.6.3/content.html#file-metadata)
+you'd need to write this to add a date to a post:
+```
+:date: YYYY-MM-DD
+```
+Note the colons, they are important to include!
+
+It is possible that the date format described above is not the only one
+understood by Pelican. However, this we know to work and there was no time
+to test others at the moment. Maybe we'll get to it later.
 
 ### Embedding Images in Markdown
 

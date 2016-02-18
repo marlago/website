@@ -5,10 +5,10 @@
   <header id="header" class="home">
 {% endblock %}
 
-{% block content %}
+{% block main %}
 <!-- Main -->
 <article id="main" class="home">
-
+  {% block content %}
   <section class="wrapper style1 container">
     <div class="row">
       <div class="3u personal-info justified-text">
@@ -24,8 +24,13 @@
     </div>
 
   </section>
-</article>
 
+  {% endblock %}
+</article>
+{% endblock %}
+
+
+  {% block additional_content %}
 <article id="recent-stuff">
   {% set articles_by_categories = dict(categories) %}
   {% set news = articles_by_categories['news'] %}
@@ -47,8 +52,7 @@
   </section>
 
 </article>
-
-{% endblock content %}
+  {% endblock %}
 
 {% block footer %}
   <footer id="footer" class="home}">

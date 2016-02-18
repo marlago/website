@@ -57,7 +57,17 @@
     </nav>
   </header>
 
-    {% block content %}{% endblock %}
+  {% block banner %}
+  {% endblock %}
+
+  {% block main %}
+    <article id="main" class="default">
+      {% block content %}{% endblock %}
+    </article>
+  {% endblock %}
+
+  {% block additional_content %}
+  {% endblock %}
 
   <!-- Footer -->
 
