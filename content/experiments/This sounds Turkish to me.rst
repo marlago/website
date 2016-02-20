@@ -1,8 +1,6 @@
 This all sounds Turkish to me
 <<<<<<<<<<<<<<<<<<<<<<
 :date: 2016-2-19
-:slug: We all make mistakes. This is true of job interviews, haircuts, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed.
-
 
 
 ![joke]({filename}/images/attraction_joke.png){:align="middle"}
