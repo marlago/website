@@ -41,7 +41,7 @@
     <ul class="default">
       {% for article in articles[:3] %}
         <li>
-          <strong>{{ article.title }}: </strong>{{ article.blurb|markdown }}
+          <strong>{{ article.title }}: </strong>{{ article.slug|markdown }}
         </li>
       {% endfor %}
     </ul>
