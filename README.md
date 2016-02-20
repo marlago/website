@@ -125,14 +125,76 @@ It is possible that the date format described above is not the only one
 understood by Pelican. However, this we know to work and there was no time
 to test others at the moment. Maybe we'll get to it later.
 
+
+### Links
+Markdown's link syntax is covered very clearly
+[in the documentation](https://daringfireball.net/projects/markdown/syntax#link).
+
+RST docs aren't as clear about inline links, so they'll be described here.
+```
+`LINK_TEXT <URL>`__
+```
+Aside from the weird symbols used to delimit the link, this should be fairly clear.
+`LINK_TEXT` can be left empty if you want the link to display the URL.
+The URL can either be a link to some other site or to a
+[static file in your site](http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files).
+
+
+### Transitions
+For those cases when you want to separate two pieces of text but don't want to start
+a new section, both in RST and in Markdown you can insert a break in between by
+adding **at least 4** `-` symbols separated by newlines from the text. See below:
+```
+Here's some text.
+
+----
+
+Here's some more text that's somewhat related.
+```
+The way transitions are displayed is controlled in CSS. Currently it's three `*` symbols
+in the middle of the line.
+
+
+### Advanced Text Formatting (RST only!!)
+Since Markdown is [philosophically opposed](https://daringfireball.net/projects/markdown/syntax#philosophy)
+to exposing more than just the basic text formatting, if you want to adjust things like font color or size
+you will have to use reStructuredText (RST) combined with CSS.
+
+In order to change the style of a piece of text, CSS needs something to differentiate it
+from all other irrelevant text and ideally we'd like to mark it as *special*
+in the RST file. Here's the syntax:
+```
+Bob Loblaw :verb:`lobs` oblong laws on blahs.
+```
+Which translates into this html:
+```
+Bob Loblaw <span class="verb">lobs</span> oblong laws on blahs.
+```
+Which, as we all know, can be easily selected and styled with the following CSS:
+```
+.verb {
+    color: blue;
+}
+```
+In this example I chose to change the color of the text, but in general other
+CSS manipulations should be possible simply by changing the content of the
+`.verb` rule.
+
+The relevant CSS rules can (should!) be written in the following file:
+`/themes/twenty/static/css/sol-site-custom.css`.
+**Please note that in order for your changes to take effect, you must run
+`fab rebuild`!!**
+
 ### Embedding Images in Markdown
-
 Use the following syntax to embed an image in your markdown posts:
-
 ```
 ![alt_text]({filename}/images/name_of_image.jpg){:align="left"}
 ```
-
 Note that `alt_text` can be any text and that you can replace "left" with "right"
 for the `align` property. If you don't want to specify any alignment at all,
 just drop everything in the curly brackets.
+
+Note that in this example the link to the actual file is in
+[Pelican static file link](http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files)
+format, but you can also use a URL of an external file just as easily.
+Just be aware that you have no control over whether or not an external file actually loads.
