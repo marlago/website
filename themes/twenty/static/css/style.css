@@ -1229,6 +1229,9 @@
 		background-image: none;
 		text-align: center;
 		font-size: 1.5em;
+		/*Top margin .5em larger to compensate for *** being in top half of line. */
+		margin-top: 2.5em;
+		margin-bottom: 2em;
 	}
 
 	section.blog-post hr:after {
