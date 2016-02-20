@@ -2,6 +2,11 @@
 @import url("http://fonts.googleapis.com/css?family=Lato:300,400,900,400italic,300italic");
 
 /*
+	Adding text formatting CSS
+ */
+@import url("sol-site-custom.css");
+
+/*
 	Twenty 1.0 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -130,6 +135,10 @@
 		margin-bottom: 9em;
 		position: relative;
 		text-align: center;
+	}
+
+	header.article-header h2 {
+		font-size: 2em;
 	}
 
 		header.special:before {
@@ -830,11 +839,12 @@
 /* Main */
 
 	#main {
-		padding-top: 7em;
+		padding-top: 9em;
 		padding-bottom: 3em;
 	}
 
 	#main.home {
+		padding-top: 7em;
 		background-color: #645862;
 		color: white;
 	}
@@ -1224,6 +1234,9 @@
 		background-image: none;
 		text-align: center;
 		font-size: 1.5em;
+		/*Top margin .5em larger to compensate for *** being in top half of line. */
+		margin-top: 2.5em;
+		margin-bottom: 2em;
 	}
 
 	section.blog-post hr:after {

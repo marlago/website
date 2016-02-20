@@ -1,7 +1,7 @@
 ---
 Title: This all sounds Turkish to me
 Date:
-blurb: We all make mistakes. This is true of job interviews, haircuts, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed.
+slug: We all make mistakes. This is true of job interviews, haircuts, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed.
 ---
 
 ![joke]({filename}/images/attraction_joke.png){:align="middle"}
@@ -42,11 +42,7 @@ The plot shows what Wagers and his colleagues found. The y-axis indicates the pr
 
 In contrast, the ungrammatical sentences showed an interesting thing. Whereas sentences with a singular attractor like (3c) were deemed unacceptable most of the time, sentences with a plural attractor like (4d) were accepted... more than 1/2 of the time! Participants actually rated them as acceptable around 55% of the time, showing that **these sentences were perceived as more acceptable due to having that plural attractor *"cabinets"* inside them"**. As a result, Wagers and colleagues concluded that indeed, English speakers make errors in comprehension, and can be mislead by plural nouns, thus failing to notice ungrammatical sentences.
 
-<br>
-
-***
-
-<br>
+-----
 
 So now we know that English speakers are susceptible to attraction errors when they read sentences. Fine, no one is perfect. But why do these errors happen? And how general are they? Could this just be some weird fact about English? 
 
