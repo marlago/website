@@ -132,6 +132,10 @@
 		text-align: center;
 	}
 
+	header.article-header h2 {
+		font-size: 2em;
+	}
+
 		header.special:before {
 			left: 0;
 		}
@@ -830,11 +834,12 @@
 /* Main */
 
 	#main {
-		padding-top: 7em;
+		padding-top: 9em;
 		padding-bottom: 3em;
 	}
 
 	#main.home {
+		padding-top: 7em;
 		background-color: #645862;
 		color: white;
 	}
