@@ -1,6 +1,9 @@
-This all sounds Turkish to me
-<<<<<<<<<<<<<<<<<<<<<<
-:date: 2016-2-19
+---
+Title: This all sounds Turkish to me
+Date:
+slug: >
+  We all make mistakes. This is true of job interviews, haircuts, extra slices of cake and crucially, language. So here is one type of language error that you may have heard before but never noticed.
+---
 
 
 ![joke]({filename}/images/attraction_joke.png){:align="middle"}
