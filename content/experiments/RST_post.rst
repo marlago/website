@@ -14,24 +14,24 @@ without actually getting rendered itself.
 This is supposed to demonstrate the capabilities of restructured text when
 it comes to blog posts.
 
-(3a) The key to the cabinet is on the table.
 
-(3b) The key to the **cabinets** is on the table.
+3a) The key to the cabinet is on the table.
 
-(3c) \*The key to the cabinet :error:`are` on the table.
+3b) The key to the **cabinets** is on the table.
 
-(3d) \*The key to the **cabinets** are on the table.
+3c) \*The key to the cabinet :error:`are` on the table.
+
+3d) \*The key to the **cabinets** are on the table.
 
 Here's another paragraph of text followed by a centered image.
 
 .. figure:: {filename}/images/attraction_joke.png
   :align: center
-  :figwidth: 100%
   :alt: Agree to Disagree
 
-  Here's the caption
+  ..
 
-  Here's the legend
+  Here's a legend
 
 And what about some text after the image, eh?
 
@@ -50,3 +50,55 @@ the **error** class (which in CSS is configured to turn text red) to anything yo
 And here's how it will look in your text.
 
 These errors are called :error_demo:`agreement attraction errors`. And *"cabinets"*, the noun that the verb wrongly agrees with, is called an **attractor**. This name conveys the intuition that *"cabinets"* deceitfully attracts the verb, making it agree with it in number instead of with the "real" subject head, the noun *"key"*. What we don't know though, is why attraction happens in language. What misleads people into making these errors? You might be thinking *"Jeez, it's obvious: "cabinets" is closer to the verb than "key"! Maybe people just produce a verb that agrees with whatever noun is closer to it".* Ok, this is true, but notice that attraction errors occur even when the attractor does not intervene between the verb and its subject: look at the examples above, where the noun *"errors"* triggers attraction despite the fact that *"classification software"* (the real subject) is closer to the verb. So, linear proximity might facilitate attraction, but it cannot be its only cause.
+
+
+.. container:: ling-ex
+
+  .. class:: ling-ex-number
+
+  (4a)
+
+  .. container:: ling-ex-sent
+
+    The detective works.
+
+    Dedektif çalıştı.
+
+
+.. container:: ling-ex
+
+  .. class:: ling-ex-number
+
+  (4b)
+
+  .. container:: ling-ex-sent
+
+    The detectives work.
+
+    Dedektifler çalıştılar.
+
+
+.. container:: ling-ex bad
+
+  .. class:: ling-ex-number
+
+  (4c)
+
+  .. container:: ling-ex-sent
+
+    The detective work.
+
+    Dedektif çalıştılar.
+
+
+.. container:: ling-ex bad
+
+  .. class:: ling-ex-number
+
+  (4d)
+
+  .. container:: ling-ex-sent
+
+    The detectives works.
+
+    Dedektifler çalıştı.
