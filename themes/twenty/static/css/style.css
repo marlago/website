@@ -63,7 +63,7 @@
 		text-align: justify;
 	}
 
-	p + p {
+	p + p, .ling-ex + p {
 		margin-top: 1em;
 	}
 
@@ -1086,11 +1086,27 @@
 /* Customizations by Ilia */
 
 	/* Adds image wrapped in text */
-	img[align=left] {
-	    margin: 1em 2em 1em 0;
+	img[align=left], .align-left {
+		float: left;
+		margin: 1em 2em 1em 0;
 	}
-	img[align=right] {
-	    margin: 1em 0 1em 2em;
+	img[align=right], .align-right {
+		float: right;
+		margin: 1em 0 1em 2em;
+	}
+
+	/*Centered images don't get wrapped. */
+	img[align=center], .align-center img, img.align-center {
+		margin: 2em auto;
+		display: block;
+	}
+
+	/* Figure styling */
+	.legend {
+		background-color: #F5F5F5;
+		font-style: italic;
+		margin-top: 1em;
+		padding: 0 1em;
 	}
 
 
@@ -1247,4 +1263,31 @@
 	}
 	span.background-year {
 		margin-right: 0.5em;
+	}
+
+	/*Linguistics examples*/
+	.ling-ex.container {
+		width: inherit;
+		margin-top: 1em
+	}
+	p.ling-ex-number {
+		float: left;
+	}
+	.ling-ex-sent.container {
+		display: inline-block;
+		width: inherit;
+		margin-left: 1em;
+	}
+	.ling-ex-sent p {
+		margin: 0;
+	}
+	.ling-ex.bad .ling-ex-number:after {
+		content: "*";
+		margin-left: 0.3em;
+		vertical-align: bottom;
+		line-height: .9em;
+		font-size: 1.3em;
+	}
+	.ling-ex.bad .ling-ex-sent {
+		margin-left: .5em;
 	}
