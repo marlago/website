@@ -1058,16 +1058,16 @@
 /* Pagination */
 
 	div.pagination {
-	    margin-top: 35px;
+		margin-top: 35px;
 	}
 	div.pagination-left {
-	    float:left;
+		float:left;
 	}
 	div.pagination-middle {
-	    text-align:center;
+		text-align:center;
 	}
 	div.pagination-right {
-	    float: right;
+		float: right;
 	}
 
 
