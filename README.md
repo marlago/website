@@ -82,6 +82,17 @@ A collection of tips/FAQ that deal with various challenges you'll run into when
 writing new pages or posts.
 
 
+### Markdown or RST?
+How do you decide whether to write your next post in Markdown or RST?
+I hope the following guidelines will help you decide:
+
+- Use RST if you want to have legends for images/figures.
+- Use RST if you have linguistic examples in your post.
+- Use RST if you need more advanced text formatting.
+- In all other cases it makes sense to use Markdown since it tends to be easier
+  to read.
+
+
 ### Blog Post Dates
 If you publish a blogpost without specifying a date, Pelican will just use the date
 your file was last modified as the post date. This is fragile and can lead to entries
@@ -124,10 +135,9 @@ The URL can either be a link to some other site or to a
 [static file in your site](http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files).
 
 
-### Transitions
-For those cases when you want to separate two pieces of text but don't want to start
-a new section, both in RST and in Markdown you can insert a break in between by
-adding **at least 4** `-` symbols separated by newlines from the text. See below:
+### Transitions and Extra Line Breaks
+Inside blog posts if you want to separate sections by blank space with three stars,
+insert **at least 4** `-` symbols separated by newlines from the text. See below:
 ```
 Here's some text.
 
@@ -135,8 +145,22 @@ Here's some text.
 
 Here's some more text that's somewhat related.
 ```
-The way transitions are displayed is controlled in CSS. Currently it's three `*` symbols
-in the middle of the line.
+
+Extra line breaks in Markdown are easy, just insert a `<br>` tag.
+In RST you have to put the following somewhere at the beginning of your file:
+```
+.. |br| raw:: html
+
+  <br />
+```
+Here's how you use it in text:
+```
+Here's a paragraph that you want to follow up with extra space.
+
+|br|
+
+Here's the next paragraph.
+```
 
 
 ### Advanced Text Formatting (RST only!!)
@@ -146,15 +170,20 @@ you will have to use reStructuredText (RST) combined with CSS.
 
 In order to change the style of a piece of text, CSS needs something to differentiate it
 from all other irrelevant text and ideally we'd like to mark it as *special*
-in the RST file. Here's the syntax:
+in the RST file. Put this somewhere in the beginning of the file:
+```
+.. role:: verb
+```
+Here's how you use it in text.
 ```
 Bob Loblaw :verb:`lobs` oblong laws on blahs.
 ```
-Which translates into this html:
+In the example above you first "declare" the role `verb` and then use it to
+label some text. This results in the following html:
 ```
 Bob Loblaw <span class="verb">lobs</span> oblong laws on blahs.
 ```
-Which, as we all know, can be easily selected and styled with the following CSS:
+Which can be easily selected and styled with the following CSS:
 ```
 .verb {
     color: blue;
@@ -169,16 +198,57 @@ The relevant CSS rules can (should!) be written in the following file:
 **Please note that in order for your changes to take effect, you must run
 `fab rebuild`!!**
 
-### Embedding Images in Markdown
+### Embedding Images
+
+#### Markdown
 Use the following syntax to embed an image in your markdown posts:
 ```
 ![alt_text]({filename}/images/name_of_image.jpg){:align="left"}
 ```
-Note that `alt_text` can be any text and that you can replace "left" with "right"
-for the `align` property. If you don't want to specify any alignment at all,
+Note that `alt_text` can be any text.
+You can also replace "left" with "right" or "center" for the `align` property
+with pridectable results. If you don't want to specify any alignment at all,
 just drop everything in the curly brackets.
 
-Note that in this example the link to the actual file is in
+Note that in this example the link to the actual file is a
 [Pelican static file link](http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files)
-format, but you can also use a URL of an external file just as easily.
-Just be aware that you have no control over whether or not an external file actually loads.
+but you can also use a URL of an external file just as easily.
+Be aware though that you have no control over whether or not an external file actually loads.
+
+#### RST
+RST offers you much more control over how you
+
+Here's an example of how to get the same exact behavior as in Markdown.
+```
+.. image:: {filename}/images/attraction_joke.png
+  :align: left
+  :alt: alt_text
+```
+Changing `:align:` to "right" and "center" will have the same effect as in Markdown.
+In contrast to Markdown, RST also lets you decide how large your image will display
+on the page.
+This can be done by specifying a value for `:width:` or  `:height:`.
+The value can be either pixels or a percentage value.
+Personally Ilia recommends using percentage because that should adjust the image
+size as the page size changes. `:width: 100% means the image will take up the
+whole width of the blog text box.
+
+In cases when you want a legend under your picture, just use the following syntax.
+```
+.. figure:: {filename}/images/attraction_joke.png
+  :figwidth: 80%
+
+  Here's a caption.
+
+  Here's a legend.
+```
+If you don't want a caption just write `..` instead of any text, like in the example below:
+```
+.. figure:: {filename}/images/attraction_joke.png
+  :align: left
+
+  ..
+
+  Here's a legend.
+```
+In addition to `:figwidth:`, you can specify all the same parameters as for plain images.
