@@ -105,7 +105,6 @@ In 2009, a group of researchers from the `University of Maryland <http://ling.um
 The important conditions were **(3c-d)**. Both conditions were ungrammatical (that's why by convention they have a * in front). But crucially, (3d) had a plural attractor and (3c) didn't. Wagers and colleagues were interested in seeing whether this noun would influence people’s judgments. So they tested a group of Maryland students, who read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.
 
 .. figure:: {filename}/images/wagers.png
-  :width: 100%
   :figwidth: 46%
   :align: left
   :alt: wagers
