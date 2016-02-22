@@ -1,6 +1,6 @@
 ---
 Title: Why I write
-Date:
+Date: 2016-02-24
 slug: >
   Hi there! This is my first post.
 ---
