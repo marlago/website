@@ -125,7 +125,7 @@ In contrast, the ungrammatical sentences showed an interesting pattern. Whereas 
 
 So now we know that English speakers are susceptible to attraction errors in comprehension. Fine, no one is perfect. But why do these errors happen?
 
-Here is an intuitive explanation: people fail to notice attraction errors in comprehension precisely because they make them often in production. Think about it: in English, people make these errors when they speak. **So since they hear these errors often, they will be more accustomed to them and they will notice them less, right?** 
+Here is an intuitive explanation: people fail to notice attraction errors in comprehension precisely because they often make them in production. Think about it: in English, people make these errors when they speak. **So since they hear these errors often, they will be more accustomed to them and they will notice them less, right?** 
 
 This is what we wanted to test. But it was not obvious how to do it in English. And this is where Turkish comes in. **Because in contrast with most languages, when a subject is plural** like *"The detectives" (Dedektifler)*, **Turkish people prefer singular** (e.g. *"works", çalıştı*) **instead of plural verbs** (e.g.  *"work"*, çalıştılar). No one knows exactly why, but one possibility is that since Turkish marks plural number by adding the suffixes *-lar/-ler* to both nouns and verbs, people might avoid plural verbs with plural subjects to not repeat the plural marker twice: e.g. *"The detectives work"* (*"Dedektifler çalıştılar"*, dispreferred) vs. *"The detectives works"* (*"Dedektifler çalıştı"*, preferred).
 
