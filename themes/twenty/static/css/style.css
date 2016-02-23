@@ -1108,12 +1108,13 @@
 
 	/* Figure styling */
 	.legend {
-		background-color: #d9d9d9;
+		background-color: #E1E2E2;
 		font-style: italic;
-		font-size: .7em;
+		font-size: .8em;
 		margin-top: 1em;
-		padding: 0 1em;
+		padding: 0.5em 1em;
 		text-align: justify;
+		line-height: 1.4;
 	}
 
 	.align-center .legend {
