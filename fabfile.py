@@ -24,7 +24,7 @@ env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
 # Github Pages configuration
-env.github_pages_branch = "gh-pages"
+GH_USER_PAGE_REPO = "git@github.com:marlago/marlago.github.io.git"
 
 # Port for `serve`
 PORT = 8000
@@ -95,8 +95,8 @@ def publish():
 def gh_pages():
     """Publish to GitHub Pages"""
     rebuild()
-    local("ghp-import -b {github_pages_branch} {deploy_path}".format(**env))
-    local("git push origin {github_pages_branch}".format(**env))
+    local("ghp-import {0}".format(DEPLOY_PATH))
+    local("git push {0} gh-pages:master".format(GH_USER_PAGE_REPO))
 
 # Added to work with twenty html5up theme
 def collectstatic():
