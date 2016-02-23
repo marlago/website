@@ -1,7 +1,7 @@
 This all sounds Turkish to me
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 :date: 2016-02-27
-:slug: We all make mistakes. This is true of job interviews, haircuts, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed.
+:slug: We all make mistakes. This is true of haircuts, job interviews, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed.
 
 .. role:: underline
 
@@ -17,7 +17,7 @@ This all sounds Turkish to me
 
 |br|
 
-We all make mistakes. This is true of job interviews, haircuts, extra slices of cake and crucially, language. So here is one type of language error that you may have heard before but never thought much about. How does this sentence sound to you?
+We all make mistakes. This is true of haircuts, job interviews, extra slices of cake and crucially, language. So here is one type of language error that you may have heard before but never thought much about. How does this sentence sound to you?
   
 .. container:: ling-ex
 
@@ -127,13 +127,13 @@ In contrast, the ungrammatical sentences showed an interesting pattern. Whereas 
 
 So now we know that English speakers are susceptible to attraction errors in comprehension. Fine, no one is perfect. But why do these errors happen?
 
-Here is a VERY SIMPLE EXPLANATION: people fail to notice attraction errors in comprehension precisely because they often make them in production. I mean, it would make sense, no? People make these errors when they speak. **So since they hear these errors often, they will be more accustomed to them and they will notice them less in comprehension.** 
+Here is a VERY SIMPLE EXPLANATION: people fail to notice attraction errors in comprehension precisely because they often make them in production. I mean, it would make sense, no? People make these errors when they speak. **So they probably hear these errors often and are more accustomed to them which results in their noticing them less in comprehension.** 
 
 It's a simple explanation, and it seemed obvious for English. But this also meant that we couldn't figure out how to test it scientifically! 
 
-So this is where Turkish comes in. Because Turkish has one agreement property that makes it really different from languages like English or in fact, from any of the languages that researchers have tested to-date: **in Turkish, when a subject is plural** like *"The detectives" (Dedektifler)*, **Turkish people prefer singular** (e.g. *"works", çalıştı*) **instead of plural verbs** (e.g.  *"work"*, çalıştılar). No one knows exactly why, but one possibility is that since Turkish marks plural number by adding the suffixes *-lar/-ler* to both nouns and verbs, people might avoid plural verbs with plural subjects to not repeat the plural marker twice: e.g. *"The detectives work"* (*"Dedektifler çalıştılar"*, dispreferred) vs. *"The detectives works"* (*"Dedektifler çalıştı"*, preferred).
+This is where Turkish comes in. Because Turkish has one agreement property that makes it  different from languages like English or in fact, from any of the languages tested to-date: **in Turkish, when a subject is plural** like *"The detectives" (Dedektifler)*, **Turkish people prefer singular** (e.g. *"works", çalıştı*) **instead of plural verbs** (e.g.  *"work"*, çalıştılar). No one knows exactly why, but one possibility is that since Turkish marks plural number by adding the suffixes *-lar/-ler* to both nouns and verbs, people might avoid plural verbs with plural subjects to not repeat the plural marker twice: e.g. *"The detectives work"* (*"Dedektifler çalıştılar"*, dispreferred) vs. *"The detectives works"* (*"Dedektifler çalıştı"*, preferred).
 
-Regardless of the reason, it is known that Turkish speakers avoid producing sentences with plural verbs and plural subjects. This creates a language where, in contrast with English, people should not hear this combination often in speech. So, we wondered: *do Turkish speakers show agreement attraction in comprehension? Or is agreement attraction absent in Turkish, in contrast with English?*
+Regardless of the specific reason, it is known that Turkish speakers avoid producing sentences with plural verbs and plural subjects. This creates a language where, in contrast with English, people should not hear this combination often in speech. So, we wondered: *do Turkish speakers show agreement attraction in comprehension? Or is agreement attraction absent in Turkish, in contrast with English?*
 
 .. figure:: {filename}/images/ankara.png
   :width: 100%
@@ -226,8 +226,8 @@ But what really surprised us is what we saw next. To check whether Turkish speak
 
   ..
 
-  Agreement attraction in Turkish comprehension. Sentences with a plural attractor are accepted more often than sentences lacking an attractor (5d vs. 5c).
-  
+  Agreement attraction in Turkish comprehension. Our participants accepted ungrammatical sentences more often when they contained a plural attractor (5d).
+    
 Surprisingly, this is NOT what happened: in fact, **our Turkish participants showed a robust attraction effect**! They accepted ungrammatical sentences with plural attractors around 25% of the time (5d), almost 10% more than the fully ungrammatical sentences, which did not have any attractor (5c).
 
 .. container:: ling-ex
@@ -282,7 +282,9 @@ Surprisingly, this is NOT what happened: in fact, **our Turkish participants sho
 
 |br|
 
-So this is where we are now. Despite disprefering plural subjects with plural verbs, Turkish speakers are still susceptible to attraction errors in comprehension. To us, this means that attraction errors in comprehension do not occur simply because people hear these errors often in production (although admittedly, we haven't tested whether Turkish people produce attraction errors yet... If we are on the right track, they shouldn't!). More generally, our results suggest that attraction errors in production and in comprehension might not obey the same principles, which is an intriguing possibility. But then, what causes attraction in comprehension? This, I think, will be a harder question to answer. Stay tuned for updates!
+-----
+
+So this is where we are now. It is kind of puzzling: despite disprefering plural subjects with plural verbs, Turkish speakers are still susceptible to attraction errors. To us, this means that attraction errors in comprehension do not occur simply because people hear these errors often in production (although admittedly, we haven't tested whether Turkish people produce attraction errors yet... If we are on the right track, they shouldn't!). More generally, our results suggest that attraction errors in production and in comprehension might not obey the same principles, which is an intriguing possibility. But then, what causes attraction in comprehension? This, I think, will be a harder question to answer. Stay tuned for updates!
 
 .. figure:: {filename}/images/ankara_end.png
   :align: center
@@ -290,4 +292,4 @@ So this is where we are now. Despite disprefering plural subjects with plural ve
 
   ..
 
-  My last dinner in Ankara. After running 71 Turkish speakers in 5 days, we felt that we deserved a drink.
+  My last dinner in Ankara. After a week of running Turkish participants, we felt that we deserved a drink.
