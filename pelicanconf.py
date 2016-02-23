@@ -56,6 +56,12 @@ THEME = "themes/twenty"
 CATEGORY_URL = "category/{slug}/"
 CATEGORY_SAVE_AS = "category/{slug}/index.html"
 
+ARTICLE_URL = 'blog/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
+
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+
 # Added plugin
 PLUGIN_PATHS = ["../pelican_plugins", ]
 PLUGINS = ["pelican-md-metayaml", ]
