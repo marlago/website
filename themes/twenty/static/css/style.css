@@ -1096,17 +1096,29 @@
 	}
 
 	/*Centered images don't get wrapped. */
-	img[align=center], .align-center img, img.align-center {
+	img[align=center], img.align-center {
 		margin: 2em auto;
 		display: block;
+	}
+	.figure.align-center {
+		margin: 2em auto;
+		display: table;
+		text-align: center;
 	}
 
 	/* Figure styling */
 	.legend {
-		background-color: #F5F5F5;
+		background-color: #d9d9d9;
 		font-style: italic;
+		font-size: .7em;
 		margin-top: 1em;
 		padding: 0 1em;
+		text-align: justify;
+	}
+
+	.align-center .legend {
+		display: table-caption;
+		caption-side: bottom;
 	}
 
 
