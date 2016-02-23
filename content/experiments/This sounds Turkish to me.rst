@@ -115,7 +115,7 @@ The important conditions were **(3c-d)**. Both conditions were ungrammatical (th
 
   ..
 
-  The results from Wagers and colleagues (2009). The participants in their experiment showed attraction in comprehension, and accepted ungrammatical sentences more often when they contained the attractor "cabinets" (3d). 
+  The results from Wagers and colleagues (2009). The participants in their experiment accepted ungrammatical sentences more often when they contained the attractor "cabinets" (3d). 
 
 The plot shows their results. The x-axis shows the 4 experimental conditions. The y-axis indicates the proportion of cases where participants judged sentences as acceptable. In the grammatical conditions, participants rated the sentences as acceptable most of the time (above 90%). In these conditions, it didn't seem to matter whether the sentences contained a singular or plural attractor.
 
@@ -127,9 +127,11 @@ In contrast, the ungrammatical sentences showed an interesting pattern. Whereas 
 
 So now we know that English speakers are susceptible to attraction errors in comprehension. Fine, no one is perfect. But why do these errors happen?
 
-Here is a very simple explanation: people fail to notice attraction errors in comprehension precisely because they often make them in production. I mean, it would make sense: people make these errors when they speak. **So since they hear these errors often, they will be more accustomed to them and they will notice them less in comprehension, right?** 
+Here is a VERY SIMPLE EXPLANATION: people fail to notice attraction errors in comprehension precisely because they often make them in production. I mean, it would make sense, no? People make these errors when they speak. **So since they hear these errors often, they will be more accustomed to them and they will notice them less in comprehension.** 
 
-It's a simple explanation, but it was not obvious how to test it in English. And this is where Turkish comes in! Because Turkish has one agreement property that makes it really different from languages like English or in fact, with any of the languages that researchers have tested to-date: **in Turkish, when a subject is plural** like *"The detectives" (Dedektifler)*, **Turkish people prefer singular** (e.g. *"works", çalıştı*) **instead of plural verbs** (e.g.  *"work"*, çalıştılar). No one knows exactly why, but one possibility is that since Turkish marks plural number by adding the suffixes *-lar/-ler* to both nouns and verbs, people might avoid plural verbs with plural subjects to not repeat the plural marker twice: e.g. *"The detectives work"* (*"Dedektifler çalıştılar"*, dispreferred) vs. *"The detectives works"* (*"Dedektifler çalıştı"*, preferred).
+It's a simple explanation, and it seemed obvious for English. But this also meant that we couldn't figure out how to test it scientifically! 
+
+So this is where Turkish comes in. Because Turkish has one agreement property that makes it really different from languages like English or in fact, from any of the languages that researchers have tested to-date: **in Turkish, when a subject is plural** like *"The detectives" (Dedektifler)*, **Turkish people prefer singular** (e.g. *"works", çalıştı*) **instead of plural verbs** (e.g.  *"work"*, çalıştılar). No one knows exactly why, but one possibility is that since Turkish marks plural number by adding the suffixes *-lar/-ler* to both nouns and verbs, people might avoid plural verbs with plural subjects to not repeat the plural marker twice: e.g. *"The detectives work"* (*"Dedektifler çalıştılar"*, dispreferred) vs. *"The detectives works"* (*"Dedektifler çalıştı"*, preferred).
 
 Regardless of the reason, it is known that Turkish speakers avoid producing sentences with plural verbs and plural subjects. This creates a language where, in contrast with English, people should not hear this combination often in speech. So, we wondered: *do Turkish speakers show agreement attraction in comprehension? Or is agreement attraction absent in Turkish, in contrast with English?*
 
@@ -141,7 +143,7 @@ Regardless of the reason, it is known that Turkish speakers avoid producing sent
 
   ..
 
-  My Ankara trip. Here you see me, Bilal and Orhan, from the Middle East Technical University.
+  My Ankara trip. In the pic you see me, Bilal and Orhan, from the Middle East Technical University.
 
 To answer this question, I flew to Ankara and I joined a group of researchers at the `Middle East Technical University <https://fle.metu.edu.tr>`__: Martina, Bilal, Duygu and Orhan.
 
