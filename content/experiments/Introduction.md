@@ -1,7 +1,7 @@
 ---
 Title: Why I write
 Date: 2016-02-24
-slug: >
+blurb: >
   Hi there! This is my first post.
 ---
 

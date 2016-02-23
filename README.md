@@ -50,11 +50,13 @@ In the root folder for this repo run the following:
 fab build
 ```
 
-## Development
+## On-going Development/Maintenance
 There are several things we need to start developing with this server.
 First, we need the conda environment to be activated and the site
 has to be built (see above).
 
+
+### Getting the Latest Changes
 If a pull request has been recently merged on the github website, the files on the local computer should be updated first by doing:
 ```sh
 git pull origin master
@@ -64,8 +66,12 @@ to the site can be seen simply by reloading it. This can be achieved with the fo
 ```sh
 fab rebuild && fab regenerate
 ```
-Last but not least, we need to start up a basic web server that will make our
-files accessible to web browsers like Firefox and Google Chrome.
+
+### Viewing Site Locally
+Most of the time we will want to preview the effect our changes have on the site
+before we release them to the world.
+In order to do that, we need to start up a basic web server that will make the files
+on our personal machine accessible to web browsers like Firefox and Google Chrome.
 Open a a new terminal tab or window (but still in the root of this project).
 After activating the website environment again in the next tab, run the following command:
 ```sh
@@ -75,6 +81,16 @@ This should print something to the effect of `Serving on port NNN`, where `NNN`
 is most likely `8000` (but could differ!).
 Provided this ran with no hiccups you can go to <http://localhost:8000> and
 rejoice (hopefully!) at the sight of your site!
+
+
+### Publishing Your Changes
+Once you are satisfied with the changes you've made, it's time to put them online!
+Make sure you are in a terminal where `source activate sol_site` has been already run.
+Then execute the following command:
+```
+fab ghpages
+```
+Et viola! Your tweaks should be live!
 
 
 ## Writing Content
