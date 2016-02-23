@@ -288,4 +288,4 @@ So this is where we are now. Despite disprefering plural subjects with plural ve
 
   ..
 
-  My last Ankara dinner. After running 71 Turkish speakers in 5 days, we felt that we deserved a drink.
+  My last dinner in Ankara. After running 71 Turkish speakers in 5 days, we felt that we deserved a drink.
