@@ -277,16 +277,9 @@ Surprisingly, this is NOT what happened: in fact, **our Turkish participants sho
 So this is where we are now. Despite disprefering plural subjects with plural verbs, Turkish speakers are still susceptible to attraction errors in comprehension. To us, this means that attraction errors in comprehension do not occur simply because people hear these errors often in production (although admittedly, we haven't tested whether Turkish people produce attraction errors yet). More generally, our results suggest that attraction errors in production and in comprehension might not obey the same principles, which is an intriguing possibility. But then, what causes attraction in comprehension? This, I think, will be a harder question to answer. Stay tuned for updates!
 
 .. figure:: {filename}/images/ankara_end.png
-  :width: 100%
-  :figwidth: 35%
   :align: center
   :alt: ankara_end
-  
 
-  
+  ..
 
-
-
-  
-
-  
+  My last Ankara dinner. After running 71 Turkish speakers in 5 days, we decided that we deserved a drink
