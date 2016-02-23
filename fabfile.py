@@ -24,7 +24,7 @@ env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
 # Github Pages configuration
-GH_USER_PAGE_REPO = "https://github.com/marlago/marlago.github.io.git"
+GH_USER_PAGE_REPO = "https://github.com/sollago/sollago.github.io.git"
 
 # Port for `serve`
 PORT = 8000
