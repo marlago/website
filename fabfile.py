@@ -24,7 +24,7 @@ env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
 # Github Pages configuration
-GH_USER_PAGE_REPO = "git@github.com:marlago/marlago.github.io.git"
+GH_USER_PAGE_REPO = "https://github.com/marlago/marlago.github.io.git"
 
 # Port for `serve`
 PORT = 8000
@@ -35,15 +35,15 @@ def clean():
         shutil.rmtree(DEPLOY_PATH)
         os.makedirs(DEPLOY_PATH)
 
-def build():
+def build(config="pelicanconf"):
     """Build local version of site"""
-    local('pelican -s pelicanconf.py')
+    local('pelican -s {0}.py'.format(config))
     collectstatic()
 
-def rebuild():
+def rebuild(config="pelicanconf"):
     """`clean` then `build`"""
     clean()
-    build()
+    build(config)
 
 def regenerate():
     """Automatically regenerate site upon file modification"""
@@ -92,9 +92,9 @@ def publish():
         extra_opts='-c',
     )
 
-def gh_pages():
+def ghpages():
     """Publish to GitHub Pages"""
-    rebuild()
+    rebuild(config="publishconf")
     local("ghp-import {0}".format(DEPLOY_PATH))
     local("git push {0} gh-pages:master".format(GH_USER_PAGE_REPO))
 
