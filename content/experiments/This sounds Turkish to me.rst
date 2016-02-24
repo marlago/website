@@ -105,7 +105,7 @@ In 2009, a group of researchers from the `University of Maryland <http://ling.um
 
     The key to the **cabinets** :underline:`were` on the table.
 
-The important conditions were **(3c-d)**. Both conditions were ungrammatical (that's why by convention they have a * in front). But crucially, (3d) had a plural attractor and (3c) didn't. Wagers and colleagues were interested in seeing whether the attractor would influence people’s judgments. They tested a group of Maryland students, who read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.
+A group of Maryland students read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.
 
 .. figure:: {filename}/images/wagers.png
   :width: 100%
@@ -216,7 +216,7 @@ We were especially interested in cases where the subject was plural and the verb
 
 |br|
 
-But what really surprised us is what we saw next. To check whether Turkish speakers were sensitive to attraction, we tested sentences similar to those used in English before. We couldn't use sentences exactly like *"They key to the cabinets"* in Turkish. So we used sentences where the attractors were possessor nouns *"students"* in "the **students'** advisor". We wanted to see whether the possessors would mislead Turkish speakers to accept ungrammatical sentences, just like *"cabinets"* had done to English speakers. We predicted that if people made these errors in comprehension due to hearing them often, then Turkish speakers should be immune to them, as they are not likely to hear plural subject-plural verb combinations in their language.
+But what really surprised us is what we saw next. To check whether Turkish speakers were sensitive to attraction, we tested sentences similar to those used in English before. We couldn't use sentences exactly like *"They key to the cabinets"* in Turkish. So we used sentences where the attractors were possessor nouns like *"students"* in "the **students'** advisor". We wanted to see whether the possessors would mislead Turkish speakers to accept ungrammatical sentences, just like *"cabinets"* had done to English speakers. We predicted that if people made these errors in comprehension due to hearing them often, then Turkish speakers should be immune to them, as they are not likely to hear plural subject-plural verb combinations in their language.
 
 .. figure:: {filename}/images/turkish_attraction.png
   :align: left

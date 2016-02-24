@@ -15,9 +15,9 @@ Publications
 
 - **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2015). Agreement attraction in Spanish comprehension. *Journal of Memory and Language*, 82, 133–149. `[pdf] <{filename}/pubs/Lago_etal_SpanishAgreement_2015.pdf>`__
 
-- **Lago, S.**, Scharinger, M., Kronrod, Y., & Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. *Brain and Language*, 143, 52–58. `[pdf] <{filename}/pubs/Lago_etal_Fricatives_2015.pdf>`__
-
 - Parker, D., **Lago, S.**, & Phillips, C. (2015). Interference in the processing of adjunct control. *Frontiers in Psychology*, 6:1346. `[link] <http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01346/full>`__
+
+- **Lago, S.**, Scharinger, M., Kronrod, Y., & Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. *Brain and Language*, 143, 52–58. `[pdf] <{filename}/pubs/Lago_etal_Fricatives_2015.pdf>`__
 
 - Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. *PLoS ONE*, 9,6, 1–11. `[link] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`__
 
