@@ -295,7 +295,7 @@ source activate sol_site
 fab serve
 ```
 
-* Notice that activating the site is a pre-requisite for running any command with fab.
+Notice that activating the site is a pre-requisite for running any command with fab.
 
 ### 3. Update the "public" website
 ```sh
