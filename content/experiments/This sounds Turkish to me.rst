@@ -105,7 +105,7 @@ In 2009, a group of researchers from the `University of Maryland <http://ling.um
 
     The key to the **cabinets** :underline:`were` on the table.
 
-A group of Maryland students read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.
+The participants read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.
 
 .. figure:: {filename}/images/wagers.png
   :width: 100%
