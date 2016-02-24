@@ -268,3 +268,37 @@ If you don't want a caption just write `..` instead of any text, like in the exa
   Here's a legend.
 ```
 In addition to `:figwidth:`, you can specify all the same parameters as for plain images.
+
+## Updating the site
+
+There are at least 3 steps involved in updating the site: (1) commiting the changes to git; (2) updating a local copy of the website; (3) updating the "public" website. The commands involved in each step are listed below.
+
+### To commit changes to git
+```sh
+git add .
+git commit -m "Explanatory message"
+git push origin master
+```
+
+### To update a local copy of the website.
+
+- If  the CSS files have been modified:
+```sh
+source activate sol_site
+fab rebuild && fab regenerate
+fab serve
+```
+
+- If  the CSS files have NOT been modified:
+```sh
+source activate sol_site
+fab serve
+```
+
+* Notice that activating the site is a pre-requisite for running any command with fab.
+
+### To update the "public" website
+```sh
+source activate sol_site
+fab ghpages
+```
