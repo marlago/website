@@ -11,7 +11,7 @@ Publications
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages.
 
-- Marijuan, S., **Lago, S.**, & Sanz C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press.
+- Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press.
 
 - **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2015). Agreement attraction in Spanish comprehension. *Journal of Memory and Language*, 82, 133–149. `[pdf] <{filename}/pubs/Lago_etal_SpanishAgreement_2015.pdf>`__
 
