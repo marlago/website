@@ -16,7 +16,7 @@ contact_info:
   address:
     - Campus Golm
     - Haus 2
-    - Karl-Liebknecht-Str. 24/5
+    - Karl-Liebknecht-Str. 24/25
     - 14476 Potsdam
     - Germany
 ---
