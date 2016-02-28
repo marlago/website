@@ -12,6 +12,7 @@ This all sounds Turkish to me
   <br />
 
 .. image:: {filename}/images/attraction_joke.png
+  :width: 60%
   :align: center
   :alt: joke
 
@@ -44,7 +45,6 @@ Some people say that it sounds fine. Others say that it does not sound quite rig
 Everyone agrees about (2): it sounds terrible, no one would say that! But if you think about it, from a purely grammatical viewpoint both sentences are equally WRONG. In both cases, the verb *"are"* is incorrect because it should agree with *"key"*  : it is the key that is on the table, not the cabinets! But for some reason, people like the sentence more when the verb agrees in number with *"cabinets"*, which is a modifier (not the head) of the subject phrase. So why does (1) sound better than (2)?
 
 .. figure:: {filename}/images/attraction_examples.png
-  :width: 100%
   :figwidth: 55%
   :alt: examples
   :align: left
@@ -108,7 +108,6 @@ In 2009, a group of researchers from the `University of Maryland <http://ling.um
 The participants read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.
 
 .. figure:: {filename}/images/wagers.png
-  :width: 100%
   :figwidth: 45%
   :align: left
   :alt: wagers
@@ -136,7 +135,6 @@ This is where Turkish comes in. Because Turkish has one agreement property that 
 Regardless of the specific reason, it is known that Turkish speakers avoid producing sentences with plural verbs and plural subjects. This creates a language where, in contrast with English, people should not hear this combination often in speech. So, we wondered: *do Turkish speakers show agreement attraction in comprehension? Or is agreement attraction absent in Turkish, in contrast with English?*
 
 .. figure:: {filename}/images/ankara.png
-  :width: 100%
   :figwidth: 53%
   :alt: ankara
   :align: left
@@ -152,7 +150,6 @@ First, we decided to verify that Turkish people really preferred plural to singu
 We were especially interested in cases where the subject was plural and the verb was singular (4d). These cases would be totally bad in English but they should be ok in Turkish, since Turkish speakers might prefer singular verbs to avoid repetition of the plural marker. And in fact, this is what we saw: Turkish speakers judged sentences like (4d) as acceptable almost 99% of the time!
 
 .. figure:: {filename}/images/turkish_dispreference.png
-  :width: 100%
   :figwidth: 45%
   :align: left
   :alt: plurals
@@ -220,7 +217,6 @@ But what really surprised us is what we saw next. To check whether Turkish speak
 
 .. figure:: {filename}/images/turkish_attraction.png
   :align: left
-  :width: 100%
   :figwidth: 45%
   :alt: turkish attraction
 
@@ -287,6 +283,7 @@ Surprisingly, this is NOT what happened: in fact, **our Turkish participants sho
 So this is where we are now. It is kind of puzzling: despite disprefering plural subjects with plural verbs, Turkish speakers are still susceptible to attraction errors. To us, this means that attraction errors in comprehension do not occur simply because people hear these errors often in production (although admittedly, we haven't tested whether Turkish people produce attraction errors yet... If we are on the right track, they shouldn't!). More generally, our results suggest that attraction errors in production and in comprehension might not obey the same principles, which is an intriguing possibility. But then, what causes attraction in comprehension? This, I think, will be a harder question to answer. Stay tuned for updates!
 
 .. figure:: {filename}/images/ankara_end.png
+  :figwidth: 55%
   :align: center
   :alt: ankara_end
 
