@@ -3,10 +3,12 @@
 {% block title %}{{ category|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
+    {% set articledict = dict(categories) %}
+    {% set experiments = articledict['experiments'] %}
     <section class="wrapper style1 container">
       <div class="row">
         <div class="content 8u">
-          {% set active_article = articles|first %}
+          {% set active_article = experiments|first %}
           <section class="latest-article blog-post">
             <header>
               <a href="{{ SITEURL }}/{{ active_article.url }}"><h2>{{ active_article.title }}</h2></a>
@@ -28,7 +30,7 @@
             Also ignoring the latest article since it will already
             be shown in the left 2/3s of the screen.
             -->
-            {% for article in articles[1:] %}
+            {% for article in experiments[1:] %}
               <section>
                 <header>
                   <a href="/{{ article.url }}"> <h4>{{ article.title }}</h4> </a>

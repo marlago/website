@@ -62,6 +62,10 @@ ARTICLE_SAVE_AS = 'blog/{slug}.html'
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
+INDEX_SAVE_AS = "blog.html"
+
+DIRECT_TEMPLATES = ['blog']
+
 # Added plugin
 PLUGIN_PATHS = ["../pelican_plugins", ]
 PLUGINS = ["pelican-md-metayaml", ]
