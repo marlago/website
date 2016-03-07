@@ -750,9 +750,12 @@
 
 	#mobile-nav #menu ul li {
 		/* so that list items display one per line */
-	    display: block;
-	    /* we don't need a left margin in this case */
-	    margin-left: 0
+		display: block;
+		/* we don't need a left margin in this case */
+		margin-left: 0;
+		/* Need to increase font size and space between elements for touch screens */
+		font-size: 1.2em;
+		line-height: 2.2em;
 	}
 
 /* Dropotron */
