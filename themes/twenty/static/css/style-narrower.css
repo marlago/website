@@ -122,3 +122,8 @@
 	#footer {
 		padding: 4em 1.5em;
 	}
+
+/* Figure legends */
+	.legend {
+		text-align: inherit;
+	}
