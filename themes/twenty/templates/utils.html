@@ -1,49 +1,49 @@
 {% macro link_new_tab(url, text=None) %}
-  {% if text is none %}
-    {% set text = url %}
-  {% endif %}
-  <a href="{{ url }}" target="_blank">{{ text }}</a>
+{% if text is none %}
+{% set text = url %}
+{% endif %}
+<a href="{{ url }}" target="_blank">{{ text }}</a>
 {% endmacro %}
 
 {% macro render_personal(contact_info) %}
 
-    <div class="personal-field">
-    <img src="{{ contact_info.picture_src }}" class="wrapped-right">
-    </div>
-    <div class="personal-field">
-        {{ contact_info.job_title }}
-    </div>
-    <div class="personal-field">
-        {{ link_new_tab(contact_info.employer.URL, contact_info.employer.name) }}
-        <br>
-        {{ list_to_lines(contact_info.employer.additional_info) }}
-    </div>
-    <div class="personal-field">
-        {{ link_new_tab(contact_info.CV, "CV") }}
-        <br>
-        {{ contact_info.email }}
-    </div>
-    <div class="personal-field">
-        {{ list_to_lines(contact_info.address) }}
-    </div>
+<div class="personal-field">
+  <img src="{{ contact_info.picture_src }}" class="wrapped-right">
+</div>
+<div class="personal-field">
+  {{ contact_info.job_title }}
+</div>
+<div class="personal-field">
+  {{ link_new_tab(contact_info.employer.URL, contact_info.employer.name) }}
+  <br>
+  {{ list_to_lines(contact_info.employer.additional_info) }}
+</div>
+<div class="personal-field">
+  {{ link_new_tab(contact_info.CV, "CV") }}
+  <br>
+  {{ contact_info.email }}
+</div>
+<div class="personal-field">
+  {{ list_to_lines(contact_info.address) }}
+</div>
 {% endmacro %}
 
 
 {% macro list_to_lines(some_list) %}
-        {{ some_list|join('<br>') }}
+{{ some_list|join('<br>') }}
 {% endmacro %}
 
 {% macro render_articles(title, articles) %}
-  <section>
-    <header>
-      <h2>{{ title }}</h2>
-    </header>
-    <ul class="default">
-      {% for article in articles[:3] %}
-        <li>
-          <strong>{{ article.title }}: </strong>{{ article.blurb|markdown }}
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
+<section>
+  <header>
+    <h2>{{ title }}</h2>
+  </header>
+  <ul class="default">
+    {% for article in articles[:3] %}
+    <li>
+      <strong>{{ article.title }}: </strong>{{ article.blurb|markdown }}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
 {% endmacro %}

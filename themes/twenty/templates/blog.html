@@ -3,42 +3,42 @@
 {% block title %}{{ category|striptags }} | {{ super() }}{% endblock title %}
 
 {% block content %}
-    {% set articledict = dict(categories) %}
-    {% set experiments = articledict['experiments'] %}
-    <section class="wrapper style1 container">
-      <div class="row">
-        <div class="content 8u">
-          {% set active_article = experiments|first %}
-          <section class="latest-article blog-post">
-            <header>
-              <a href="{{ SITEURL }}/{{ active_article.url }}"><h2>{{ active_article.title }}</h2></a>
-            </header>
-            <p>{{ active_article.content|truncate(300) }}</p>
-            <footer class="special button-block">
-              <a href="{{ SITEURL }}/{{ active_article.url }}" class="button">Read More</a>
-            </footer>
-          </section>
-        </div>
-        <div class="4u">
-          <header>
-            <h3>Past Posts</h3>
-          </header>
-          <!-- Sidebar -->
-          <div class="sidebar">
+{% set articledict = dict(categories) %}
+{% set experiments = articledict['experiments'] %}
+<section class="wrapper style1 container">
+  <div class="row">
+    <div class="content 8u">
+      {% set active_article = experiments|first %}
+      <section class="latest-article blog-post">
+        <header>
+          <a href="{{ SITEURL }}/{{ active_article.url }}"><h2>{{ active_article.title }}</h2></a>
+        </header>
+        <p>{{ active_article.content|truncate(300) }}</p>
+        <footer class="special button-block">
+          <a href="{{ SITEURL }}/{{ active_article.url }}" class="button">Read More</a>
+        </footer>
+      </section>
+    </div>
+    <div class="4u">
+      <header>
+        <h3>Past Posts</h3>
+      </header>
+      <!-- Sidebar -->
+      <div class="sidebar">
             <!--
             Only looping over articles in this category in descending order.
             Also ignoring the latest article since it will already
             be shown in the left 2/3s of the screen.
-            -->
-            {% for article in experiments[1:] %}
-              <section>
-                <header>
-                  <a href="/{{ article.url }}"> <h4>{{ article.title }}</h4> </a>
-                </header>
-              </section>
-            {% endfor %}
-          </div>
+          -->
+          {% for article in experiments[1:] %}
+          <section>
+            <header>
+              <a href="/{{ article.url }}"> <h4>{{ article.title }}</h4> </a>
+            </header>
+          </section>
+          {% endfor %}
         </div>
       </div>
-    </section>
-{% endblock content %}
+    </div>
+  </section>
+  {% endblock content %}

@@ -4,52 +4,52 @@
 
 {% block content %}
 
-    <header class="article-header container">
-      <h2>{{ article.title }}</h2>
-    </header>
+<header class="article-header container">
+  <h2>{{ article.title }}</h2>
+</header>
 
-    <!-- One -->
-      <section class="wrapper style4 container">
+<!-- One -->
+<section class="wrapper style4 container">
 
-        <!-- Content -->
-          <div class="content">
-            <section class="blog-post">
-              <p class="tags">
-              {% if article.tags %}
-                {% for tag in article.tags %}
-                  <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-                {% endfor %}
-              {% endif %}</p>
-              <p>{{ article.content }}</p>
-            </section>
-          </div>
+  <!-- Content -->
+  <div class="content">
+    <section class="blog-post">
+      <p class="tags">
+        {% if article.tags %}
+        {% for tag in article.tags %}
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+        {% endfor %}
+        {% endif %}</p>
+        <p>{{ article.content }}</p>
       </section>
-      <footer class="special button-block container">
-        <div>
-          Posted on {{ article.locale_date }} by {{ article.author }}
-        </div>
-        <a href="{{ SITEURL }}/blog.html" class="button large">Back to Blog</a>
-      </footer>
-
-{% endblock content %}
-
-
-{% block additional_content %}
-  {% if DISQUS_SITENAME %}
-    <div id="comments">
-        <h2 class="space-above">Comments</h2>
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            var disqus_identifier = "{{ article.url }}";
-            (function() {
-                var dsq = document.createElement('script');
-                dsq.type = 'text/javascript';
-                dsq.async = true;
-                dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
     </div>
+  </section>
+  <footer class="special button-block container">
+    <div>
+      Posted on {{ article.locale_date }} by {{ article.author }}
+    </div>
+    <a href="{{ SITEURL }}/blog.html" class="button large">Back to Blog</a>
+  </footer>
+
+  {% endblock content %}
+
+
+  {% block additional_content %}
+  {% if DISQUS_SITENAME %}
+  <div id="comments">
+    <h2 class="space-above">Comments</h2>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_identifier = "{{ article.url }}";
+      (function() {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+  </div>
   {% endif %}
-{% endblock %}
+  {% endblock %}
