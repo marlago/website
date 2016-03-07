@@ -29,26 +29,31 @@ GH_USER_PAGE_REPO = "https://github.com/sollago/sollago.github.io.git"
 # Port for `serve`
 PORT = 8000
 
+
 def clean():
     """Remove generated files"""
     if os.path.isdir(DEPLOY_PATH):
         shutil.rmtree(DEPLOY_PATH)
         os.makedirs(DEPLOY_PATH)
 
+
 def build(config="pelicanconf"):
     """Build local version of site"""
     local('pelican -s {0}.py'.format(config))
     collectstatic()
+
 
 def rebuild(config="pelicanconf"):
     """`clean` then `build`"""
     clean()
     build(config)
 
+
 def regenerate():
     """Automatically regenerate site upon file modification"""
     local('pelican -r -s pelicanconf.py')
     collectstatic()
+
 
 def serve():
     """Serve site at http://localhost:8000/"""
@@ -62,14 +67,17 @@ def serve():
     sys.stderr.write('Serving on port {0} ...\n'.format(PORT))
     server.serve_forever()
 
+
 def reserve():
     """`build`, then `serve`"""
     build()
     serve()
 
+
 def preview():
     """Build production version of site"""
     local('pelican -s publishconf.py')
+
 
 def cf_upload():
     """Publish to Rackspace Cloud Files"""
@@ -79,6 +87,7 @@ def cf_upload():
               '-U {cloudfiles_username} '
               '-K {cloudfiles_api_key} '
               'upload -c {cloudfiles_container} .'.format(**env))
+
 
 @hosts(production)
 def publish():
@@ -92,6 +101,7 @@ def publish():
         extra_opts='-c',
     )
 
+
 def ghpages():
     """Publish to GitHub Pages"""
     rebuild(config="publishconf")
@@ -99,10 +109,12 @@ def ghpages():
     local("git push {0} gh-pages:master".format(GH_USER_PAGE_REPO))
 
 # Added to work with twenty html5up theme
+
+
 def collectstatic():
-  if os.path.isdir(DEPLOY_PATH):
-    local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
-    local('cp -rf {theme_path}/twenty/static/css/* {deploy_path}/css/'.format(**env))
-    local('cp -rf {theme_path}/twenty/static/js/* {deploy_path}/js/'.format(**env))
-    local('cp -rf {theme_path}/twenty/static/fonts/* {deploy_path}/fonts/'.format(**env))
-    local('cp -rf {theme_path}/twenty/static/images/* {deploy_path}/images/'.format(**env))
+    if os.path.isdir(DEPLOY_PATH):
+        local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
+        local('cp -rf {theme_path}/twenty/static/css/* {deploy_path}/css/'.format(**env))
+        local('cp -rf {theme_path}/twenty/static/js/* {deploy_path}/js/'.format(**env))
+        local('cp -rf {theme_path}/twenty/static/fonts/* {deploy_path}/fonts/'.format(**env))
+        local('cp -rf {theme_path}/twenty/static/images/* {deploy_path}/images/'.format(**env))
