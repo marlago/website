@@ -284,6 +284,7 @@ git push origin master
 
 - If  the CSS files have been modified:
 ```sh
+git pull origin master
 source activate sol_site
 fab rebuild && fab regenerate
 fab serve
@@ -291,6 +292,7 @@ fab serve
 
 - If  the CSS files have NOT been modified:
 ```sh
+git pull origin master
 source activate sol_site
 fab serve
 ```
