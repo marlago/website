@@ -33,6 +33,8 @@ Conferences
 
 .. class:: year-list
 
+- 1. **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Straight from the horse's mouth: agreement attraction effects with Turkish possessors. Poster at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
+
 - Stutter, A., **Lago, S.**, & Felser, C. Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
 
 - **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors: evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
@@ -111,40 +113,17 @@ Conferences
 Invited Talks
 =============
 
-
-2015
------
-
 .. class:: year-list
 
-- **Lago, S.** N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
+- **Lago, S.** (2015). N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
 
+- **Lago, S.** (2013). Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
 
+- **Lago, S.** (2012). Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
 
-2013
------
+- **Lago, S.** (2012). Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
 
-.. class:: year-list
+- Parker, D., **Lago, S.**, & Phillips, C. (2012). When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
 
-- **Lago, S.** Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
-
-
-2012
------
-
-.. class:: year-list
-
-- **Lago, S.** Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
-
-- **Lago, S.** Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
-
-- Parker, D., **Lago, S.**, & Phillips, C. When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
-
-
-2010
------
-
-.. class:: year-list
-
-- **Lago, S.** Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
+- **Lago, S.** (2010). Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
 
