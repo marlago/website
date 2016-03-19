@@ -24,12 +24,9 @@ Publications
 - Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83.
 
 
-.. class :: groupby-year
-
 Conferences
 ===========
 
-.. class :: year-group
 
 2016
 -----
@@ -40,8 +37,6 @@ Conferences
 
 - **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors: evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
 
-
-.. class :: year-group
 
 2015
 ----
@@ -54,8 +49,6 @@ Conferences
 
 - **Lago, S.**, & Felser, C. Computation of number agreement in native and non-native speakers of German. Poster presented at CUNY, Los Angeles, California, March 19– 21.
 
-
-.. class :: year-group
 
 2014
 ----
@@ -73,8 +66,6 @@ Conferences
 - Marijuan, S., **Lago, S.** & Sanz, C. Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Talk at GURT, Washington, Maryland, March 14–16.
 
 
-.. class :: year-group
-
 2013
 ----
 
@@ -87,8 +78,6 @@ Conferences
 - **Lago, S.**, Sloggett, S., Chow, W.Y., & Phillips, C. What types of lexical information are reaccessed during pronoun processing? Poster at CUNY, Columbia, South Carolina, March 14–16.
 
 
-.. class :: year-group
-
 2012
 ----
 
@@ -99,7 +88,6 @@ Conferences
 - Parker, D., **Lago, S.**, & Phillips, C. Retrieval Interference in the Resolution of Anaphoric PRO. Poster at CUNY, New York, March 14–16.
 
 
-.. class :: year-group
 
 2011
 ----
@@ -111,8 +99,6 @@ Conferences
 - **Lago, S.**, Chow, W.Y., & Phillips, C. Word frequency affects pronouns and antecedents identically: Distributional Evidence. Talk at CUNY, Stanford, California, March 24–26.
 
 
-.. class :: year-group
-
 2010
 ----
 
@@ -121,13 +107,10 @@ Conferences
 - **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12.
 
 
-.. class :: groupby-year
-
 
 Invited Talks
 =============
 
-.. class :: year-group
 
 2015
 -----
@@ -137,7 +120,6 @@ Invited Talks
 - **Lago, S.** N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
 
 
-.. class :: year-group
 
 2013
 -----
@@ -146,8 +128,6 @@ Invited Talks
 
 - **Lago, S.** Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
 
-
-.. class :: year-group
 
 2012
 -----
@@ -160,8 +140,6 @@ Invited Talks
 
 - Parker, D., **Lago, S.**, & Phillips, C. When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
 
-
-.. class :: year-group
 
 2010
 -----
