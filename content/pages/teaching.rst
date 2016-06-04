@@ -1,66 +1,58 @@
 Teaching
-#########
-
-Courses
-=======
+########
 
 
-2012
-----
-
-.. class:: year-list
-
-- **Psycholinguistics Seminar “Memory & Language Processing”**
-
-  Instructor, University of Maryland
-
-- **Phonology I**
-
-  Teaching Assistant , University of Maryland
-
-
-2010
-----
-
-.. class:: year-list
-
-- **Introduction to Language**
-
-  Teaching Assistant, University of Maryland
-
-
-
-Workshops
-==========
+Courses & Workshops
+-------------------
 
 
 2014
 ----
 
-.. class:: year-list
+.. class:: default
 
 - **Analyzing linguistic data with R**
 
-  Instructor, University of Maryland
+  Instructor, workshop at University of Maryland
+
+
+2012
+----
+
+.. class:: default
+
+- **Psycholinguistics Seminar “Memory & Language Processing”**
+
+  Instructor, undergraduate course at University of Maryland
+
+- **Phonology I**
+
+  Teaching assistant , undergraduate course at University of Maryland
 
 
 2011
 ----
 
-.. class:: year-list
+.. class:: default
 
-- **EEG and MEG**
+- **Using Electroencephalography and Magnetoencephalography in Psycholinguistics**
 
-  Instructor, Gallaudet University
+  Instructor, workshop at Gallaudet University
+
 
 
 2010
 ----
 
-.. class:: year-list
+.. class:: default
 
-- **MEG**
+- **Introduction to Language**
 
-  Instructor, University of Maryland
+  Teaching assistant, undergraduate course at University of Maryland
+
+
+- **An introduction to Magnetoencephalography (MEG)**
+
+  Instructor, workshop at University of Maryland
 
 

@@ -7,6 +7,8 @@ Publications
 
 .. class:: default
 
+- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*submitted*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
+
 - **Lago, S.**, & Felser, C. (*submitted*). Agreement attraction in native and non-native speakers of German.
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages.
@@ -33,7 +35,7 @@ Conferences
 
 .. class:: year-list
 
-- **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Agreement attraction in Turkish. Posted presented at AMLaP, Bilbao, Spain, September 1-3.
+- **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Agreement attraction in Turkish. Poster at AMLaP, Bilbao, Spain, September 1-3.
 
 - **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Straight from the horse's mouth: agreement attraction effects with Turkish possessors. Poster at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
 
@@ -115,7 +117,7 @@ Conferences
 Invited Talks
 =============
 
-.. class:: year-list
+.. class:: default
 
 - **Lago, S.** (2015). N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
 
