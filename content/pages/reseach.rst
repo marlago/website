@@ -13,11 +13,11 @@ Publications
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*under review*). Coreference and antecedent representation across languages.
 
-- Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press.
+- Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. `[pdf] <{filename}/pubs/Marijuan_Lago_Sanz_2016.pdf>`__
 
 - **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2015). Agreement attraction in Spanish comprehension. *Journal of Memory and Language*, 82, 133–149. `[pdf] <{filename}/pubs/Lago_etal_SpanishAgreement_2015.pdf>`__
 
-- Parker, D., **Lago, S.**, & Phillips, C. (2015). Interference in the processing of adjunct control. *Frontiers in Psychology*, 6:1346. `[link] <http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01346/full>`__
+- Parker, D., **Lago, S.**, & Phillips, C. (2015). Interference in the processing of adjunct control. *Frontiers in Psychology*, 6:1346. doi: 10.3389/fpsyg.2015.01346 `[link] <http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01346/full>`__
 
 - **Lago, S.**, Scharinger, M., Kronrod, Y., & Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. *Brain and Language*, 143, 52–58. `[pdf] <{filename}/pubs/Lago_etal_Fricatives_2015.pdf>`__
 
