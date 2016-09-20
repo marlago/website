@@ -22,8 +22,7 @@ contact_info:
 ---
 
 ### About
-I study language comprehension. My goal is to figure out how people are able to integrate current and past knowledge when understanding sentences. How do we achieve this feat so quickly and effortlessly? And how flexible are memory retrieval mechanisms across languages? I use eye-tracking, neurophysiological (ERP, MEG) and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language comprehension.
-
+I study how people understand sentences in different languages. My goal is to figure out how humans represent and use grammatical knowledge, and whether this knowledge changes when they are exposed to a new language. I use eye-tracking, neurophysiological (ERP, MEG) and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language comprehension in multilingual speakers.
 
 
 ### Background
