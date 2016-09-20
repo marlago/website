@@ -46,7 +46,11 @@ Courses & Workshops
 
 .. class:: default
 
-- **Introduction to Language**
+- **Introduction to Language** (Spring)
+
+  Teaching assistant, undergraduate course at University of Maryland
+
+- **Introduction to Language** (Fall)
 
   Teaching assistant, undergraduate course at University of Maryland
 

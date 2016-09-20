@@ -13,9 +13,9 @@ Publications
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*submitted*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
 
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages.
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition.*
 
-- Jacob, G., **Lago, S.**, & Patterson, C. (*in press*). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. Bilingualism: Language and Cognition.
+- Jacob, G., **Lago, S.**, & Patterson, C. (*in press*). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*.
 
 - Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. `[pdf] <{filename}/pubs/Marijuan_Lago_Sanz_2016.pdf>`__
 
@@ -43,7 +43,7 @@ Conferences
 
 - Stutter, A., **Lago, S.**, & Felser, C. Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
 
-- Stutter Garcia, A., & **Lago, S.** (2016). The role of native and non-native grammars in multilingual sentence processing. Talk at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
+- Stutter Garcia, A., & **Lago, S.**. The role of native and non-native grammars in multilingual sentence processing. Talk at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
 
 - **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Straight from the horse's mouth: agreement attraction effects with Turkish possessors. Poster at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
 
