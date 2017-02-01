@@ -2,61 +2,55 @@ Teaching
 ########
 
 
-Courses & Workshops
+Courses 
 -------------------
 
-
-2014
-----
-
 .. class:: default
 
-- **Analyzing linguistic data with R**
 
-  Instructor, workshop at University of Maryland
+- **Multilingual Research**
 
+  April-July 2017. Instructor, undergraduate course at University of Potsdam
 
-2012
-----
-
-.. class:: default
 
 - **Psycholinguistics Seminar “Memory & Language Processing”**
 
-  Instructor, undergraduate course at University of Maryland
+  Fall 2012. Instructor, undergraduate course at University of Maryland
+
 
 - **Phonology I**
 
-  Teaching assistant , undergraduate course at University of Maryland
+  Spring 2012. Teaching assistant , undergraduate course at University of Maryland
 
 
-2011
-----
+- **Introduction to Language** 
 
-.. class:: default
+  Spring 2010. Teaching assistant, undergraduate course at University of Maryland
 
-- **Using Electroencephalography and Magnetoencephalography in Psycholinguistics**
-
-  Instructor, workshop at Gallaudet University
-
-
-
-2010
-----
-
-.. class:: default
-
-- **Introduction to Language** (Spring)
-
-  Teaching assistant, undergraduate course at University of Maryland
 
 - **Introduction to Language** (Fall)
 
-  Teaching assistant, undergraduate course at University of Maryland
+  Fall 2010. Teaching assistant, undergraduate course at University of Maryland
+
+
+Workshops
+-------------------
+
+.. class:: default
+
+
+- **Analyzing linguistic data with R**
+
+  Winter 2014. Instructor, workshop at University of Maryland
+
+
+- **Using Electroencephalography and Magnetoencephalography in Psycholinguistics**
+
+  August 2011. Instructor, workshop at Gallaudet University
 
 
 - **An introduction to Magnetoencephalography (MEG)**
 
-  Instructor, workshop at University of Maryland
+  January 2010. Instructor, workshop at University of Maryland
 
 

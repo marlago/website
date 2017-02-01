@@ -13,9 +13,9 @@ Publications
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*submitted*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
 
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition.*
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
-- Jacob, G., **Lago, S.**, & Patterson, C. (*in press*). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*.
+- Jacob, G., **Lago, S.**, & Patterson, C. (*in press*). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
 
 - Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. `[pdf] <{filename}/pubs/Marijuan_Lago_Sanz_2016.pdf>`__
 
@@ -30,8 +30,38 @@ Publications
 - Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83.
 
 
+Invited Talks
+=============
+
+.. class:: default
+
+- **Lago, S.** (2016). Grammar in the multilingual mind. Talk at Universität Mannheim, Mannheim, September 12.
+
+- **Lago, S.** (2015). N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
+
+- **Lago, S.** (2013). Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
+
+- **Lago, S.** (2012). Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
+
+- **Lago, S.** (2012). Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
+
+- Parker, D., **Lago, S.**, & Phillips, C. (2012). When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
+
+- **Lago, S.** (2010). Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
+
+
 Conferences
 ===========
+
+
+2017
+-----
+
+.. class:: year-list
+
+- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. Anaphor interpretation in Turkish heritage speakers. Poster at International Symposium on Bilingualism, Limerick, Ireland, June 11-15.
+
+- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. Contextual and syntactic information jointly affect the processing of Turkish anaphors. Poster at CUNY, Cambridge, Massachusetts, March 30-April 1.
 
 
 2016
@@ -119,23 +149,4 @@ Conferences
 - **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12.
 
 
-
-Invited Talks
-=============
-
-.. class:: default
-
-- **Lago, S.** (2016). Grammar in the multilingual mind. Talk at Universität Mannheim, Mannheim, September 12.
-
-- **Lago, S.** (2015). N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
-
-- **Lago, S.** (2013). Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
-
-- **Lago, S.** (2012). Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
-
-- **Lago, S.** (2012). Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
-
-- Parker, D., **Lago, S.**, & Phillips, C. (2012). When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
-
-- **Lago, S.** (2010). Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
 

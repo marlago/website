@@ -1,7 +1,7 @@
 This all sounds Turkish to me
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 :date: 2016-02-27
-:blurb: We all make mistakes. This is true of haircuts, job interviews, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed.
+:blurb: We all make mistakes. This is true of haircuts, job interviews, extra slices of cake and crucially, language. So here is one type of language error that you probably hear often but have never noticed...
 
 .. role:: underline
 
