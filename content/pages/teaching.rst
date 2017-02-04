@@ -28,7 +28,7 @@ Courses
   Spring 2010. Teaching assistant, undergraduate course at University of Maryland
 
 
-- **Introduction to Language** (Fall)
+- **Introduction to Language**
 
   Fall 2010. Teaching assistant, undergraduate course at University of Maryland
 
