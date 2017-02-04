@@ -15,7 +15,7 @@ Publications
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
-- Jacob, G., **Lago, S.**, & Patterson, C. (*in press*). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
+- Jacob, G., **Lago, S.**, & Patterson, C. (2016). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
 
 - Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. `[pdf] <{filename}/pubs/Marijuan_Lago_Sanz_2016.pdf>`__
 
