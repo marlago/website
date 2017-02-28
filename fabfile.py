@@ -1,6 +1,7 @@
 import os
 import shutil
 import sys
+from time import strftime, gmtime
 
 # in Python 2.x this is SocketServer
 import socketserver
@@ -81,9 +82,10 @@ def publish():
     os.chdir(GH_USER_PAGE_PATH)
     local('git checkout master')
     local('git pull origin master')
-    local('rsync -a --delete {} .'.format(os.path.join(current_dir, OUTPUT_PATH)))
+    local('rsync -a --delete {}/* .'.format(os.path.join(current_dir, OUTPUT_PATH)))
     local('git add .')
-    local("git commit -m \"Publishing on `date --utc '+%F %R:%S %Z'`\"")
+    commit_msg = "Publishing on " + strftime('%F %R:%S %Z', gmtime())
+    local('git commit -m "{}"'.format(commit_msg))
     local("git push origin master")
     os.chdir(current_dir)
 
