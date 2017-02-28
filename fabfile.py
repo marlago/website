@@ -1,30 +1,23 @@
-from fabric.api import *
-import fabric.contrib.project as project
 import os
 import shutil
 import sys
+
 # in Python 2.x this is SocketServer
 import socketserver
 
+from fabric.api import *
 from pelican.server import ComplexHTTPRequestHandler
 
 # Local path configuration (can be absolute or relative to fabfile)
 env.deploy_path = 'output'
 env.theme_path = 'themes'
-DEPLOY_PATH = env.deploy_path
+OUTPUT_PATH = env.deploy_path
 THEME_PATH = env.theme_path
 
-# Remote server configuration
-production = 'root@localhost:22'
-dest_path = '/var/www'
-
-# Rackspace Cloud Files configuration settings
-env.cloudfiles_username = 'my_rackspace_username'
-env.cloudfiles_api_key = 'my_rackspace_api_key'
-env.cloudfiles_container = 'my_cloudfiles_container'
-
 # Github Pages configuration
-GH_USER_PAGE_REPO = "https://github.com/sollago/sollago.github.io.git"
+GH_USER_PAGE_URL = "sollago.github.io"
+GH_USER_PAGE_PATH = "../{}".format(GH_USER_PAGE_URL)
+GH_USER_PAGE_REPO = "https://github.com/sollago/{}.git".format(GH_USER_PAGE_URL)
 
 # Port for `serve`
 PORT = 8000
@@ -32,9 +25,9 @@ PORT = 8000
 
 def clean():
     """Remove generated files"""
-    if os.path.isdir(DEPLOY_PATH):
-        shutil.rmtree(DEPLOY_PATH)
-        os.makedirs(DEPLOY_PATH)
+    if os.path.isdir(OUTPUT_PATH):
+        shutil.rmtree(OUTPUT_PATH)
+        os.makedirs(OUTPUT_PATH)
 
 
 def build(config="pelicanconf"):
@@ -79,41 +72,29 @@ def preview():
     local('pelican -s publishconf.py')
 
 
-def cf_upload():
-    """Publish to Rackspace Cloud Files"""
-    rebuild()
-    with lcd(DEPLOY_PATH):
-        local('swift -v -A https://auth.api.rackspacecloud.com/v1.0 '
-              '-U {cloudfiles_username} '
-              '-K {cloudfiles_api_key} '
-              'upload -c {cloudfiles_container} .'.format(**env))
-
-
-@hosts(production)
 def publish():
-    """Publish to production via rsync"""
-    local('pelican -s publishconf.py')
-    project.rsync_project(
-        remote_dir=dest_path,
-        exclude=".DS_Store",
-        local_dir=DEPLOY_PATH.rstrip('/') + '/',
-        delete=True,
-        extra_opts='-c',
-    )
-
-
-def ghpages():
-    """Publish to GitHub Pages"""
     rebuild(config="publishconf")
-    local("ghp-import {0}".format(DEPLOY_PATH))
-    local("git push {0} gh-pages:master".format(GH_USER_PAGE_REPO))
-
-# Added to work with twenty html5up theme
+    current_dir = os.getcwd()
+    if not os.path.isdir(GH_USER_PAGE_PATH):
+        local('git clone {0} {1}'.format(
+            GH_USER_PAGE_REPO, GH_USER_PAGE_PATH))
+    os.chdir(GH_USER_PAGE_PATH)
+    local('git checkout master')
+    local('git pull origin master')
+    local('rsync -a --delete {} .'.format(os.path.join(current_dir, OUTPUT_PATH)))
+    local('git add .')
+    local("git commit -m \"Publishing on `date --utc '+%F %R:%S %Z'`\"")
+    local("git push origin master")
+    os.chdir(current_dir)
 
 
 def collectstatic():
-    if os.path.isdir(DEPLOY_PATH):
-        local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
+    """Added to work with twenty html5up theme"""
+    if os.path.isdir(OUTPUT_PATH):
+        local(('mkdir -p {deploy_path}/css/'
+               ' {deploy_path}/js/'
+               ' {deploy_path}/fonts/'
+               ' {deploy_path}/images/').format(**env))
         local('cp -rf {theme_path}/twenty/static/css/* {deploy_path}/css/'.format(**env))
         local('cp -rf {theme_path}/twenty/static/js/* {deploy_path}/js/'.format(**env))
         local('cp -rf {theme_path}/twenty/static/fonts/* {deploy_path}/fonts/'.format(**env))

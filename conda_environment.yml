@@ -16,7 +16,6 @@ dependencies:
   - ecdsa==0.13
   - fabric3==1.10.2.post1
   - feedgenerator==1.7
-  - ghp-import==0.4.1
   - jinja2==2.8
   - markdown==2.6.5
   - markupsafe==0.23

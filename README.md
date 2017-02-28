@@ -88,7 +88,7 @@ Once you are satisfied with the changes you've made, it's time to put them onlin
 Make sure you are in a terminal where `source activate sol_site` has been already run.
 Then execute the following command:
 ```
-fab ghpages
+fab publish
 ```
 Et viola! Your tweaks should be live!
 
@@ -302,5 +302,5 @@ Notice that activating the site is a pre-requisite for running any command with 
 ### 3. Update the "public" website
 ```sh
 source activate sol_site
-fab ghpages
+fab publish
 ```
