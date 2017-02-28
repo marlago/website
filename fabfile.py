@@ -1,4 +1,3 @@
-import fabric.contrib.project as project
 import os
 import shutil
 import sys
@@ -16,7 +15,9 @@ OUTPUT_PATH = env.deploy_path
 THEME_PATH = env.theme_path
 
 # Github Pages configuration
-GH_USER_PAGE_REPO = "https://github.com/sollago/sollago.github.io.git"
+GH_USER_PAGE_URL = "sollago.github.io"
+GH_USER_PAGE_PATH = "../{}".format(GH_USER_PAGE_URL)
+GH_USER_PAGE_REPO = "https://github.com/sollago/{}.git".format(GH_USER_PAGE_URL)
 
 # Port for `serve`
 PORT = 8000
@@ -71,25 +72,20 @@ def preview():
     local('pelican -s publishconf.py')
 
 
-@hosts(production)
 def publish():
-    """Publish to production via rsync"""
-    local('pelican -s publishconf.py')
-    project.rsync_project(
-        remote_dir=dest_path,
-        exclude=".DS_Store",
-        local_dir=DEPLOY_PATH.rstrip('/') + '/',
-        delete=True,
-        extra_opts='-c',
-    )
-
-
-def ghpages():
-    """Publish to GitHub Pages"""
     rebuild(config="publishconf")
-    local("ghp-import {0}".format(DEPLOY_PATH))
-    local("git push {0} gh-pages:master".format(GH_USER_PAGE_REPO))
-
+    current_dir = os.getcwd()
+    if not os.path.isdir(GH_USER_PAGE_PATH):
+        local('git clone {0} {1}'.format(
+            GH_USER_PAGE_REPO, GH_USER_PAGE_PATH))
+    os.chdir(GH_USER_PAGE_PATH)
+    local('git checkout master')
+    local('git pull origin master')
+    local('rsync -a --delete {} .'.format(os.path.join(current_dir, OUTPUT_PATH)))
+    local('git add .')
+    local("git commit -m \"Publishing on `date --utc '+%F %R:%S %Z'`\"")
+    local("git push origin master")
+    os.chdir(current_dir)
 
 
 def collectstatic():
