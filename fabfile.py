@@ -81,7 +81,7 @@ def publish():
     os.chdir(GH_USER_PAGE_PATH)
     local('git checkout master')
     local('git pull origin master')
-    local('rsync -a --delete {} .'.format(os.path.join(current_dir, OUTPUT_PATH)))
+    local('rsync -a --delete {}/* .'.format(os.path.join(current_dir, OUTPUT_PATH)))
     local('git add .')
     local("git commit -m \"Publishing on `date --utc '+%F %R:%S %Z'`\"")
     local("git push origin master")
