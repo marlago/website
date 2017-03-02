@@ -1,15 +1,15 @@
 name: sol_site
 dependencies:
-- openssl=1.0.2d=0
+- openssl
 - pip
-- python=3.4.3=2
-- readline=6.2=2
-- setuptools=18.5=py34_0
-- sqlite=3.8.4.1=1
-- tk=8.5.18=0
-- wheel=0.26.0=py34_1
-- xz=5.0.5=0
-- zlib=1.2.8=0
+- python=3
+- readline
+- setuptools
+- sqlite
+- tk
+- wheel
+- xz
+- zlib
 - pip:
   - blinker==1.4
   - docutils==0.12
