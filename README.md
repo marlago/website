@@ -20,6 +20,9 @@ The rest of this guide assumes you are in this folder in your Terminal.
 Use conda to recreate the environment. This is needed so as to cleanly separate
 the python version you have running on your system (we don't want to mess with that!)
 from the python version and modules that your site needs to compile.
+
+Note: in order for the command below to work, it is necessary to have [Miniconda](https://conda.io/miniconda.html) installed in your computer.
+
 ```sh
 conda env create -f conda_environment.yml
 ```
