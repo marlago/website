@@ -49,7 +49,7 @@ Workshops
   August 2011. Instructor, workshop at Gallaudet University
 
 
-- **An introduction to Magnetoencephalography (MEG)**
+- **An introduction to Magnetoencephalography**
 
   January 2010. Instructor, workshop at University of Maryland
 
