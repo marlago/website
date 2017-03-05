@@ -44,7 +44,7 @@ Workshops
   Winter 2014. Instructor, workshop at University of Maryland
 
 
-- **Using Electroencephalography and Magnetoencephalography in Psycholinguistics**
+- **Using Electro- and Magnetoencephalography in Psycholinguistics**
 
   August 2011. Instructor, workshop at Gallaudet University
 
