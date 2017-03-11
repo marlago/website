@@ -68,7 +68,7 @@ DIRECT_TEMPLATES = ['blog']
 
 # Added plugin
 PLUGIN_PATHS = ["../pelican_plugins", ]
-PLUGINS = ["pelican-md-metayaml", ]
+PLUGINS = ["pelican-md-metayaml", "assets"]
 
 
 def sidebar(value):
