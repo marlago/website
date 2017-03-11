@@ -34,7 +34,6 @@ def clean():
 def build(config="pelicanconf"):
     """Build local version of site"""
     local('pelican -s {0}.py'.format(config))
-    collectstatic()
 
 
 def rebuild(config="pelicanconf"):
@@ -46,7 +45,6 @@ def rebuild(config="pelicanconf"):
 def regenerate():
     """Automatically regenerate site upon file modification"""
     local('pelican -r -s pelicanconf.py')
-    collectstatic()
 
 
 def serve():
@@ -88,16 +86,3 @@ def publish():
     local('git commit -m "{}"'.format(commit_msg))
     local("git push origin master")
     os.chdir(current_dir)
-
-
-def collectstatic():
-    """Added to work with twenty html5up theme"""
-    if os.path.isdir(OUTPUT_PATH):
-        local(('mkdir -p {deploy_path}/css/'
-               ' {deploy_path}/js/'
-               ' {deploy_path}/fonts/'
-               ' {deploy_path}/images/').format(**env))
-        local('cp -rf {theme_path}/twenty/static/css/* {deploy_path}/css/'.format(**env))
-        local('cp -rf {theme_path}/twenty/static/js/* {deploy_path}/js/'.format(**env))
-        local('cp -rf {theme_path}/twenty/static/fonts/* {deploy_path}/fonts/'.format(**env))
-        local('cp -rf {theme_path}/twenty/static/images/* {deploy_path}/images/'.format(**env))

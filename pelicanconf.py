@@ -44,12 +44,18 @@ DEFAULT_PAGINATION = False
 
 # Enabling serving of static files as recommended here:
 # http://docs.getpelican.com/en/3.6.3/content.html#linking-to-static-files
+# Adding a favicon:
+# http://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog
 STATIC_PATHS = [
     'pubs',
     'images',
     'css',
-    'js'
+    'js',
+    'extra/favicon.ico'
 ]
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 THEME = "themes/twenty"
 
@@ -68,7 +74,7 @@ DIRECT_TEMPLATES = ['blog']
 
 # Added plugin
 PLUGIN_PATHS = ["../pelican_plugins", ]
-PLUGINS = ["pelican-md-metayaml", ]
+PLUGINS = ["pelican-md-metayaml", "assets"]
 
 
 def sidebar(value):
