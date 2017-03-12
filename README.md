@@ -9,7 +9,7 @@ Open up a Terminal application and navigate whichever folder you want to
 store the *folder with the code for the site*. Please note that a separate
 folder will be created as a result of running this download command:
 ```sh
-git clone https://github.com/marlago/website.git
+git clone --recursive https://github.com/marlago/website.git
 ```
 After you have downloaded the code for the site, go to the folder where you
 have it using your favorite Terminal application.
