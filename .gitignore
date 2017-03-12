@@ -8,3 +8,6 @@ output/**
 # Ignore common python files
 __pycache__
 *.py[co]
+
+# Ignore MacOS internal files:
+.DS_Store

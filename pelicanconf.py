@@ -72,8 +72,8 @@ INDEX_SAVE_AS = "blog.html"
 
 DIRECT_TEMPLATES = ['blog']
 
-# Added plugin
-PLUGIN_PATHS = ["../pelican_plugins", ]
+# Pelican Plugin Config
+PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["pelican-md-metayaml", "assets"]
 
 
