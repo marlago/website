@@ -10,27 +10,27 @@ Courses
 
 - **Multilingual Research (Mehrsprachigkeitsforschung)**
 
-  April-July 2017. Instructor, undergraduate seminar at University of Potsdam
+  Summer 2017. Instructor, bachelor seminar at University of Potsdam
 
 
 - **Memory & Language Processing**
 
-  Fall 2012. Instructor, undergraduate seminar at University of Maryland
+  Fall 2012. Instructor, bachelor seminar at University of Maryland
 
 
 - **Phonology I**
 
-  Spring 2012. Teaching assistant , undergraduate course at University of Maryland
+  Spring 2012. Teaching assistant , bachelor course at University of Maryland
 
 
 - **Introduction to Language** 
 
-  Spring 2010. Teaching assistant, undergraduate course at University of Maryland
+  Spring 2010. Teaching assistant, bachelor course at University of Maryland
 
 
 - **Introduction to Language**
 
-  Fall 2010. Teaching assistant, undergraduate course at University of Maryland
+  Fall 2010. Teaching assistant, bachelor course at University of Maryland
 
 
 Workshops
@@ -41,7 +41,7 @@ Workshops
 
 - **Analyzing linguistic data with R**
 
-  Winter 2014. Instructor, workshop at University of Maryland
+  January 2014. Instructor, workshop at University of Maryland
 
 
 - **Using Electro- and Magnetoencephalography in Psycholinguistics**
