@@ -8,14 +8,14 @@ Courses
 .. class:: default
 
 
-- **Multilingual Research**
+- **Multilingual Research (Mehrsprachigkeitsforschung)**
 
-  April-July 2017. Instructor, undergraduate course at University of Potsdam
+  April-July 2017. Instructor, undergraduate seminar at University of Potsdam
 
 
-- **Psycholinguistics Seminar “Memory & Language Processing”**
+- **Memory & Language Processing**
 
-  Fall 2012. Instructor, undergraduate course at University of Maryland
+  Fall 2012. Instructor, undergraduate seminar at University of Maryland
 
 
 - **Phonology I**
