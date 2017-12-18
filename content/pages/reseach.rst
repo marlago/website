@@ -7,11 +7,15 @@ Publications
 
 .. class:: default
 
-- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*submitted*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. 
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*in preparation*). The interpretation of anaphors in heritage Turkish speakers. 
 
-- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German.
+- **Lago, S.**, Stutter Garcia, A., & Felser, C.  (*submitted*). The role of native and non-native grammars in pronoun comprehension. 
 
-- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*submitted*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
+- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*under review*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
+
+- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics* `[preprint] <https://osf.io/bj2yq/>`__
+
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*2017*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. doi: 10.1007/s10936-017-9502-2. `[preprint] <https://osf.io/k9tfa/>`__
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
@@ -27,7 +31,7 @@ Publications
 
 - Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. *PLoS ONE*, 9,6, 1–11. `[link] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`__
 
-- Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83.
+- Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83. `[link] <http://www.revel.inf.br/files/16cb3716686645c4465e3db2244ad03a.pdf>`__
 
 
 Invited Talks
