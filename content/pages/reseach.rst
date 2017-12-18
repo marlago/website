@@ -17,7 +17,7 @@ Publications
 
 - Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*2017*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. doi: 10.1007/s10936-017-9502-2. `[preprint] <https://osf.io/k9tfa/>`__
 
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*in press*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*2017*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition, 43, 5, 795–817. doi: 10.1037/xlm0000343.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
 - Jacob, G., **Lago, S.**, & Patterson, C. (2016). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
 
@@ -38,6 +38,12 @@ Invited Talks
 =============
 
 .. class:: default
+
+- **Lago, S.** (2017). What can agreement attraction tell us about bilingual processing? Talk at University of Geneva, December 4.
+
+- **Lago, S.** (2017). Processing agreement in Romance and Germanic languages. Talk at Institut für Romanische Sprachen und Literaturen, Goethe Universität, May 29.
+
+- **Lago, S.** (2017). Multilingual grammars: is more better? Talk at College of William & Mary, Williamsburg, March 27.
 
 - **Lago, S.** (2016). Grammar in the multilingual mind. Talk at Universität Mannheim, Mannheim, September 12.
 
@@ -62,6 +68,8 @@ Conferences
 -----
 
 .. class:: year-list
+
+- Arslan, S., **Lago, S.**, Yanılmaz, A., Drury, J.E., & Felser, C. The processing of Negative Polarity Items in Turkish-German bilingual speakers. Talk at International Conference of the Generative Approaches to Language Acquisition: GALA 13, Palma de Mallorca, Spain, September 7–9. 
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. Anaphor interpretation in Turkish heritage speakers. Poster at International Symposium on Bilingualism, Limerick, Ireland, June 11-15.
 

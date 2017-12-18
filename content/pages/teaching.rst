@@ -23,20 +23,20 @@ Courses
   Spring 2012. Teaching assistant , bachelor course at University of Maryland
 
 
-- **Introduction to Language** 
-
-  Spring 2010. Teaching assistant, bachelor course at University of Maryland
-
-
 - **Introduction to Language**
 
-  Fall 2010. Teaching assistant, bachelor course at University of Maryland
+  Fall & Spring 2010. Teaching assistant, bachelor course at University of Maryland
 
 
 Workshops
 -------------------
 
 .. class:: default
+
+
+- **LingPhil course in reading and visual world eye-tracking**
+
+  October 2017. Instructor, workshop at The Arctic University of Norway
 
 
 - **Analyzing linguistic data with R**
