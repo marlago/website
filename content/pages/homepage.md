@@ -5,17 +5,17 @@ save_as: index.html
 Template: homepage
 contact_info:
   picture_src: /images/AboutPic.jpg
-  job_title: Postdoctoral Researcher
-  employer:
-    name: PRIM
-    URL: http://www.uni-potsdam.de/prim/
+  job_title: Independent Research Group Leader
+  employer: 
+    name: Department Linguistik
+    URL: http://www.uni-potsdam.de/ling/index.html
     additional_info:
       - Universität Potsdam
   CV: /pubs/SLago_CV.pdf
   email: marlago [at] uni-potsdam.de
   address:
     - Campus Golm
-    - Haus 2
+    - Haus 14
     - Karl-Liebknecht-Str. 24/25
     - 14476 Potsdam
     - Germany

@@ -1,5 +1,5 @@
 ---
-title: New Paper
+title: Old Paper
 date: 2017-02-01
 blurb: >
 	My research comparing coreference in English and German was published in the 
