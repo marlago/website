@@ -27,6 +27,9 @@ I study sentence comprehension in different languages. My goal is to figure out 
 
 ### Background
 <ul>
+    <li>
+    <span class="background-year">2017</span> Independent Research Group Leader, University of Potsdam
+  </li>
   <li>
     <span class="background-year">2014</span> Postdoctoral researcher, Potsdam Research Institute for Multilingualism
   </li>

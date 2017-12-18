@@ -9,7 +9,7 @@ Publications
 
 - Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*submitted*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. 
 
-- **Lago, S.**, & Felser, C. (*submitted*). Agreement attraction in native and non-native speakers of German.
+- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German.
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*submitted*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
 
