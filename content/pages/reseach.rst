@@ -13,9 +13,9 @@ Publications
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*under review*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
 
-- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics* `[preprint] <https://osf.io/bj2yq/>`__
+- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics* `[preprint + data] <https://osf.io/bj2yq/>`__
 
-- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*2017*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. doi: 10.1007/s10936-017-9502-2. `[preprint] <https://osf.io/k9tfa/>`__
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*2017*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. doi: 10.1007/s10936-017-9502-2. `[preprint + data] <https://osf.io/k9tfa/>`__
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*2017*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition, 43, 5, 795–817. doi: 10.1037/xlm0000343.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
