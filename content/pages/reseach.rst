@@ -13,7 +13,7 @@ Publications
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*under review*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
 
-- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics* `[preprint + data] <https://osf.io/bj2yq/>`__
+- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics*. `[preprint + data] <https://osf.io/bj2yq/>`__
 
 - Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*2017*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. doi: 10.1007/s10936-017-9502-2. `[preprint + data] <https://osf.io/k9tfa/>`__
 
@@ -25,7 +25,7 @@ Publications
 
 - **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2015). Agreement attraction in Spanish comprehension. *Journal of Memory and Language*, 82, 133–149. `[pdf] <{filename}/pubs/Lago_etal_SpanishAgreement_2015.pdf>`__
 
-- Parker, D., **Lago, S.**, & Phillips, C. (2015). Interference in the processing of adjunct control. *Frontiers in Psychology*, 6:1346. doi: 10.3389/fpsyg.2015.01346 `[link] <http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01346/full>`__
+- Parker, D., **Lago, S.**, & Phillips, C. (2015). Interference in the processing of adjunct control. *Frontiers in Psychology*, 6:1346. doi: 10.3389/fpsyg.2015.01346. `[link] <http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01346/full>`__
 
 - **Lago, S.**, Scharinger, M., Kronrod, Y., & Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. *Brain and Language*, 143, 52–58. `[pdf] <{filename}/pubs/Lago_etal_Fricatives_2015.pdf>`__
 
