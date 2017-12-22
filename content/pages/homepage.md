@@ -5,7 +5,7 @@ save_as: index.html
 Template: homepage
 contact_info:
   picture_src: /images/AboutPic.jpg
-  job_title: Independent Research Group Leader
+  job_title: Postdoctoral researcher
   employer: 
     name: Department Linguistik
     URL: http://www.uni-potsdam.de/ling/index.html
@@ -22,13 +22,13 @@ contact_info:
 ---
 
 ### About
-I study sentence comprehension in native and non-native speakers across different languages. My goal is to figure out how humans represent and use grammatical knowledge, and how their knowledge changes when they are exposed to a new language. I use eye-tracking, neurophysiological and cross-linguistic evidence with the goal of building a cognitive model of the representations and processes that underlie real-time language processing in multilingual speakers.
+I study sentence comprehension in native and non-native speakers across different languages. My goal is to figure out how humans represent and use grammatical knowledge, and how their knowledge changes when they are exposed to a new language. I use eye-tracking, neurophysiological and cross-linguistic evidence with the goal of building cognitive models of the representations and processes that underlie real-time language processing in multilingual speakers.
 
 
 ### Background
 <ul>
     <li>
-    <span class="background-year">2017</span> Independent Research Group Leader, University of Potsdam
+    <span class="background-year">2017</span> Postdoctoral researcher (Eigene Stelle), University of Potsdam
   </li>
   <li>
     <span class="background-year">2014</span> Postdoctoral researcher, Potsdam Research Institute for Multilingualism
