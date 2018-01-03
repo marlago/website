@@ -9,6 +9,10 @@
     color: red;
 }
 
+.blue {
+    color: mediumblue;
+}
+
 .extraemphasize {
 	font-style: italic;
 	font-weight: bold;
@@ -18,3 +22,18 @@
 	text-decoration: none;
 	border-bottom: 1px solid black;
 }
+
+.titlegram {
+	text-decoration: none;
+	border-bottom: 1px solid mediumblue;
+	color: mediumblue;
+	font-weight: bold;
+}
+
+.titleungram {
+	text-decoration: none;
+	border-bottom: 1px solid red;
+	color: red;
+	font-weight: bold;
+}
+
