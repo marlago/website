@@ -1,8 +1,8 @@
 
-So how many languages do *YOU* speak?
+So how many languages do *you* speak?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 :date: 2018-01-10
-:blurb: On how a simple question gave rise to a Germany-wide set of experiments. 
+:blurb: A seeminlgy simple question, which gave rise to a 2-year long experiment involving people across Germany
 
 .. role:: underline
 
@@ -19,17 +19,15 @@ So how many languages do *YOU* speak?
 
 |br|
 
-“How many languages do you speak?”
+**“How many languages do you speak?”**
 
-I have to admit that I had never cared about this question. People ask it often (especially if you are a psycholinguist) but I couldn’t see how its relevance for my job: My awareness of the importance of knowing different languages (in my personal life) and my psycholinguistic research had always lived separate ways. Until the summer of 2014, when I met Anna Stutter. Anna set us on a journey that led to several experiments that tried to establish the role of knowing different languages. Our experiments tested multilingual people from all over Germany. If you are reading this, you were probably one of them. If you want to find out what we discovered, read on.
+I have to admit that I had never cared about this question. People ask it often (especially if you are a psycholinguist) but I couldn’t see its relevance for my job: My awareness of the importance of knowing different languages (in my personal life) and my psycholinguistic research had always lived separate ways. Until the summer of 2014, when I met Anna Stutter. Anna set us on a journey that led to several experiments that tried to establish the role of knowing different languages. Our experiments tested multilingual people from all over Germany. If you are reading this, you were probably one of them. If you want to find out what we discovered, read on.
 
 -----
 
-Anna and me work in Germany, a country that, as part of the European Union, has experienced a dramatic linguistic expansion in the last decades: Multilingualism, rather than the exception, has become the norm. As of 2012, a quarter of the European population spoke at least two foreign languages, in addition to their native language. English, French, German, Spanish and Russian are the most common foreign languages. And of these, Spanish and English are the ones that have increased the most since 2005.
+If you resemble most people living in Europe nowadays, you probably know (or have studied) one or more languages in addition to your native language. **Have you ever wondered whether these languages affect your ability to learn and use new languages?**
 
-These numbers suggest that many people nowadays speak at least two languages. How do these languages affect their daily lives? And more specifically, how do they affect their ability to learn and use new languages?
-
-Unfortunately, very little is known about this question. And researchers disagree. Some researchers think that only a person’s NATIVE language affects newly-learned languages: after all, your native language is the one that you have learned first, that you have internalized the most and that you have known for longer. So maybe your native language is the one that you rely on for learning a new language.
+Believe it or not, very little is known about this question. And researchers disagree. Some researchers think that only a person’s NATIVE language affects newly-learned languages: after all, your native language is the one that you have learned first, that you have internalized the most and that you have known for longer. So maybe your native language is the one that you rely on for learning a new language.
 
 But there are also researchers who believe the opposite: that when learning a new language, you are only going to rely on the FOREIGN languages that you have learned before. People might only rely on their foreign language(s), because they are the ones that they are explicitly aware of so people associate them with the process of language learning. In your mind, your newly-learned language and a previously learned foreign language might be the most similar, precisely because they are both *foreign* to you.
 
@@ -60,7 +58,7 @@ Finding enough Spanish and English native speakers who lived or had lived in Ger
 
 .. figure:: {filename}/images/Laflyer.png
   :align: center
-  :figwidth: 100%
+  :figwidth: 80%
   :alt: La flyer
 
   ..
@@ -74,8 +72,8 @@ Both groups of Spanish and English speakers were asked to read German sentences 
 .. role:: blue
   :class: blue
 
-.. role:: error
-  :class: error
+.. role:: red
+  :class: red
 
 .. role:: titlegram
   :class: titlegram
@@ -92,26 +90,26 @@ Both groups of Spanish and English speakers were asked to read German sentences 
 
 :titleungram:`Possessor violation` 
 
-:error:`Herr Schmidt` küsste :error:`ihre` Mutter bei dem letzten Familientreffen. 
+:red:`Herr Schmidt` küsste :red:`ihre` Mutter bei dem letzten Familientreffen. 
 	(Mr. Schmidt … her mother ….)	
 
 |
 
-Can you guess what happened? Our results showed that Spanish speakers were more likely to make mistakes and to wrongly accept possessor violations as compared to English speakers. Also, Spanish speakers were less disturbed after reading incorrect pronouns (compared to English speakers), which shows that they were less able to detect the violations. Overall, this suggests that when reading German sentences, Spanish speakers were limited by their native language, which does not mark possessor agreement. That’s how we were able to conclude that the properties of a native language can help (or hurt) in using a foreign language.
+Can you guess what happened? Our results showed that Spanish speakers were more likely to make mistakes and to wrongly accept possessor violations as compared to English speakers. Also, Spanish speakers were less disturbed after reading incorrect pronouns (compared to English speakers), which shows that they were less able to detect the violations. Overall, this suggests that when reading German sentences, Spanish speakers were limited by their native language, which does not mark possessor agreement. That’s how we were able to conclude that **the properties of a native language can help (or hurt) the use of a foreign language**.
 
 But most surprisingly, Spanish natives were not all alike! Their second language (English) also mattered. In fact, the more proficient they were in English, the fewer mistakes they made. This is what you can see in the plot below (left): the x-axis shows Spanish speakers’ proficiency in English, and the y-axis shows the proportion of sentences judged as acceptable. As their English proficiency increased, Spanish speakers were less likely to wrongly judge sentences with possessor violations as acceptable (red line). The graph also shows that for English speakers, Spanish proficiency didn’t affect their performance: regardless of whether they were good or bad in Spanish, their judgments to German sentences were unaffected.
 
 
 .. figure:: {filename}/images/L2effect_eng.png
   :align: center
-  :figwidth: 100%
+  :figwidth: 80%
   :alt: L2 effect (english)
 
   ..
 
   Influence of a foreign language: For English natives, their Spanish did not influence acceptability whereas Spanish natives were less likely to accept infelicitous sentences as their English proficiency increased. The x-axis shows proficiency ratings on a 0–100% scale, with vertical black bars representing the number of participants at each point of the scale.
 
-These data are really interesting because they show that speaking a foreign language can help you if the grammars of your foreign languages (in this case English and German) align but it doesn’t hurt you if they don’t. As a Spanish speaker, you might be better in German if you know a foreign language that makes the same grammatical distinctions as German. But if your foreign language does not make a similar distinction (in this case, the Spanish of the English native speakers), then your German performance is unaffected. In short, knowing a foreign language can help you be better at a new foreign language but it doesn’t seem to hurt.
+These data are really interesting because they show that speaking a foreign language can help you if the grammars of your foreign languages (in this case English and German) align but it doesn’t hurt you if they don’t. As a Spanish speaker, you might be better in German if you know a foreign language that makes the same grammatical distinctions as German (like English). But if your foreign language does not make a similar distinction (in this case, the Spanish of the English native speakers), then your German performance is unaffected. In short, **knowing a foreign language can help you be better at a new foreign language but it doesn’t seem to hurt**.
 
 -----
 

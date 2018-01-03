@@ -53,10 +53,10 @@ Everyone agrees about (2): it sounds terrible, no one would say that! But if you
 
   Some examples of English agreement attraction errors.
 
-.. role:: error_explanation(strong)
-  :class: error
+.. role:: error_explanation
+  :class: titleungram
 
-Errors like (1) are called an :error_explanation:`agreement attraction errors` and they occur quite often in English. And *"cabinets"*, the noun that the verb wrongly agrees with, is called **an attractor**. This name conveys the intuition that *"cabinets"* deceitfully lures the verb to agree with it in number instead of with the real controller, *"key"*.
+Errors like (1) are called :titleungram:`agreement attraction errors` and they occur quite often in English. And *"cabinets"*, the noun that the verb wrongly agrees with, is called **an attractor**. This name conveys the intuition that *"cabinets"* deceitfully lures the verb to agree with it in number instead of with the real controller, *"key"*.
 
 What we don't know though, is why attraction happens. What misleads people into making these errors? You might be thinking *"Jeez, it's obvious: "cabinets" is closer to the verb than "key"! Maybe people just produce a verb that agrees with whatever noun is closer to it".* Ok, you have a point, but notice that these errors occur even when the attractor isn't next to the verb. Look at the first example on your left: the noun *"errors"* triggers attraction despite the fact that the real controller, *"classification software"*, is actually closer to the verb. So, although linear proximity might increase attraction, it cannot be its only cause.
 
