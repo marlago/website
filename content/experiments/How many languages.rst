@@ -1,8 +1,8 @@
 
 So how many languages do *you* speak?
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 :date: 2018-01-10
-:blurb: A seeminlgy simple question, which gave rise to a 2-year long experiment involving people across Germany
+:blurb: A seeminlgy simple question, which gave rise to a 2-year long project involving people across Germany
 
 .. role:: underline
 
@@ -32,27 +32,32 @@ Believe it or not, very little is known about this question. And researchers dis
 But there are also researchers who believe the opposite: that when learning a new language, you are only going to rely on the FOREIGN languages that you have learned before. People might only rely on their foreign language(s), because they are the ones that they are explicitly aware of so people associate them with the process of language learning. In your mind, your newly-learned language and a previously learned foreign language might be the most similar, precisely because they are both *foreign* to you.
 
 And finally, there are researchers who think that you just rely on whichever language you perceive as most SIMILAR to your newly-learned language. This also makes sense. Say, for example, that you know both Spanish and Chinese, and that you are learning English: this theory says that you will probably transfer Spanish to the learning of English, as there are many similarities between Spanish and English (starting with their alphabets!), regardless of whether Spanish is your native or your foreign language.
-So, there is a lot of debate about which of the previous languages of a multilingual person affect a new language, and whether some previous languages matter more than others. You probably have your own intuitions about these questions. Anna and me did too. But being language researchers, we needed data to be able test them.
+So, there is a lot of debate about which of the previous languages of a multilingual person affect a new language, and whether some previous languages matter more than others. You probably have your own intuitions about these questions. Anna and me did too. But being language researchers, we needed data to test them.
 
 -----
 
 To test previous theories, we set out to do our own experiments. Because we worked in Germany, it made sense to test people who lived in Germany and spoke German as a foreign language. But we decided that we would do something different to previous work: we would not focus on learners who were just starting to acquire German. Instead, we would look at people like us, who were native speakers of Spanish or English but who had been in Germany for a while and who were quite proficient in it. We wanted to know whether, despite being comfortable with German, these people were still influenced by their previously learned languages. And to examine whether their NATIVE and FOREIGN languages affected them differentially, we tested two groups of non-native German speakers with opposite arrangements:
 
 |
-	
-	One group were **Spanish native speakers**, who had learned English and German as non-native languages.
 
-	The other group were **English native speakers**, who had learned Spanish and German as non-native languages.
+.. class:: default
 
-|
+- One group were **Spanish native speakers**, who had learned English and German as non-native languages.
+- The other group were **English native speakers**, who had learned Spanish and German as non-native languages.
 
 Our experiments varied whether Spanish and English were speakers’ native or foreign languages, so we could study whether their these languages made a difference, and whether it was because of Spanish or English were speakers’ native or foreign language. But what kind of experiment to run? What should we test?
 
-We decided to start with a subtle (tiny!) type of words: *possessive pronouns* (words like “his” or “her). In German and English, pronouns and possessor nouns agree in gender (masculine or feminine). For example, to talk about Jenny’s mother, an English speaker will say “**her** mother” (“**ihre** Mutter” in German), but it is John’s mother, they will say “**his** mother” (“**seine** Mutter” in German).
+We decided to start with a subtle (tiny!) type of words: *possessive pronouns* (words like “his” or “her").
 
-By contrast, Spanish pronouns don’t care about the gender of the possessor noun: regardless of whether it’s Jenny’s or John’s, Spanish speakers will use the same possessive pronoun “**su** madre”.
+|
 
-We decided to test German sentences, which were either grammatical or contained a possessor gender violation (e.g. “her mother” to refer to John’s mother). We wanted to see whether English native speakers (whose native language marks possessor gender agreement) were more sensitive to these violations in German than Spanish native speakers (whose language lacks possessor agreement).
+  In German and English, pronouns and possessor nouns agree in gender (masculine or feminine). For example, to talk about Jenny’s mother, an English speaker will say “**her** mother” (“**ihre** Mutter” in German), but it is John’s mother, they will say “**his** mother” (“**seine** Mutter” in German).
+
+  By contrast, Spanish pronouns don’t care about the gender of the possessor noun: regardless of whether it’s Jenny’s or John’s, Spanish speakers will use the same possessive pronoun “**su** madre”.
+
+|
+
+We decided to test German sentences, which were either grammatical or contained a possessor gender violation (e.g. “her mother” to refer to John’s mother). **We wanted to see whether English native speakers (whose native language marks possessor gender agreement) were more sensitive to these violations in German than Spanish native speakers (whose language lacks possessor agreement).**
 
 Finding enough Spanish and English native speakers who lived or had lived in Germany and who were willing to do linguistic experiments seemed tough. To make things easier, we programmed our experiments online to reach everyone we could, even if they lived away from Potsdam, where Anna and me work. We contacted people through word of mouth and social media like Facebook. To our own surprise, an amazing number of people participated! And people did not only participate: they also contacted their family, friends and work colleagues. It took a while, but along the way, we met many interesting people, who invested time and effort into doing our studies and who told us what it was like for them to live in Germany as multilingual speakers. When we analysed our results, we saw that their efforts had paid off.
 
@@ -67,7 +72,7 @@ Finding enough Spanish and English native speakers who lived or had lived in Ger
 
 -----
 
-Both groups of Spanish and English speakers were asked to read German sentences with (or without) possessor gender violations. After reading, they judged whether the sentences sounded acceptable/good or unacceptable/bad. There were two experimental conditions:
+Both groups of Spanish and English speakers were asked to read German sentences with (or without) possessor gender violations. After reading, they judged whether the sentences sounded acceptable/good or unacceptable/bad. There were two possible types of sentences:
 
 .. role:: blue
   :class: blue
