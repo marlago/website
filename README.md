@@ -272,6 +272,19 @@ If you don't want a caption just write `..` instead of any text, like in the exa
 ```
 In addition to `:figwidth:`, you can specify all the same parameters as for plain images.
 
+
+### "Shadow" Posts
+
+These posts appear styled like articles but don't show up in the *Blog* page or roll.
+Choose a folder other than `experiments` (e.g. `spanish`).
+Create it if it doesn't exist yet.
+Save all of your shadow posts there, then link to them from your blog posts.
+Here's the URL for an shadow post titled **¿Quantas Lenguas Hablas?**:
+```
+/blog/quantas-lenguas-hablas.html
+```
+
+
 ## Updating the site
 
 There are at least 3 steps involved in updating the site: (1) commiting the changes to git; (2) updating a local copy of the website; (3) updating the "public" website. The commands involved in each step are listed below.
