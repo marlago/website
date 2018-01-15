@@ -5,6 +5,10 @@
  * for formatting text, feel free to edit this file!
  */
 
+.center {
+	text-align: center;
+}
+
 .red {
     color: red;
 }

@@ -17,11 +17,11 @@ So how many languages do *you* speak?
   :align: center
   :alt: multilingualism
 
-|br|
+`Click here for the Spanish version </content/translated/Cuantos idiomas sabes.rst>`__
 
 **“How many languages do you speak?”**
 
-I have to admit that I had never cared about this question. People ask it often (especially if you are a psycholinguist) but I couldn’t see its relevance for my job: My awareness of the importance of knowing different languages (in my personal life) and my psycholinguistic research had always lived separate ways. Until the summer of 2014, when I met Anna Stutter. Anna set us on a journey that led to several experiments that tried to establish the role of knowing different languages. Our experiments tested multilingual people from all over Germany. If you are reading this, you were probably one of them. If you want to find out what we discovered, read on.
+I have to admit that I had never cared about this question. People ask it often (especially if you are a psycholinguist) but I couldn’t see its relevance for my job: My awareness of the importance of knowing different languages (in my personal life) and my psycholinguistic research had always lived separate ways. Until the summer of 2014, when I met Anna Stutter Garcia. Anna set us on a journey that led to several experiments that tried to establish the role of knowing different languages. Our experiments tested multilingual people from all over Germany. If you are reading this, you were probably one of them. If you want to find out what we discovered, read on.
 
 -----
 
@@ -29,7 +29,7 @@ If you resemble most people living in Europe nowadays, you probably know (or hav
 
 Believe it or not, very little is known about this question. And researchers disagree. Some researchers think that only a person’s NATIVE language affects newly-learned languages: after all, your native language is the one that you have learned first, that you have internalized the most and that you have known for longer. So maybe your native language is the one that you rely on for learning a new language.
 
-But there are also researchers who believe the opposite: that when learning a new language, you are only going to rely on the FOREIGN languages that you have learned before. People might only rely on their foreign language(s), because they are the ones that they are explicitly aware of so people associate them with the process of language learning. In your mind, your newly-learned language and a previously learned foreign language might be the most similar, precisely because they are both *foreign* to you.
+But there are also researchers who believe the opposite: that when learning a new language, you are only going to rely on the FOREIGN languages that you have learned before. People might only rely on their foreign language(s) because they learned them explicitly and are aware of their grammar, thus associating them with the process of language learning. In your mind, your newly-learned language and a previously learned foreign language might be the most similar, precisely because they are both *foreign* to you.
 
 And finally, there are researchers who think that you just rely on whichever language you perceive as most SIMILAR to your newly-learned language. This also makes sense. Say, for example, that you know both Spanish and Chinese, and that you are learning English: this theory says that you will probably transfer Spanish to the learning of English, as there are many similarities between Spanish and English (starting with their alphabets!), regardless of whether Spanish is your native or your foreign language.
 So, there is a lot of debate about which of the previous languages of a multilingual person affect a new language, and whether some previous languages matter more than others. You probably have your own intuitions about these questions. Anna and me did too. But being language researchers, we needed data to test them.
@@ -45,7 +45,7 @@ To test previous theories, we set out to do our own experiments. Because we work
 - One group were **Spanish native speakers**, who had learned English and German as non-native languages.
 - The other group were **English native speakers**, who had learned Spanish and German as non-native languages.
 
-Our experiments varied whether Spanish and English were speakers’ native or foreign languages, so we could study whether their these languages made a difference, and whether it was because of Spanish or English were speakers’ native or foreign language. But what kind of experiment to run? What should we test?
+Our experiments varied whether Spanish and English were speakers’ native or foreign languages so that we could test two questions in our German experiments: does speaking Spanish or English make a difference, and does it make a difference if Spanish or English are speakers’ native or foreign language?
 
 We decided to start with a subtle (tiny!) type of words: *possessive pronouns* (words like “his” or “her").
 
@@ -59,7 +59,7 @@ We decided to start with a subtle (tiny!) type of words: *possessive pronouns* (
 
 We decided to test German sentences, which were either grammatical or contained a possessor gender violation (e.g. “her mother” to refer to John’s mother). **We wanted to see whether English native speakers (whose native language marks possessor gender agreement) were more sensitive to these violations in German than Spanish native speakers (whose language lacks possessor agreement).**
 
-Finding enough Spanish and English native speakers who lived or had lived in Germany and who were willing to do linguistic experiments seemed tough. To make things easier, we programmed our experiments online to reach everyone we could, even if they lived away from Potsdam, where Anna and me work. We contacted people through word of mouth and social media like Facebook. To our own surprise, an amazing number of people participated! And people did not only participate: they also contacted their family, friends and work colleagues. It took a while, but along the way, we met many interesting people, who invested time and effort into doing our studies and who told us what it was like for them to live in Germany as multilingual speakers. When we analysed our results, we saw that their efforts had paid off.
+Finding enough Spanish and English native speakers who lived or had lived in Germany and who were willing to do linguistic experiments seemed tough. To make things easier, we programmed our experiments online to reach as many people as we could, even if they lived away from Potsdam, where Anna and me work. We contacted people through word of mouth and social media like Facebook. To our own surprise, an amazing number of people participated! And people did not only participate: they also contacted their family, friends and work colleagues. It took a while, but along the way, we met many interesting people, who invested time and effort into doing our studies and who told us what it was like for them to live in Germany as multilingual speakers. When we analysed our results, we saw that their efforts had paid off.
 
 .. figure:: {filename}/images/Laflyer.png
   :align: center
