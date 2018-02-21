@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from 'utils.html' import translation_button %}
 
 {% block title %}{{ article.title|striptags }} | {{ super() }}{% endblock title %}
 
@@ -13,13 +14,14 @@
 
   <!-- Content -->
   <div class="content">
-    <section class="blog-post">
+    <section class="blog-post special">
       <p class="tags">
         {% if article.tags %}
         {% for tag in article.tags %}
         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
         {% endfor %}
         {% endif %}</p>
+        {{ translation_button(article) }}
         <p>{{ article.content }}</p>
       </section>
     </div>

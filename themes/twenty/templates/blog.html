@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from 'utils.html' import translation_button %}
 
 {% block title %}{{ category|striptags }} | {{ super() }}{% endblock title %}
 
@@ -16,6 +17,7 @@
         <p>{{ active_article.content|truncate(300) }}</p>
         <footer class="special button-block">
           <a href="{{ SITEURL }}/{{ active_article.url }}" class="button">Read More</a>
+          {{ translation_button(active_article) }}
         </footer>
       </section>
     </div>
