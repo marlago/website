@@ -2,7 +2,7 @@
 So how many languages do *you* speak?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 :date: 2018-03-01
-:blurb: A seeminlgy simple question, which gave rise to a 2-year long project involving people across Germany
+:blurb: A seeminlgy simple question, which gave rise to a 2-year long project with people across Germany
 :slug: how-many-languages
 
 .. role:: underline

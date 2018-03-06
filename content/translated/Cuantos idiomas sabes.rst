@@ -1,6 +1,6 @@
 Y vos, ¿cuántos idiomas sabés?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-:date: 2018-01-10
+:date: 2018-03-01
 :blurb: Una pregunta aparentemente simple, que resultó en dos años de investigaciones alrededor de Alemania 
 :lang: es
 :translation: true

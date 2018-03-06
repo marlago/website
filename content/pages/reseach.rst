@@ -7,11 +7,11 @@ Publications
 
 .. class:: default
 
-- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*in preparation*). The interpretation of anaphors in heritage Turkish speakers. 
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*submitted*). The interpretation of anaphors in heritage Turkish speakers. 
 
-- **Lago, S.**, Stutter Garcia, A., & Felser, C.  (*submitted*). The role of native and non-native grammars in pronoun comprehension. 
+- **Lago, S.**, Stutter Garcia, A., & Felser, C.  (*under review*). The role of native and non-native grammars in pronoun comprehension. 
 
-- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*under review*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
+- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (*in press*). Straight from the horse's mouth: agreement attraction effects with Turkish possessors. *Linguistic Approaches to Bilingualism*. `[preprint + data] <https://osf.io/5esbn>`__
 
 - **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics*. `[preprint + data] <https://osf.io/bj2yq/>`__
 
@@ -58,107 +58,3 @@ Invited Talks
 - Parker, D., **Lago, S.**, & Phillips, C. (2012). When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
 
 - **Lago, S.** (2010). Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.
-
-
-Conferences
-===========
-
-
-2017
------
-
-.. class:: year-list
-
-- Arslan, S., **Lago, S.**, Yanılmaz, A., Drury, J.E., & Felser, C. The processing of Negative Polarity Items in Turkish-German bilingual speakers. Talk at International Conference of the Generative Approaches to Language Acquisition: GALA 13, Palma de Mallorca, Spain, September 7–9. 
-
-- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. Anaphor interpretation in Turkish heritage speakers. Poster at International Symposium on Bilingualism, Limerick, Ireland, June 11-15.
-
-- **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. Contextual and syntactic information jointly affect the processing of Turkish anaphors. Poster at CUNY, Cambridge, Massachusetts, March 30-April 1.
-
-
-2016
------
-
-.. class:: year-list
-
-- **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Agreement attraction in Turkish. Poster at AMLaP, Bilbao, Spain, September 1-3.
-
-- Stutter, A., **Lago, S.**, & Felser, C. Sensitivity to agreement errors in an L3: evidence of combined L1 and L2 influence. Presentation at the 10th International Conference on Multilingualism and Third Language Acquisition, Vienna, Austria, September 1-3.
-
-- Stutter Garcia, A., & **Lago, S.**. The role of native and non-native grammars in multilingual sentence processing. Talk at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
-
-- **Lago, S.**, Gracanin Yuksek, M., Şafak, D., Demir, O., Kırkıcı, B. & Felser, C. Straight from the horse's mouth: agreement attraction effects with Turkish possessors. Poster at the Workshop on Sentence Processing in Multilingual and Other Less Commonly Studied Populations, Potsdam, Germany, August 4-5.
-
-- **Lago, S.**, Stutter, A. & Felser, C. Cross-linguistic variation in sensitivity to grammatical errors: evidence from multilingual speakers. Poster at CUNY, Gainesville, Florida, March 3-5, 2016.
-
-
-2015
-----
-
-.. class:: year-list
-
-- **Lago, S.**, & Felser, C. Agreement attraction in native and non-native speakers of German. Poster at 9th Morphological Processing Conference, Potsdam, Germany, June 18–20.
-
-- **Lago, S.**, Namyst, A. & Lau, E. N400 semantic expectation effects provide evidence for rapid pronoun resolution. Talk at CUNY, Los Angeles, California, March 19–21.
-
-- **Lago, S.**, & Felser, C. Computation of number agreement in native and non-native speakers of German. Poster presented at CUNY, Los Angeles, California, March 19– 21.
-
-
-2014
-----
-
-.. class:: year-list
-
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Lau, E., & Phillips, C. Does pronoun processing vary across languages? Poster at AMLaP, Edinburgh, UK, September 3–6.
-
-- Marijuan, S., **Lago, S.**, & Sanz, C. Agreement morphology, the word order bias and working memory in English-Spanish emerging bilinguals. Talk at EUROSLA, York, September 3–6.
-
-- Marijuan, S., **Lago, S.**, & Sanz, C. Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Paper at GURT, Washington D.C., March 14–16.
-
-- **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. Yo pienso, tu piensas:  Cross-linguistic attraction effects in agreement comprehension. Poster at CUNY, Columbus, Ohio, March 13–15.
-
-- Marijuan, S., **Lago, S.** & Sanz, C. Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? Talk at GURT, Washington, Maryland, March 14–16.
-
-
-2013
-----
-
-.. class:: year-list
-
-- Marijuan, S., & **Lago, S.** (Dis)agreement can help overcoming the word order bias in L2 Spanish: accuracy and timing evidence. Talk at Second Language Research Forum, Provo, Utah, October 31–November 1.
-
-- **Lago, S.**, Chow, W.Y., Barrios, S., Parker, D., Morini, G., & Lau, E. Long-term memory effects in the N400 during sentence processing: evidence from a novel recognition memory-sentence comprehension paradigm. Poster at the annual CNS meeting, San Francisco, California, April 13–16.
-
-- **Lago, S.**, Sloggett, S., Chow, W.Y., & Phillips, C. What types of lexical information are reaccessed during pronoun processing? Poster at CUNY, Columbia, South Carolina, March 14–16.
-
-
-2012
-----
-
-.. class:: year-list
-
-- Parker, D., **Lago, S.**, & Phillips, C. Retrieval Interference in the Resolution of Anaphoric PRO. Talk at the GLOW Satellite workshop "Timing and Grammar", Universität Potsdam, Germany, March 27.
-
-- Parker, D., **Lago, S.**, & Phillips, C. Retrieval Interference in the Resolution of Anaphoric PRO. Poster at CUNY, New York, March 14–16.
-
-
-
-2011
-----
-
-.. class:: year-list
-
-- **Lago, S.**, Alcocer, P., & Phillips, C. Agreement attraction in Spanish: Immediate vs. Delayed sensitivity. Poster at CUNY, Stanford, California, March 24–26.
-
-- **Lago, S.**, Chow, W.Y., & Phillips, C. Word frequency affects pronouns and antecedents identically: Distributional Evidence. Talk at CUNY, Stanford, California, March 24–26.
-
-
-2010
-----
-
-.. class:: year-list
-
-- **Lago, S.**, Kronrod, Y., Scharinger, M., & Idsardi, W. Categorical perception of /s/ and /ʃ/? An MMN study. Poster at Neurobiology of Language Conference. San Diego, California, November 11–12.
-
-
-
