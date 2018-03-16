@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from 'utils.html' import translation_button %}
+{% from 'utils.html' import translation_button, button_link %}
 
 {% block title %}{{ article.title|striptags }} | {{ super() }}{% endblock title %}
 
@@ -21,7 +21,11 @@
         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
         {% endfor %}
         {% endif %}</p>
-        {{ translation_button(article) }}
+        {% if article.in_default_lang %}
+          {{ translation_button(article) }}
+        {% else %}
+          {{ button_link("blog/" + article.slug + ".html", "Read English Version") }}
+        {% endif %}
         <p>{{ article.content }}</p>
       </section>
     </div>
