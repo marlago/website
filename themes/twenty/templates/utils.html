@@ -48,8 +48,12 @@
 </section>
 {% endmacro %}
 
+{% macro button_link(href, text) %}
+  <a href="{{ SITEURL }}/{{ href }}" class="button">{{ text }}</a>
+{% endmacro %}
+
 {% macro translation_button(article) %}
   {% if article.translations %}
-    <a href="{{ SITEURL }}/{{ article.translations[0].url }}" class="button"> Read Spanish Version </a>
+    {{ button_link(article.translations[0].url, "Read Spanish Version") }}
   {% endif %}
 {% endmacro %}
