@@ -19,7 +19,7 @@ Publications
 
 - **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*2017*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition, 43, 5, 795–817. doi: 10.1037/xlm0000343.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
-- Jacob, G., **Lago, S.**, & Patterson, C. (2016). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
+- Jacob, G., **Lago, S.**, & Patterson, C. (2016). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*, 20, 4, 691–693. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
 
 - Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. `[pdf] <{filename}/pubs/Marijuan_Lago_Sanz_2016.pdf>`__
 
@@ -29,7 +29,7 @@ Publications
 
 - **Lago, S.**, Scharinger, M., Kronrod, Y., & Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. *Brain and Language*, 143, 52–58. `[pdf] <{filename}/pubs/Lago_etal_Fricatives_2015.pdf>`__
 
-- Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. *PLoS ONE*, 9,6, 1–11. `[link] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`__
+- Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. *PLoS ONE*, 9, 6, 1–11. `[link] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`__
 
 - Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83. `[link] <http://www.revel.inf.br/files/16cb3716686645c4465e3db2244ad03a.pdf>`__
 

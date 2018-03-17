@@ -2,7 +2,7 @@
 Title: Why I write
 Date: 2016-02-24
 blurb: >
-  Hi there! This is my first post
+  Hi there! This is my first post.
 ---
 
 ![avatar]({filename}/images/sol_avatar.png){:align="left"}
