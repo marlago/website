@@ -15,7 +15,7 @@ contact_info:
   email: marlago [at] uni-potsdam.de
   address:
     - Campus Golm
-    - Haus 14
+    - House 14, office 2.14
     - Karl-Liebknecht-Str. 24/25
     - 14476 Potsdam
     - Germany
