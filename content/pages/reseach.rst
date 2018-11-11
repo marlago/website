@@ -7,21 +7,22 @@ Publications
 
 .. class:: default
 
-- **Lago, S.**, Namyst, A., Jäger, L., & Lau, E. (*in prep*). ERP semantic priming effects in the processing of coreference.
 
 - Arslan, S., **Lago, S.**, Yanılmaz, A., Drury, J.E., & Felser, C. (*submitted*). The processing of negative polarity items in Turkish-German bilinguals.
 
-- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*submitted*). The interpretation of anaphors in heritage Turkish speakers. 
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*in revision*). The interpretation of anaphors in heritage Turkish speakers. 
 
-- **Lago, S.**, Stutter Garcia, A., & Felser, C. (*accepted*). The role of native and non-native grammars in the comprehension of possessive pronouns. `[preprint + data] <https://osf.io/v72gu/>`__
+- **Lago, S.**, Namyst, A., Jäger, L., & Lau, E. (*in revision*). Antecedent access mechanisms in pronoun processing: evidence from the N400.
+
+- **Lago, S.**, Stutter Garcia, A., & Felser, C. (2018). The role of native and non-native grammars in the comprehension of possessive pronouns. *Second Language Research*. DOI: 10.1177/0267658318770491. `[preprint + data] <https://osf.io/v72gu/>`__
 
 - **Lago, S.**, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (2018). Straight from the horse's mouth: agreement attraction effects with Turkish possessors. *Linguistic Approaches to Bilingualism*. DOI: 10.1075/lab.17019.lag. `[preprint + data] <https://osf.io/5esbn>`__
 
-- **Lago, S.**, & Felser, C. (*in press*). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics*, 39, 3, 619–647. DOI: 10.1017/S0142716417000601. `[preprint + data] <https://osf.io/bj2yq/>`__
+- **Lago, S.**, & Felser, C. (2018). Agreement attraction in native and non-native speakers of German. *Applied Psycholinguistics*, 39, 3, 619–647. DOI: 10.1017/S0142716417000601. `[preprint + data] <https://osf.io/bj2yq/>`__
 
-- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*2017*). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. DOI: 10.1007/s10936-017-9502-2. `[preprint + data] <https://osf.io/k9tfa/>`__
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (2017). The interaction of contextual and syntactic information in the processing of Turkish anaphors. *Journal of Psycholinguistic Research*, 46, 6, 1397–1425. DOI: 10.1007/s10936-017-9502-2. `[preprint + data] <https://osf.io/k9tfa/>`__
 
-- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*2017*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition, 43, 5, 795–817. DOI: 10.1037/xlm0000343.* `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
+- **Lago, S.**, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C. (*2017*). Coreference and antecedent representation across languages. *Journal of Experimental Psychology:  Learning, Memory, and Cognition*, 43, 5, 795–817. DOI: 10.1037/xlm0000343. `[pdf] <{filename}/pubs/Lago_etal_Coreference_2017.pdf>`__
 
 - Jacob, G., **Lago, S.**, & Patterson, C. (2016). L2 processing and memory retrieval: Some empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article entitled “Parsing and working memory in bilingual sentence processing”. *Bilingualism: Language and Cognition*, 20, 4, 691–693. DOI: 10.1017/S1366728916000948. `[pdf] <{filename}/pubs/Jacob_Lago_Patterson_2016.pdf>`__
 
@@ -42,6 +43,8 @@ Invited Talks
 =============
 
 .. class:: default
+
+- **Lago, S**. (2018). The role of multilingual grammars in pronoun processing. Talk at Institut für Romanische Sprachen und Literaturen, Goethe-Universität, July 3.
 
 - **Lago, S.** (2017). What can agreement attraction tell us about bilingual processing? Talk at University of Geneva, December 4.
 

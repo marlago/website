@@ -34,6 +34,11 @@ Workshops
 .. class:: default
 
 
+- **Running psycholinguistic studies online: Ibex Farm**
+
+  August 2018. Instructor, workshop at the University of Potsdam
+
+
 - **LingPhil course in reading and visual world eye-tracking**
 
   October 2017. Instructor, workshop at The Arctic University of Norway
