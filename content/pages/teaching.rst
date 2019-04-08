@@ -7,6 +7,15 @@ Courses
 
 .. class:: default
 
+- **Empirical research on language variation**
+
+  Summer 2019. Instructor, master's seminar at Goethe University Frankfurt
+
+
+- **Spanish and Bilingualism (Español y bilingüismo)**
+
+  Summer 2019. Instructor, bachelor seminar at Goethe University Frankfurt
+
 
 - **Multilingual Research (Mehrsprachigkeitsforschung)**
 

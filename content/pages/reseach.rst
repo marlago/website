@@ -7,12 +7,13 @@ Publications
 
 .. class:: default
 
+- Avetisyan, S., **Lago, S.**, & Vasishth, S. (*submitted*). Does case-marking affect subject-verb agreement attraction in sentence comprehension?
 
-- Arslan, S., **Lago, S.**, Yanılmaz, A., Drury, J.E., & Felser, C. (*submitted*). The processing of negative polarity items in Turkish-German bilinguals.
+- **Lago, S.**, Namyst, A., Jäger, L., & Lau, E. (2019). Antecedent access mechanisms in pronoun processing: evidence from the N400. *Language, Cognition, & Neuroscience*, 34, 5, 641–661. DOI: 10.1080/23273798.2019.1566561. `[preprint + data] <https://osf.io/e8nyu/>`__
 
-- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (*in revision*). The interpretation of anaphors in heritage Turkish speakers. 
+- Gračanin-Yuksek, M., **Lago, S.**, Şafak, D. F., Demir, O., & Kırkıcı, B. (2019). The interpretation of anaphors in heritage Turkish speakers. *Second Language Research*. `[preprint + data] <https://osf.io/mqp7w/>`__ 
 
-- **Lago, S.**, Namyst, A., Jäger, L., & Lau, E. (*in revision*). Antecedent access mechanisms in pronoun processing: evidence from the N400.
+- Arslan, S., **Lago, S.**, Yanılmaz, A., Drury, J.E., & Felser, C. (2019). The processing of negative polarity items in Turkish-German bilinguals. In P. Guijarro-Fuentes & C. Suárez-Gómez (eds.) *Proceedings of GALA 13: Language Acquisition and Development* (pp. 117–133). Cambridge Scholars Publishing. `[preprint + data] <https://osf.io/6sf2r/>`__
 
 - **Lago, S.**, Stutter Garcia, A., & Felser, C. (2018). The role of native and non-native grammars in the comprehension of possessive pronouns. *Second Language Research*. DOI: 10.1177/0267658318770491. `[preprint + data] <https://osf.io/v72gu/>`__
 
@@ -39,29 +40,3 @@ Publications
 - Muñoz Perez, C., & **Lago, S.** (2012). An asymmetry in the production of relative clauses: a study in Argentinian Spanish. *Revista Virtual de Estudos da Linguagem*, 10,18, 64–83. `[link] <http://www.revel.inf.br/files/16cb3716686645c4465e3db2244ad03a.pdf>`__
 
 
-Invited Talks
-=============
-
-.. class:: default
-
-- **Lago, S**. (2018). The role of multilingual grammars in pronoun processing. Talk at Institut für Romanische Sprachen und Literaturen, Goethe-Universität, July 3.
-
-- **Lago, S.** (2017). What can agreement attraction tell us about bilingual processing? Talk at University of Geneva, December 4.
-
-- **Lago, S.** (2017). Processing agreement in Romance and Germanic languages. Talk at Institut für Romanische Sprachen und Literaturen, Goethe Universität, May 29.
-
-- **Lago, S.** (2017). Multilingual grammars: is more better? Talk at College of William & Mary, Williamsburg, March 27.
-
-- **Lago, S.** (2016). Grammar in the multilingual mind. Talk at Universität Mannheim, Mannheim, September 12.
-
-- **Lago, S.** (2015). N400 semantic effects during pronoun resolution. Talk at University of Maryland, College Park, March 13.
-
-- **Lago, S.** (2013). Back to the Future: memory and prediction in sentence comprehension. Talk at Instituto de Ciencias Humanas, Sociales y Ambientales, Mendoza, August 12.
-
-- **Lago, S.** (2012). Memory and interference: number attraction in Spanish. Talk at Laboratorio de Biología del Comportamiento, Buenos Aires, July 25.
-
-- **Lago, S.** (2012). Frequency effects in pronoun processing. Talk at Laboratorio de Neurociencia Integrativa, Buenos Aires, July 23.
-
-- Parker, D., **Lago, S.**, & Phillips, C. (2012). When subjects go missing: Antecedent retrieval in adjunct control. Talk at the workshop "Where is c-command? Relational structure in parsing long-distance dependencies", University of Massachusetts, Amherst. May 16.
-
-- **Lago, S.** (2010). Agreement errors in Argentinian Spanish. Talk at University of Buenos Aires Linguistics Institute, Buenos Aires, July 7.

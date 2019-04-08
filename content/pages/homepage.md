@@ -5,19 +5,18 @@ save_as: index.html
 Template: homepage
 contact_info:
   picture_src: /images/AboutPic.jpg
-  job_title: Postdoctoral researcher
+  job_title: Assistant professor 
   employer: 
-    name: Department Linguistik
-    URL: http://www.uni-potsdam.de/ling/index.html
+    name: Institute for Romance Languages and Literatures
+    URL: https://www.uni-frankfurt.de/43219557/Institut
     additional_info:
-      - Universität Potsdam
+      - Goethe University Frankfurt
   CV: /pubs/SLago_CV.pdf
-  email: marlago [at] uni-potsdam.de
+  email: sollago [at] em.uni-frankfurt.de
   address:
-    - Campus Golm
-    - House 14, office 2.14
-    - Karl-Liebknecht-Str. 24/25
-    - 14476 Potsdam
+    - IG, office 5.215
+    - Norbert-Wollheim-Platz 1
+    - 60629 Frankfurt am Main
     - Germany
 ---
 
@@ -29,6 +28,9 @@ I study sentence comprehension in native and non-native speakers across differen
 ### Background
 
 <ul>
+   <li>
+    <span class="background-year">2019</span> Assistant professor, Goethe University Frankfurt
+  </li>
   <li>
     <span class="background-year">2017</span> Postdoctoral researcher (Eigene Stelle), University of Potsdam
   </li>
