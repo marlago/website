@@ -2,7 +2,7 @@ Research
 ########
 
 
-Articles in preparation
+Articles in progress
 =======================
 
 .. class:: default
@@ -10,6 +10,10 @@ Articles in preparation
 - Paape, D., Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in preparation*). Misretrieval and feature substitution in agreement attraction: A computational evaluation.
 
 - von der Malsburg, T., **Lago, S.**, & Schäfer, R. (*in preparation*). Agreement attraction in German SOV constructions: An ERP investigation.
+
+- Stone, K., **Lago, S.**, & Schad, D.  (*submitted*). Divergence point analyses of visual world data: applications to bilingual research. `[preprint + data] <https://osf.io/exbmk/>`__
+
+- Mertzen, D., **Lago, S.**, & Vasishth, S. (*submitted*). The benefits of preregistration for hypothesis-driven bilingualism research.
 
 
 2020

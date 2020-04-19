@@ -22,7 +22,7 @@ contact_info:
 
 ### About
 
-I study sentence comprehension in native and non-native speakers of different languages. My goal is to figure out how humans represent and use grammatical knowledge, and how their knowledge changes when they are exposed to a new language. I use eye-tracking, neurophysiological and crosslinguistic evidence with the goal of building cognitive models of the representations and processes that underlie real-time language processing.
+I study sentence comprehension in native and non-native speakers of different languages. My goal is to figure out how humans represent and use grammatical knowledge, and how their knowledge changes when they are exposed to a new language. I use eye-tracking, neurophysiological and crosslinguistic evidence to build cognitive models of the representations and processes that underlie real-time language processing.
 
 
 ### Background
