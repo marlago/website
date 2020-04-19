@@ -7,21 +7,27 @@ Articles in preparation
 
 .. class:: default
 
+- Paape, D., Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in preparation*). Misretrieval and feature substitution in agreement attraction: A computational evaluation.
+
 - von der Malsburg, T., **Lago, S.**, & Schäfer, R. (*in preparation*). Agreement attraction in German SOV constructions: An ERP investigation.
 
-- Paape, D., Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in preparation*). Modeling misretrieval and feature substitution in agreement attraction.
 
-- Pañeda, C., **Lago, S.**, Vares, E., Veríssimo, J., & Felser, C. (*in revision*). Island effects in Spanish comprehension.
+2020
+====
+.. class:: default
 
-- Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in revision*). Does case-marking affect subject-verb agreement attraction in sentence comprehension?
+- **Lago, S.**, Stutter Garcia, A., & Mosca, M. (2020). The role of crosslinguistic influence in multilingual processing: Lexicon vs. syntax. *Language Learning (Currents in Language Learning Series)*. `[preprint] <https://osf.io/zp4jf/>`__
 
-- **Lago, S.**, Stutter Garcia, A., & Mosca, M. (*submitted*). What’s special about multilingual processing? *Currents in Language Learning Series*.
+- Avetisyan, S., **Lago, S.**, & Vasishth, S. (2020). Does case-marking affect subject-verb agreement attraction in sentence comprehension? *Journal of Memory and Language*, 112. DOI: 10.1016/j.jml.2020.104087. `[preprint + data] <https://osf.io/ye98q/>`__
+
+- Pañeda, C., **Lago, S.**, Vares, E., Veríssimo, J., & Felser, C. (2020). Island effects in Spanish comprehension. *Glossa: A Journal of General Linguistics*, 5, 1, 21. DOI: 10.5334/gjgl.1058. `[paper] <https://www.glossa-journal.org/articles/10.5334/gjgl.1058/>`__ `[data] <https://osf.io/ckxaw/>`__
+
 
 2019
 ====
 .. class:: default
 
-- **Lago, S.**, Namyst, A., Jäger, L., & Lau, E. (2019). Antecedent access mechanisms in pronoun processing: evidence from the N400. *Language, Cognition, & Neuroscience*, 34, 5, 641–661. DOI: 10.1080/23273798.2019.1566561. `[preprint + data] <https://osf.io/e8nyu/>`__
+- **Lago, S.**, Namyst, A., Jäger, L., & Lau, E. (2019). Antecedent access mechanisms in pronoun processing: evidence from the N400. *Language, Cognition, & Neuroscience*, 34, 5, 641–661. DOI: 10.1080/23273798.2019.1566561. `[paper] <https://www.tandfonline.com/doi/full/10.1080/23273798.2019.1566561>`__ `[data] <https://osf.io/e8nyu/>`__
 
 - **Lago, S.**, Stutter Garcia, A., & Felser, C. (2019). The role of native and non-native grammars in the comprehension of possessive pronouns. *Second Language Research*, 35, 3, 319–349. DOI: 10.1177/0267658318770491. `[preprint + data] <https://osf.io/v72gu/>`__
 

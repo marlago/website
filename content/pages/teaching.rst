@@ -7,6 +7,11 @@ Courses
 
 .. class:: default
 
+- **Eye-tracking in Language Processing**
+
+  Instructor, master's seminar at *Goethe University Frankfurt*
+
+
 - **Empirical research on language variation**
 
   Instructor, master's seminar at *Goethe University Frankfurt*
@@ -48,6 +53,10 @@ Workshops
 -------------------
 
 .. class:: default
+
+- **Job interviews in academia and industry**
+
+  Instructor, workshop at *University of Potsdam*
 
 
 - **Running psycholinguistic studies online: Ibex Farm**
