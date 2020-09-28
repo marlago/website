@@ -7,22 +7,22 @@ Articles in progress
 
 .. class:: default
 
-- Paape, D., Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in preparation*). Misretrieval and feature substitution in agreement attraction: A computational evaluation.
+- **Lago, S.**, Acuña Fariña, C., & Meseguer, E.  (*in revision*). The reading signatures of agreement attraction.
 
-- von der Malsburg, T., **Lago, S.**, & Schäfer, R. (*in preparation*). Agreement attraction in German SOV constructions: An ERP investigation.
+- Paape, D., Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in revision*). Misretrieval and feature substitution in agreement attraction: A computational evaluation.
 
-- Stone, K., **Lago, S.**, & Schad, D.  (*submitted*). Divergence point analyses of visual world data: applications to bilingual research. `[preprint + data] <https://osf.io/exbmk/>`__
-
-- Mertzen, D., **Lago, S.**, & Vasishth, S. (*submitted*). The benefits of preregistration for hypothesis-driven bilingualism research.
+- Mertzen, D., **Lago, S.**, & Vasishth, S. (*in revision*). The benefits of preregistration for hypothesis-driven bilingualism research. `[preprint] <https://osf.io/5ab7d/>`__
 
 
 2020
 ====
 .. class:: default
 
-- **Lago, S.**, Stutter Garcia, A., & Mosca, M. (2020). The role of crosslinguistic influence in multilingual processing: Lexicon vs. syntax. *Language Learning (Currents in Language Learning Series)*. `[preprint] <https://osf.io/zp4jf/>`__
+- Stone, K., **Lago, S.**, & Schad, D. (2020). Divergence point analyses of visual world data: applications to bilingual research. `[preprint + data] <https://osf.io/exbmk/>`__
 
-- Avetisyan, S., **Lago, S.**, & Vasishth, S. (2020). Does case-marking affect subject-verb agreement attraction in sentence comprehension? *Journal of Memory and Language*, 112. DOI: 10.1016/j.jml.2020.104087 `[preprint + data] <https://osf.io/ye98q/>`__
+- **Lago, S.**, Stutter Garcia, A., & Mosca, M. (2020). The role of crosslinguistic influence in multilingual processing: Lexicon vs. syntax. *Language Learning*. DOI:10.1111/lang.12412 `[paper] <https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12412>`__
+
+- Avetisyan, S., **Lago, S.**, & Vasishth, S. (2020). Does case-marking affect subject-verb agreement attraction in sentence comprehension? *Journal of Memory and Language*, 112. DOI: 10.1016/j.jml.2020.104087 `[paper] <https://www.sciencedirect.com/science/article/pii/S0749596X20300012>`__ `[data] <https://osf.io/ye98q/>`__
 
 - Pañeda, C., **Lago, S.**, Vares, E., Veríssimo, J., & Felser, C. (2020). Island effects in Spanish comprehension. *Glossa: A Journal of General Linguistics*, 5, 1, 21. DOI: 10.5334/gjgl.1058 `[paper] <https://www.glossa-journal.org/articles/10.5334/gjgl.1058/>`__ `[data] <https://osf.io/ckxaw/>`__
 

@@ -17,21 +17,26 @@ Courses
   Instructor, master's seminar at *Goethe University Frankfurt*
 
 
-- **Spanish and Bilingualism (Español y bilingüismo)**
-
-  Instructor, bachelor seminar at *Goethe University Frankfurt*
-
-
-- **Spanish Bilingualism and Education (Español, bilingüismo y educación)**
-
-  Instructor, bachelor seminar at *Goethe University Frankfurt*
-
-
-- **Multilingual Research (Mehrsprachigkeitsforschung)**
-
-  Instructor, bachelor seminar at *University of Potsdam*
+- **Multilingual Research**
 
   Instructor, master's seminar at *Goethe University Frankfurt*
+  
+  Instructor, bachelor seminar at *University of Potsdam*
+
+
+- **Bases cognitivas del aprendizaje [Cognitive Foundations of Learning]**
+
+  Instructor, bachelor seminar at *Goethe University Frankfurt*
+
+
+- **Español y bilingüismo [Spanish and Bilingualism]**
+
+  Instructor, bachelor seminar at *Goethe University Frankfurt*
+
+
+- **Español, bilingüismo y educación [Spanish Bilingualism and Education]**
+
+  Instructor, bachelor seminar at *Goethe University Frankfurt*
 
 
 - **Memory & Language Processing**
@@ -59,12 +64,12 @@ Workshops
   Instructor, workshop at *University of Potsdam*
 
 
-- **Running psycholinguistic studies online: Ibex Farm**
+- **Running psycholinguistic studies online with Ibex Farm**
 
   Instructor, workshop at *University of Potsdam*
 
 
-- **LingPhil course in reading and visual world eye-tracking**
+- **Reading and visual world eye-tracking**
 
   Instructor, workshop at *The Arctic University of Norway*
 
