@@ -7,20 +7,25 @@ Articles in progress
 
 .. class:: default
 
+- Stone, K., Veríssimo, J., Schad, D., Oltrogge, E., Vasishth, S., & **Lago, S**. (*submitted*). The interaction of grammatically distinct agreement dependencies in predictive processing.
+
 - **Lago, S.**, Acuña Fariña, C., & Meseguer, E.  (*in revision*). The reading signatures of agreement attraction.
 
 - Paape, D., Avetisyan, S., **Lago, S.**, & Vasishth, S. (*in revision*). Misretrieval and feature substitution in agreement attraction: A computational evaluation.
 
-- Mertzen, D., **Lago, S.**, & Vasishth, S. (*in revision*). The benefits of preregistration for hypothesis-driven bilingualism research. `[preprint] <https://osf.io/5ab7d/>`__
+
+- Mertzen, D., **Lago, S.**, & Vasishth, S. (*accepted*). The benefits of preregistration for hypothesis-driven bilingualism research. `[preprint] <https://osf.io/5ab7d/>`__
+
+- **Lago, S.** (*accepted*). Some challenges of relating wholesale transfer approaches to L3 linguistic behavior. Commentary on Schwartz and Sprouse’s keynote article entitled “The Full Transfer/Full Access model and L3 cognitive states”. *Linguistic Approaches to Bilingualism*.
 
 
 2020
 ====
 .. class:: default
 
-- Stone, K., **Lago, S.**, & Schad, D. (2020). Divergence point analyses of visual world data: applications to bilingual research. `[preprint + data] <https://osf.io/exbmk/>`__
-
 - **Lago, S.**, Stutter Garcia, A., & Mosca, M. (2020). The role of crosslinguistic influence in multilingual processing: Lexicon vs. syntax. *Language Learning*. DOI:10.1111/lang.12412 `[paper] <https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12412>`__
+
+- Stone, K., **Lago, S.**, & Schad, D. (2020). Divergence point analyses of visual world data: applications to bilingual research. *Bilingualism: Language and Cognition*, 1–9. DOI:10.1017/S1366728920000607 `[paper] <https://onlinelibrary.wiley.com/doi/full/10.1111/lang.12412>`__ `[data] <https://osf.io/exbmk/>`__
 
 - Avetisyan, S., **Lago, S.**, & Vasishth, S. (2020). Does case-marking affect subject-verb agreement attraction in sentence comprehension? *Journal of Memory and Language*, 112. DOI: 10.1016/j.jml.2020.104087 `[paper] <https://www.sciencedirect.com/science/article/pii/S0749596X20300012>`__ `[data] <https://osf.io/ye98q/>`__
 
@@ -66,8 +71,8 @@ Articles in progress
 
 - Marijuan, S., **Lago, S.**, & Sanz, C. (2016). Can English-Spanish emerging bilinguals use agreement morphology to overcome word order bias? In Tyler, A. E., Ortega, L., & Uno, M. (Eds.). *Usage-based approaches to language, language learning, and multilingualism*. Washington, DC: Georgetown University Press. ISBN: 9781626163249 `[paper] <{filename}/pubs/Marijuan_Lago_Sanz_2016.pdf>`__
 
-2015
-====
+2015 and before
+===============
 .. class:: default
 
 - **Lago, S.**, Shalom, D., Sigman, M., Lau, E., & Phillips, C. (2015). Agreement attraction in Spanish comprehension. *Journal of Memory and Language*, 82, 133–149. DOI: 10.1016/j.jml.2015.02.002 `[preprint + data] <https://osf.io/5rm3z>`__
@@ -75,11 +80,6 @@ Articles in progress
 - Parker, D., **Lago, S.**, & Phillips, C. (2015). Interference in the processing of adjunct control. *Frontiers in Psychology*, 6:1346. DOI: 10.3389/fpsyg.2015.01346 `[paper] <http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01346/full>`__
 
 - **Lago, S.**, Scharinger, M., Kronrod, Y., & Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. *Brain and Language*, 143, 52–58. DOI: 10.1016/j.bandl.2015.02.003 `[paper] <{filename}/pubs/Lago_et_al_2015.pdf>`__
-
-
-2014 and before
-===============
-.. class:: default
 
 - Chow, W.Y., **Lago, S.**, Barrios, S., Parker, D., Morini, G., & Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. *PLoS ONE*, 9(6): e99199. DOI: 10.1371/journal.pone.0099199 `[paper] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099199>`__
 

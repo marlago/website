@@ -7,7 +7,7 @@ Courses
 
 .. class:: default
 
-- **Eye-tracking in Language Processing**
+- **Eye-tracking in language processing**
 
   Instructor, master's seminar at *Goethe University Frankfurt*
 
@@ -17,29 +17,29 @@ Courses
   Instructor, master's seminar at *Goethe University Frankfurt*
 
 
-- **Multilingual Research**
+- **Multilingual research**
 
   Instructor, master's seminar at *Goethe University Frankfurt*
   
   Instructor, bachelor seminar at *University of Potsdam*
 
 
-- **Bases cognitivas del aprendizaje [Cognitive Foundations of Learning]**
+- **Bases cognitivas del aprendizaje [Cognitive foundations of learning]**
 
   Instructor, bachelor seminar at *Goethe University Frankfurt*
 
 
-- **Español y bilingüismo [Spanish and Bilingualism]**
+- **Español y bilingüismo [Spanish and bilingualism]**
 
   Instructor, bachelor seminar at *Goethe University Frankfurt*
 
 
-- **Español, bilingüismo y educación [Spanish Bilingualism and Education]**
+- **Español, bilingüismo y educación [Spanish, bilingualism and education]**
 
   Instructor, bachelor seminar at *Goethe University Frankfurt*
 
 
-- **Memory & Language Processing**
+- **Memory & language processing**
 
   Instructor, bachelor seminar at *University of Maryland*
 
@@ -49,7 +49,7 @@ Courses
   Teaching assistant, bachelor course at *University of Maryland*
 
 
-- **Introduction to Language**
+- **Introduction to language**
 
   Teaching assistant, bachelor course at *University of Maryland*
 
@@ -79,12 +79,12 @@ Workshops
   Instructor, workshop at *University of Maryland*
 
 
-- **Using Electro- and Magnetoencephalography in Psycholinguistics**
+- **Using electro- and magnetoencephalography in psycholinguistics**
 
   Instructor, workshop at *Gallaudet University*
 
 
-- **An introduction to Magnetoencephalography**
+- **An introduction to magnetoencephalography**
 
   Instructor, workshop at *University of Maryland*
 
