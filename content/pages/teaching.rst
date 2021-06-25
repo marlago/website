@@ -7,6 +7,11 @@ Courses
 
 .. class:: default
 
+- **Experimental methods in language acquisition and processing**
+
+  Instructor, master's seminar at *Goethe University Frankfurt*
+  
+
 - **Eye-tracking in language processing**
 
   Instructor, master's seminar at *Goethe University Frankfurt*
